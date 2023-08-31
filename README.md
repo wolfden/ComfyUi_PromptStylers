@@ -69,6 +69,8 @@ After restart you should see a new submenu Style Prompts - click on the desired 
 
 ![SDXL Prompt Styler Screenshot](examples/menuprompt.png)
 
+Thanks to Three Headed Monkey in Discord of AI Revolution discord.gg/rXFmn3gaAc for the hard work with producing most of the various styles
+
 ### Inputs
 
 * **text_positive** - text for the positive base prompt G
