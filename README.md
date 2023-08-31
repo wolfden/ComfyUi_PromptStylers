@@ -1,6 +1,6 @@
-SDXL Prompt Styler
+SDXL Prompt Styler all credits to twri/sdxl_prompt_styler ```https://github.com/twri/sdxl_prompt_styler```
 =======
-Custom node for ComfyUI
+Custom node for ComfyUI that I organized and customized to my needs.
 -----------
 ![SDXL Prompt Styler Screenshot](examples/sdxl_prompt_styler.png)
 
@@ -40,7 +40,9 @@ breathtaking a futuristic pop up tent in a forest . award-winning, professional,
 ugly, deformed, noisy, blurry, distorted, grainy, dark
 ```
 
-### Installation
+### Installation of the Original SDXL Prompt Styler by twri/sdxl_prompt_styler (Optional)
+
+For the Original SDXL Prompt Styler
 
 To install and use the SDXL Prompt Styler nodes, follow these steps:
 
@@ -51,6 +53,17 @@ To install and use the SDXL Prompt Styler nodes, follow these steps:
 4. Restart ComfyUI.
 
 This command clones the SDXL Prompt Styler repository into your `ComfyUI/custom_nodes/` directory. You should now be able to access and use the nodes from this repository.
+
+### Installation of my customized version
+1. Open a terminal or command line interface.
+2. Navigate to the `ComfyUI/custom_nodes/` directory.
+3. Run the following command:
+```git clone https://github.com/wolfden/ComfyUi_PromptStylers.git```
+4. Restart ComfyUI.
+
+This command clones the my repository into your `ComfyUI/custom_nodes/` directory. You should now be able to access and use the nodes from this repository.
+
+
 
 ### Inputs
 
