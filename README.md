@@ -1,5 +1,7 @@
-SDXL Prompt Styler all credits to twri/sdxl_prompt_styler ```https://github.com/twri/sdxl_prompt_styler```
+SDXL Prompt Styler 
 =======
+All credits to twri/sdxl_prompt_styler ```https://github.com/twri/sdxl_prompt_styler```
+-----------
 Custom node for ComfyUI that I organized and customized to my needs.
 -----------
 ![SDXL Prompt Styler Screenshot](examples/sdxl_prompt_styler.png)
