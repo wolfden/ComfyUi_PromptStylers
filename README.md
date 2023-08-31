@@ -44,7 +44,7 @@ ugly, deformed, noisy, blurry, distorted, grainy, dark
 
 ### Installation of the Original SDXL Prompt Styler by twri/sdxl_prompt_styler (Optional)
 
-For the Original SDXL Prompt Styler
+(Optional) For the Original SDXL Prompt Styler
 
 To install and use the SDXL Prompt Styler nodes, follow these steps:
 
