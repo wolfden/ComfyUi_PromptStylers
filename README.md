@@ -65,7 +65,9 @@ This command clones the SDXL Prompt Styler repository into your `ComfyUI/custom_
 
 This command clones the my repository into your `ComfyUI/custom_nodes/` directory. You should now be able to access and use the nodes from this repository.
 
+After restart you should see a new submenu Style Prompts - click on the desired style and the node will appear in your workflow
 
+![SDXL Prompt Styler Screenshot](examples/menuprompt.png)
 
 ### Inputs
 
