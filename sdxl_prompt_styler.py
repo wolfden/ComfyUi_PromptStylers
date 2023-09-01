@@ -839,7 +839,7 @@ NODE_CLASS_MAPPINGS = {
     "SDXLPromptStylerbyFocus": SDXLPromptStylerbyFocus,
     "SDXLPromptStylerHorror": SDXLPromptStylerHorror,
     "SDXLPromptStylerbyLighting": SDXLPromptStylerbyLighting,
-    "SDXLPromptStylerMileHigh": SDXLPromptStylerMileHigh,
+    "SDXLPromptStylerbyMileHigh": SDXLPromptStylerbyMileHighMileHigh,
     "SDXLPromptStylerMisc": SDXLPromptStylerMisc,
     "SDXLPromptStylerbyMood": SDXLPromptStylerbyMood,
     "SDXLPromptStylerbyOriginal": SDXLPromptStylerbyOriginal,
