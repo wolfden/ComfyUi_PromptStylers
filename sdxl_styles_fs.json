@@ -1,0 +1,132 @@
+[
+    {
+        "name": "none byFantasy-Settings",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+	{
+        "name": "Atlantis",
+        "prompt": "A lost city of great wisdom and power, now drowned beneath the sea",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+	},
+	{
+        "name": "Enchanted Forest",
+        "prompt": "An enchanted forest where magical creatures and plants abound, shrouded in an aura of enchantment, where ancient trees whisper secrets, mythical creatures roam, and the very air seems to vibrate with untold magic.",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Fairyland",
+        "prompt": "A place where fairies and other magical creatures live, a whimsical and enchanting realm  ethereal beauty, and endless adventures where the ordinary meets the extraordinary",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Fairytale",
+        "prompt": "A fairytale land where magical creatures live and thrive",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+    {
+        "name": "Foreboding Castle",
+        "prompt": "A dark, foreboding castle where a wicked queen reigns",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Middle Earth",
+        "prompt": "A vast and ancient world, home to Elves, Dwarves, Hobbits, and Wizards",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Magical Kingdom",
+        "prompt": "A magical kingdom where everything is perfect and everyone is happy",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Mordor",
+        "prompt": "A dark and evil land ruled by the dark lord Sauron, volcanic landscapes, oppressive darkness,",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Narnia",
+        "prompt": "A land of talking animals and magical creatures, ruled by Aslan the lion",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Neverland",
+        "prompt": ":A lost island where children can stay forever young",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Shambhala",
+        "prompt": "A hidden paradise where enlightened beings live in perfect harmony",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Crystal Cave",
+        "prompt": "A fantastical place where gemstones and crystals grow in abundance",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Dragon's Lair",
+        "prompt": "A deadly place where fearsome dragons dwell",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Forest of Mirrors",
+        "prompt": "A place where reality is distorted and nothing is as it seems",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Island of Dreams",
+        "prompt": "A place where all your deepest desires come true",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Kingdom of the Unicorn",
+        "prompt": "A mystical realm where these elegant and elusive creatures reign, a land of enchantment and wonder where the very air seems to shimmer with magic",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Palace of Dreams",
+        "prompt": "A surreal and enigmatic literary work by Albanian author Ismail Kadare, where a mysterious government agency interprets citizens' dreams in a totalitarian society, exploring themes of control, surveillance, and the power of the subconscious",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Tower of Oblivion",
+        "prompt": "A stronghold where forgotten secrets and dark magic are hidden",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Vale of Shadows",
+        "prompt": "A dark and foreboding valley where no sunlight ever penetrates",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Valley of the Damned",
+        "prompt": "A forsaken and eerie location, where darkness reigns and the echoes of past transgressions haunt its desolate landscape",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "The Valley of the Lost",
+        "prompt": "A mystical and secluded place shrouded in secrets, where untamed nature meets ancient mysteries waiting to be uncovered",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Tropical Paradise",
+        "prompt": "A tropical paradise where the sun shines brightly every day",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+    {
+        "name": "Oz",
+        "prompt": "A land of enchantment, where anything is possible",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Wonderland",
+        "prompt": "A wild and fantastical place, ruled by the Queen of Hearts",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    },
+	{
+        "name": "Xanadu",
+        "prompt": "A magical kingdom ruled by a wise and benevolent queen",
+        "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
+    }
+]
