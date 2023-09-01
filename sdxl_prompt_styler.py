@@ -858,7 +858,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "SDXLPromptStylerbyFocus": "Prompt Styler Focus",
     "SDXLPromptStylerHorror": "Prompt Styler Horror",
     "SDXLPromptStylerbyLighting": "Prompt Styler Lighting",
-    "SDXLPromptStylerbyMileHigh": Prompt Styler MileHigh,
+    "SDXLPromptStylerbyMileHigh": "Prompt Styler MileHigh",
     "SDXLPromptStylerMisc": "Prompt Styler Misc",
     "SDXLPromptStylerbyMood": "Prompt Styler Mood",
     "SDXLPromptStylerbyOriginal": "Prompt Styler Original",
