@@ -6,7 +6,7 @@
     },
 	{
         "name": "Atlantis",
-        "prompt": "A lost city of great wisdom and power, now drowned beneath the sea",
+        "prompt": "A legendary lost island city of great wisdom and power to have sunk into the ocean, a symbol of advanced, prehistoric civilizations and the subject of countless myths and speculations",
         "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
 	},
 	{
@@ -46,12 +46,12 @@
     },
 	{
         "name": "Narnia",
-        "prompt": "A land of talking animals and magical creatures, ruled by Aslan the lion",
+        "prompt": "A land of talking animals and magical creatures, Fantasy, Wardrobe, Deep Magic, Lion, Witch and Wardrobe",
         "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
     },
 	{
         "name": "Neverland",
-        "prompt": ":A lost island where children can stay forever young",
+        "prompt": "A lost island where children can stay forever young, Peter Pan, fantastical adventures with pirates, fairies, and magical creatures",
         "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
     },
 	{
@@ -116,17 +116,17 @@
     },
     {
         "name": "Oz",
-        "prompt": "A land of enchantment, where anything is possible",
+        "prompt": "A land of enchantment, where anything is possible, Dorothy, Yellow Brick Road, Emerald City, Wicked Witch of the West, Scarecrow, Tin Man, Cowardly Lion, Glinda the Good Witch, Toto",
         "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
     },
 	{
         "name": "Wonderland",
-        "prompt": "A wild and fantastical place, ruled by the Queen of Hearts",
+        "prompt": "A wild and fantastical place, ruled by the Queen of Hearts, Rabbit Hole, Mad Hatter, Cheshire Cat, Tea Party, Jabberwocky, Wonderland Creatures, white rabbit",
         "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
     },
 	{
         "name": "Xanadu",
-        "prompt": "A magical kingdom ruled by a wise and benevolent queen",
+        "prompt": "A magical kingdom ruled by a wise and benevolent queen, Palace, Kubla Khan, Opulence, Chinese Dynasty, Mongol Empire, Gardens",
         "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
     }
 ]

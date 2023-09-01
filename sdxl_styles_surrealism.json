@@ -1,0 +1,108 @@
+[
+    {
+        "name": "none bySurrealism",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+	{
+    "name": "Morning Light on the Seine",
+    "prompt": "Capture the soft, early morning light reflecting on the gentle ripples of the Seine River, creating a tranquil and luminous atmosphere.",
+    "negative_prompt": "Harsh shadows, overworked details, static, dull colors, lack of atmosphere."
+	},
+	{
+		"name": "Fields of Sunflowers in Bloom",
+		"prompt": "Paint a field of sunflowers in full bloom under the radiant sun, with the vibrant yellow petals and their interaction with the light as the main focus.",
+		"negative_prompt": "Flat colors, lack of light and shadow, overly detailed, static composition, unnatural colors."
+	},
+	{
+		"name": "A Rainy Day in the City",
+		"prompt": "Capture the mood and atmosphere of a rainy day in the bustling city, with wet streets reflecting the lights and colors of the urban environment.",
+		"negative_prompt": "Lack of mood, unrealistic colors, sharp edges, overly detailed, static composition."
+	},
+	{
+		"name": "Dappled Sunlight Through Trees",
+		"prompt": "Convey the effect of dappled sunlight filtering through the leaves of a dense forest, creating intricate patterns of light and shadow on the ground.",
+		"negative_prompt": "Flat lighting, lack of atmosphere, unrealistic colors, lack of texture, overly detailed."
+	},
+	{
+		"name": "A Parisian Café Scene",
+		"prompt": "Capture the ambiance of a Parisian café, with people leisurely enjoying coffee and conversation at outdoor tables, emphasizing the play of light and shadow.",
+		"negative_prompt": "Stiff and posed figures, lack of atmosphere, unnatural colors, overly detailed, lack of spontaneity."
+	},
+	{
+		"name": "Impressionistic Self-Portrait",
+		"prompt": "Create a self-portrait in the Impressionist style, using loose brushwork and color to convey your mood and personality.",
+		"negative_prompt": "Lack of character, flat colors, overly detailed, unrealistic portrayal, lack of emotional expression."
+	},
+	{
+		"name": "Harbor at Sunset",
+		"prompt": "Paint a harbor scene at sunset, capturing the warm hues of the setting sun reflecting on the water, boats, and the surrounding environment.",
+		"negative_prompt": "Lack of warmth, harsh lighting, overworked details, lack of atmosphere, static composition."
+	},
+	{
+		"name": "The Dance of Fireflies",
+		"prompt": "Depict a magical night scene in a forest with fireflies illuminating the darkness, creating a sense of enchantment and wonder.",
+		"negative_prompt": "Lack of magic, dull colors, unnatural lighting, overly detailed, lack of ambiance."
+	},
+	{
+		"name": "Ballet Rehearsal Backstage",
+		"prompt": "Capture the backstage atmosphere of a ballet rehearsal, with dancers in various states of preparation and movement, focusing on the interplay of light and shadow.",
+		"negative_prompt": "Lack of backstage atmosphere, static figures, lack of emotion, unrealistic colors, overworked details."
+	},
+	{
+		"name": "Water Lilies in a Pond",
+		"prompt": "Paint a serene pond with water lilies in various stages of bloom, reflecting the changing light and colors of the sky.",
+		"negative_prompt": "Flat water surface, lack of depth, dull colors, overworked details, lack of spontaneity."
+	},
+	{
+		"name": "Winter Morning Frost",
+		"prompt": "Capture the frost-covered landscape of a winter morning, with the delicate frost crystals glistening in the soft morning light.",
+		"negative_prompt": "Lack of frosty atmosphere, harsh lighting, lack of coldness, unrealistic colors, overly detailed."
+	},
+	{
+		"name": "Seaside Cliff at Dawn",
+		"prompt": "Paint a dramatic seascape at dawn, with waves crashing against a rugged cliff, and the first light of day breaking through the clouds.",
+		"negative_prompt": "Lack of drama, static waves, dull lighting, lack of atmosphere, overworked details."
+	},
+	{
+		"name": "Fields of Lavender in Provence",
+		"prompt": "Convey the vibrant beauty of lavender fields in Provence, with rows of lavender plants stretching to the horizon, and the intoxicating scent of lavender in the air.",
+		"negative_prompt": "Lack of fragrance, flat colors, lack of depth, unrealistic colors, overly detailed."
+	},
+	{
+		"name": "Children Playing by the Seashore",
+		"prompt": "Capture the joy and spontaneity of children playing by the seashore, with the shimmering sea and the golden sands as the backdrop.",
+		"negative_prompt": "Lack of playfulness, stiff figures, lack of spontaneity, unrealistic colors, overworked details."
+	},
+	{
+		"name": "Twilight in a Venetian Canal",
+		"prompt": "Paint the enchanting twilight atmosphere in a Venetian canal, with gondolas gliding on the water and the soft glow of lanterns illuminating the scene.",
+		"negative_prompt": "Lack of enchantment, harsh lighting, lack of ambiance, unrealistic colors, overly detailed."
+	},
+	{
+		"name": "The Blooming Cherry Blossoms",
+		"prompt": "Convey the ephemeral beauty of cherry blossoms in full bloom, with delicate pink petals falling like confetti in the gentle breeze.",
+		"negative_prompt": "Lack of delicacy, flat colors, lack of movement, unrealistic colors, overworked details."
+	},
+	{
+		"name": "Sunrise Over a Wheat Field",
+		"prompt": "Capture the serene beauty of a wheat field at sunrise, with the golden wheat swaying in the breeze and the first light of day painting the landscape.",
+		"negative_prompt": "Lack of serenity, harsh lighting, lack of warmth, unrealistic colors, overly detailed."
+	},
+	{
+		"name": "Boating on a Tranquil Pond",
+		"prompt": "Paint the tranquility of a small pond, with a rowboat gently gliding on the calm water, surrounded by lush greenery and reflected skies.",
+		"negative_prompt": "Lack of tranquility, static water, lack of reflection, unrealistic colors, overworked details."
+	},
+	{
+		"name": "Café Terrace at Night",
+		"prompt": "Capture the nocturnal atmosphere of a bustling café terrace at night, with patrons seated at tables, under the soft glow of street lamps and starry skies.",
+		"negative_prompt": "Lack of nocturnal atmosphere, harsh lighting, lack of ambiance, unrealistic colors, overly detailed."
+	},
+	{
+		"name": "A Country Path in Autumn",
+		"prompt": "Convey the rustic beauty of a countryside path in autumn, with colorful leaves carpeting the ground and the soft, golden hues of the autumnal light.",
+		"negative_prompt": "Lack of rustic charm, flat colors, lack of autumnal ambiance, unrealistic colors, overworked details."
+	}
+
+]

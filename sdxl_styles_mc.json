@@ -1,0 +1,107 @@
+[
+    {
+        "name": "none byMythical Creatures",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+	{
+		"name": "The Phoenix of Eternal Flame",
+		"prompt": "A majestic bird with iridescent feathers that resurrects from its ashes, symbolizing rebirth and immortality.",
+		"negative_prompt": "Fragile, colorless, flightless, fragile, mundane."
+	},
+	{
+		"name": "The Enchanted Forest Nymph",
+		"prompt": "A graceful woodland spirit who guards ancient groves and has the power to heal and protect the forest and its creatures.",
+		"negative_prompt": "Distrustful, reclusive, powerless, ghostly, fading."
+	},
+	{
+		"name": "The Leviathan of the Abyss",
+		"prompt": "A colossal sea serpent that dwells in the darkest depths of the ocean, feared for its immense power and ancient wisdom.",
+		"negative_prompt": "Malformed, motionless, feeble, inanimate, insignificant."
+	},
+	{
+		"name": "The Sphinx of Riddles",
+		"prompt": "A creature with the body of a lion, wings of an eagle, and the head of a human, known for challenging travelers with perplexing riddles.",
+		"negative_prompt": "Confused, transparent, muted, uninspiring, predictable."
+	},
+	{
+		"name": "The Faerie Court of Dreams",
+		"prompt": "A realm inhabited by ethereal beings who create dreams and bring enchantment to the mortal world, Woodland, Mystical, Dreams, Glamour, Imagination",
+		"negative_prompt": "Fading, mundane, forgotten, elusive, colorless."
+	},
+	{
+		"name": "The Chimera, Guardian of the Labyrinth",
+		"prompt": "A fearsome creature with the body of a lion, the head of a goat, and the tail of a serpent, guarding the entrance to a treacherous maze.",
+		"negative_prompt": "Powerless, fragmented, unstable, dissonant, shattered."
+	},
+	{
+		"name": "The Griffin of Valor",
+		"prompt": "A noble and majestic creature with the body of a lion and the head of an eagle, symbolizing courage and honor.",
+		"negative_prompt": "Cowardly, misshapen, insignificant, timid, uninspiring."
+	},
+	{
+		"name": "The Banshee, Wailer of Fate",
+		"prompt": "A female spirit known for her mournful wails that foretell impending doom and tragedy.",
+		"negative_prompt": "Silent, unfeeling, insignificant, ignored, fading."
+	},
+	{
+		"name": "The Pegasus, Steed of the Heavens",
+		"prompt": "A winged horse that soars through the skies, representing freedom, grace, and untamed beauty.",
+		"negative_prompt": "Earthbound, clumsy, grounded, mundane, lifeless."
+	},
+	{
+		"name": "The Kraken, Terror of the Deep",
+		"prompt": "A monstrous sea creature with tentacles that drags ships and sailors to the depths, shrouded in legends of the abyss.",
+		"negative_prompt": "Harmless, dormant, transparent, weak, irrelevant."
+	},
+	{
+		"name": "The Seraphim, Celestial Guardians",
+		"prompt": "Majestic beings with multiple wings and fiery auras, tasked with safeguarding the divine realms from dark forces.",
+		"negative_prompt": "Fallen, corrupted, forsaken, powerless, dimly lit."
+	},
+	{
+		"name": "The Gorgon, Petrifying Horror",
+		"prompt": "A monstrous creature with snakes for hair, capable of turning anyone who gazes upon it into stone with a single look.",
+		"negative_prompt": "Blind, feeble, harmless, transparent, pitiful."
+	},
+	{
+		"name": "The Thunderbird, Stormbringer of the Skies",
+		"prompt": "A colossal bird with wings that command the thunder and lightning, revered as a harbinger of storms and renewal.",
+		"negative_prompt": "Caged, grounded, silenced, dormant, mundane."
+	},
+	{
+		"name": "The Kitsune, Shape-shifting Trickster",
+		"prompt": "Cunning fox spirits from Japanese folklore, known for their shape-shifting abilities and mischievous pranks.",
+		"negative_prompt": "Exposed, powerless, mundane, predictable, transparent."
+	},
+	{
+		"name": "The Minotaur, Maze Dweller",
+		"prompt": "A fearsome creature with the body of a human and the head of a bull, residing in labyrinthine mazes, guarding hidden treasures.",
+		"negative_prompt": "Lost, confused, aimless, powerless, uninspiring."
+	},
+	{
+		"name": "The Valkyrie, Choosers of the Slain",
+		"prompt": "Noble warrior maidens from Norse mythology, who guide fallen heroes to the afterlife's grand halls in Valhalla.",
+		"negative_prompt": "Banished, forgotten, powerless, fading, aimless."
+	},
+	{
+		"name": "The Manticore, Dreaded Hunter",
+		"prompt": "A creature with the body of a lion, a human face, and rows of sharp teeth, known for its deadly hunting prowess and love for human flesh.",
+		"negative_prompt": "Hungry, feeble, impotent, cowardly, inconspicuous."
+	},
+	{
+		"name": "The Dryad, Guardian of the Forest",
+		"prompt": "A gentle woodland spirit, inseparably linked to a specific tree, who protects her forest with fierce devotion.",
+		"negative_prompt": "Withering, powerless, displaced, silent, forgotten."
+	},
+	{
+		"name": "The Naiad, River Nymph of Tranquility",
+		"prompt": "A serene water nymph residing in rivers and streams, bringing calmness and tranquility to her watery domain.",
+		"negative_prompt": "Stagnant, powerless, desolate, faded, unnoticed."
+	},
+	{
+		"name": "The Roc, King of the Avians",
+		"prompt": "A colossal and legendary bird of prey, capable of carrying off elephants, known for its majestic and awe-inspiring presence.",
+		"negative_prompt": "Grounded, helpless, flightless, obscure, muted."
+	}	
+]

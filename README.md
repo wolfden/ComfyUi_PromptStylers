@@ -81,3 +81,13 @@ Thanks to Three Headed Monkey in Discord of AI Revolution (discord.gg/rXFmn3gaAc
 
 * **positive_prompt_text_g** - combined prompt with style for positive promt G
 * **negative_prompt_text_g** - combined prompt with style for negative promt G
+
+### Example - More in Example Folder with Workflow
+![SDXL Prompt Styler Screenshot](examples/4.png)
+![SDXL Prompt Styler Screenshot](examples/3.png)
+![SDXL Prompt Styler Screenshot](examples/6.png)
+
+### Workflow
+My workflow is a bit complex with lots of nodes, custome models for base and refiner.  It has the face detail, hand, body, upscale, blend.  Most of my prompts are just random with a selected style, and with wildcards, feelin lucky, magic prompt, and one button prompt.  Use a very simple sentence and see what crazyness pops up.  Find a workflow that works best for you.
+
+![SDXL Prompt Styler Screenshot](workflow/6.png)
