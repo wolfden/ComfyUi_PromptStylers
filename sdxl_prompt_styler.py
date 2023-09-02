@@ -1347,7 +1347,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "SDXLPromptStylerbyFantasySetting": "Prompt Styler Fantasy-Setting",
     "SDXLPromptStylerbyFilter": "Prompt Styler Filter",
     "SDXLPromptStylerbyFocus": "Prompt Styler Focus",
-    "SDXLPromptStylerbyGothicRevival": "Prompt Styler Gothic Revival",
+    "SDXLPromptbyGothicRevival": "Prompt Styler Gothic Revival",
     "SDXLPromptStylerHorror": "Prompt Styler Horror",
     "SDXLPromptStylerbyImpressionism": "Prompt Styler Impressionism",
     "SDXLPromptStylerbyLighting": "Prompt Styler Lighting",
