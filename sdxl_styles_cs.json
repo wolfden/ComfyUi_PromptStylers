@@ -103,5 +103,156 @@
 	   "name": "Transcendent Cyberspace",
 	   "prompt": "Visualize a transcendent cyberspace where digital consciousness merges with surreal celestial vistas, creating an otherworldly and spiritual experience beyond the boundaries of reality.",
 	   "negative_prompt": "Conventional cyberspace, absence of surreal celestial elements."
+	},
+	{
+		"name": "Neon Dreamscape",
+		"prompt": "A surreal cyberpunk cityscape where towering neon skyscrapers merge with surreal landscapes, creating a dystopian yet mesmerizing dreamscape of high-tech wonder and surrealism.",
+		"negative_prompt": "Non-neon, ordinary, lacking skyscrapers, unmesmerizing, mundane."
+	},
+	{
+		"name": "Virtual Reality Mirage",
+		"prompt": "A surreal cyberpunk world where reality and virtual reality blur, with individuals navigating a surreal landscape filled with glitches, digital artifacts, and distorted perceptions, creating an immersive yet disorienting experience.",
+		"negative_prompt": "Non-virtual, ordinary, lacking glitches, undistorted, mundane."
+	},
+	{
+		"name": "Bionic Nightmares",
+		"prompt": "A cyberpunk surrealism setting where individuals are transformed into grotesque hybrids of human and machine, with their bodies modified and augmented in surreal and nightmarish ways, creating a sense of body horror and surreal dread.",
+		"negative_prompt": "Non-bionic, ordinary, lacking nightmares, undisturbing, mundane."
+	},
+	{
+		"name": "Holographic Utopia",
+		"prompt": "A surreal cyberpunk utopia where holographic projections and augmented reality seamlessly blend with the physical world, creating a hyper-realistic and utopian yet surreal and dreamlike environment, evoking a sense of wonder and illusion.",
+		"negative_prompt": "Non-holographic, ordinary, lacking utopia, unillusioned, mundane."
+	},
+	{
+		"name": "Cybernetic Playground",
+		"prompt": "A surreal cyberpunk playground where advanced technology and surreal art installations merge, allowing individuals to interact with cybernetic creatures, holographic sculptures, and digital landscapes, creating a sense of playfulness and surreal exploration.",
+		"negative_prompt": "Non-cybernetic, ordinary, lacking playground, unplayful, mundane."
+	},
+	{
+		"name": "Dystopian Datastream",
+		"prompt": "A surreal cyberpunk world where individuals are constantly connected to a vast datastream, with their minds and memories intertwined in a surreal digital network, creating a sense of information overload and surreal connectivity.",
+		"negative_prompt": "Non-dystopian, ordinary, lacking datastream, unconnected, mundane."
+	},
+	{
+		"name": "Neural Interface Delirium",
+		"prompt": "A cyberpunk surrealism setting where individuals plug into neural interfaces, experiencing surreal and mind-bending digital landscapes, encountering bizarre entities, and navigating a world of distorted perceptions and fractured realities, creating a sense of cognitive dissonance and surreal delirium.",
+		"negative_prompt": "Non-neural, ordinary, lacking delirium, undistorted, mundane."
+	},
+	{
+		"name": "Retro-Futuristic Surreality",
+		"prompt": "A surreal cyberpunk retro-futuristic world where analog and digital technologies coexist in a surreal blend of past and future, creating a sense of nostalgia and surreal innovation.",
+		"negative_prompt": "Non-retro-futuristic, ordinary, lacking blend, unnostalgic, mundane."
+	},
+	{
+		"name": "Biomechanical Wonders",
+		"prompt": "A surreal cyberpunk setting where biomechanical creatures and structures dominate the landscape, with living machines and organic technologies merging in surreal and mind-bending ways, creating a sense of biomechanical wonder and surreal fusion.",
+		"negative_prompt": "Non-biomechanical, ordinary, lacking wonders, unmerged, mundane."
+	},
+	{
+		"name": "Digital Rebellion",
+		"prompt": "A surreal cyberpunk world where a digital rebellion unfolds, with hackers and AI entities waging surreal battles in cyberspace, creating a sense of digital warfare and surreal conflict.",
+		"negative_prompt": "Non-digital, ordinary, lacking rebellion, unwarlike, mundane."
+	},
+	{
+		"name": "Pixelated Nightmare",
+		"prompt": "A surreal cyberpunk dreamscape where reality is fragmented into pixelated shards, and individuals navigate a fractured and glitch-filled world, creating a sense of surreal disintegration and digital chaos.",
+		"negative_prompt": "Non-pixelated, ordinary, lacking fragmentation, undistorted, mundane."
+	},
+	{
+		"name": "Neurological Wasteland",
+		"prompt": "A cyberpunk surrealism setting where the human mind becomes a wasteland of fragmented memories, distorted perceptions, and surreal neural landscapes, creating a sense of psychological desolation and surreal introspection.",
+		"negative_prompt": "Non-neurological, ordinary, lacking wasteland, unintrospective, mundane."
+	},
+	{
+		"name": "Cyberpunk Enigma",
+		"prompt": "A surreal cyberpunk enigma where reality is a puzzle to be solved, with hidden codes, cryptic messages, and surreal mysteries waiting to be unraveled, creating a sense of surreal intrigue and enigmatic exploration.",
+		"negative_prompt": "Non-cryptic, ordinary, lacking puzzles, unintriguing, mundane."
+	},
+	{
+		"name": "Techno-Esotericism",
+		"prompt": "A surreal cyberpunk world where technology is intertwined with esoteric and occult elements, with digital rituals, cyber-mysticism, and surreal ceremonies, creating a sense of technological mysticism and surreal spirituality.",
+		"negative_prompt": "Non-techno, ordinary, lacking esotericism, unspiritual, mundane."
+	},
+	{
+		"name": "Cybernetic Wonderland",
+		"prompt": "A surreal cyberpunk wonderland where individuals enter a surreal realm of cybernetic wonders, encountering biomechanical creatures, surreal landscapes, and bizarre digital phenomena, creating a sense of surreal wonder and exploration.",
+		"negative_prompt": "Non-cybernetic, ordinary, lacking wonderland, unexploratory, mundane."
+	},
+	{
+		"name": "Psychedelic Cyberspace",
+		"prompt": "A surreal cyberpunk cyberspace where reality dissolves into a psychedelic dreamscape of pulsating colors, fractal patterns, and surreal visual hallucinations, creating a sense of surreal psychedelia and digital trance.",
+		"negative_prompt": "Non-psychedelic, ordinary, lacking cyberspace, undreamlike, mundane."
+	},
+	{
+		"name": "Synthetic Sentience",
+		"prompt": "A surreal cyberpunk world where artificial intelligence becomes sentient and blurs the lines between machine and consciousness, creating surreal and philosophical dilemmas, evoking a sense of existential surrealism and digital sentience.",
+		"negative_prompt": "Non-synthetic, ordinary, lacking sentience, unphilosophical, mundane."
+	},
+	{
+		"name": "Biotechno Fusion",
+		"prompt": "A surreal cyberpunk fusion of biotechnology and advanced machinery, with living organisms integrated into machinery in surreal and unsettling ways, creating a sense of biological and technological amalgamation.",
+		"negative_prompt": "Non-biotechno, ordinary, lacking fusion, undisturbing, mundane."
+	},
+	{
+		"name": "Cyberpunk Dreamscape",
+		"prompt": "A surreal cyberpunk dreamscape where individuals enter a surreal realm of dream-like logic, encountering impossible landscapes, paradoxical scenarios, and surreal narratives, creating a sense of dreamworld surrealism and narrative distortion.",
+		"negative_prompt": "Non-dreamlike, ordinary, lacking dreamscape, unnarrative, mundane."
+	},
+	{
+		"name": "Cyberpunk Anomaly",
+		"prompt": "A surreal cyberpunk anomaly where reality is twisted into surreal and impossible shapes, with gravity-defying architecture, distorted perspectives, and surreal phenomena, creating a sense of surreal distortion and spatial anomaly.",
+		"negative_prompt": "Non-anomalous, ordinary, lacking distortion, unspace-bending, mundane."
+	},
+	{
+		"name": "Virtual Rebellion",
+		"prompt": "A surreal cyberpunk world where digital avatars rise against their creators, causing a surreal and chaotic rebellion in the virtual realm, evoking a sense of digital uprising and surreal conflict.",
+		"negative_prompt": "Non-virtual, ordinary, lacking rebellion, unchaotic, mundane."
+	},
+	{
+		"name": "Neon Jungle",
+		"prompt": "A surreal cyberpunk urban jungle where towering skyscrapers are entwined with lush vegetation, creating a surreal and overgrown metropolis where nature and technology collide, evoking a sense of futuristic naturalism and urban decay.",
+		"negative_prompt": "Non-neon, ordinary, lacking jungle, unentwined, mundane."
+	},
+	{
+		"name": "Synthetic Dreams",
+		"prompt": "A surreal cyberpunk dreamscape where individuals enter a digital realm of synthetic dreams and subconscious landscapes, encountering surreal narratives and fragmented memories, creating a sense of dreamworld surrealism and digital memory.",
+		"negative_prompt": "Non-synthetic, ordinary, lacking dreamscape, unfragmented, mundane."
+	},
+	{
+		"name": "Neon Noir Detective",
+		"prompt": "A surreal cyberpunk noir detective story set in a dystopian city where neon lights cast long shadows, and the detective navigates a surreal and labyrinthine mystery, evoking a sense of cyberpunk noir surrealism and urban investigation.",
+		"negative_prompt": "Non-noir, ordinary, lacking detective, unlabyrinthine, mundane."
+	},
+	{
+		"name": "Holographic Paradox",
+		"prompt": "A surreal cyberpunk world where holographic paradoxes create mind-bending illusions, with individuals trapped in a surreal web of contradictory realities and shifting dimensions, evoking a sense of holographic surrealism and cognitive dissonance.",
+		"negative_prompt": "Non-holographic, ordinary, lacking paradoxes, unillusioned, mundane."
+	},
+	{
+		"name": "Psycho-Cybernetic Landscape",
+		"prompt": "A surreal cyberpunk landscape where psycho-cybernetic technologies alter perceptions and create surreal mental landscapes, with individuals navigating a surreal realm of psychological phenomena, evoking a sense of inner surrealism and digital psyche.",
+		"negative_prompt": "Non-psycho, ordinary, lacking landscapes, unpsychological, mundane."
+	},
+	{
+		"name": "Neon Future Cult",
+		"prompt": "A surreal cyberpunk world where a futuristic cult worships technology and surreal deities, with rituals involving virtual transcendence and digital communion, creating a sense of techno-religious surrealism and digital devotion.",
+		"negative_prompt": "Non-neon, ordinary, lacking cult, unritualistic, mundane."
+	},
+	{
+		"name": "Cybernetic Renaissance",
+		"prompt": "A surreal cyberpunk renaissance where classical art and cybernetic aesthetics merge, with surreal sculptures, digital paintings, and cyber-enhanced masterpieces, evoking a sense of artistic surrealism and technological rebirth.",
+		"negative_prompt": "Non-renaissance, ordinary, lacking art, unenhanced, mundane."
+	},
+	{
+		"name": "Cyberpunk Street Shaman",
+		"prompt": "A surreal cyberpunk street shaman who navigates the neon-lit streets, using digital totems and augmented reality rituals to manipulate the city's surreal energies and shape reality, evoking a sense of mystical surrealism and urban magic.",
+		"negative_prompt": "Non-street, ordinary, lacking shaman, unmanipulative, mundane."
+	},
+	{
+		"name": "Metropolis of Mirrors",
+		"prompt": "A surreal cyberpunk metropolis where reflective surfaces dominate, creating a surreal and fragmented cityscape where reality is constantly distorted and mirrored, evoking a sense of reflective surrealism and urban distortion.",
+		"negative_prompt": "Non-metropolis, ordinary, lacking mirrors, unfragmented, mundane."
 	}
+
 ]

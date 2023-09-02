@@ -1,0 +1,157 @@
+[
+    {
+        "name": "none byGothicRevival",
+        "prompt": " {prompt} ",
+        "negative_prompt": " "
+    },
+	{
+		"name": "Gothic Cathedral Splendor",
+		"prompt": "Create a stunning piece of Gothic Revival art featuring a towering cathedral with intricate stone carvings, towering spires, and dramatic lighting that highlights the architectural details, evoking a sense of spiritual grandeur and awe.",
+		"negative_prompt": "Non-cathedral, ordinary, lacking splendor, uninspiring, mundane."
+	},
+	{
+		"name": "Gothic Haunted Manor",
+		"prompt": "Craft a piece of Gothic Revival art depicting a haunted manor shrouded in mist and moonlight, with eerie silhouettes in the windows, overgrown ivy, and a sense of foreboding, creating a sense of gothic mystery and suspense.",
+		"negative_prompt": "Non-manor, ordinary, lacking hauntings, unshrouded, mundane."
+	},
+	{
+		"name": "Gothic Revival Foliage",
+		"prompt": "Create a piece of Gothic Revival art that showcases a lush garden with dark and dramatic foliage, ornate wrought iron gates, and hidden secrets among the shadows, evoking a sense of gothic botanical beauty and intrigue.",
+		"negative_prompt": "Non-foliage, ordinary, lacking drama, ungated, mundane."
+	},
+	{
+		"name": "Gothic Revival Portraiture",
+		"prompt": "Craft a piece of Gothic Revival art featuring a dramatic portrait of a gothic-inspired character, with elaborate clothing, pale complexion, and a haunting expression, creating a sense of gothic elegance and melancholy.",
+		"negative_prompt": "Non-portrait, ordinary, lacking drama, unelaborate, mundane."
+	},
+	{
+		"name": "Gothic Revival Castle",
+		"prompt": "Create a stunning piece of Gothic Revival art showcasing a sprawling, imposing castle with towering turrets, gothic archways, and a sense of dark majesty, evoking a sense of gothic fortress grandeur and history.",
+		"negative_prompt": "Non-castle, ordinary, lacking grandeur, unimposing, mundane."
+	},
+	{
+		"name": "Gothic Revival Cemetery",
+		"prompt": "Craft a piece of Gothic Revival art depicting a misty cemetery with gothic tombstones, ancient trees, and ethereal apparitions, creating a sense of gothic mourning and otherworldly beauty.",
+		"negative_prompt": "Non-cemetery, ordinary, lacking mist, unapparitional, mundane."
+	},
+	{
+		"name": "Gothic Revival Interior",
+		"prompt": "Create a piece of Gothic Revival art showcasing the ornate interior of a gothic-inspired building, with intricate stained glass windows, vaulted ceilings, and dramatic lighting that highlights the architectural details, evoking a sense of gothic opulence and spirituality.",
+		"negative_prompt": "Non-interior, ordinary, lacking ornateness, undramatic, mundane."
+	},
+	{
+		"name": "Gothic Revival Forest Ruins",
+		"prompt": "Craft a piece of Gothic Revival art featuring the ruins of an ancient gothic structure hidden within a dark, overgrown forest, with moss-covered stones, tangled vines, and a sense of gothic history and decay.",
+		"negative_prompt": "Non-ruins, ordinary, lacking darkness, unovergrown, mundane."
+	},
+	{
+		"name": "Gothic Revival Waterside Manor",
+		"prompt": "Create a stunning piece of Gothic Revival art depicting a manor by the water's edge, with dramatic cliffs, crashing waves, and a sense of gothic romanticism and isolation, evoking a sense of gothic coastal beauty and solitude.",
+		"negative_prompt": "Non-waterside, ordinary, lacking waves, unromantic, mundane."
+	},
+	{
+		"name": "Gothic Revival Village",
+		"prompt": "Craft a piece of Gothic Revival art showcasing a gothic-inspired village with cobblestone streets, crooked cottages, and ominous shadows, creating a sense of gothic village life and mystery.",
+		"negative_prompt": "Non-village, ordinary, lacking cobblestones, uncrooked, mundane."
+	},
+	{
+		"name": "Gothic Revival Lighthouse",
+		"prompt": "Create a piece of Gothic Revival art featuring a towering, gothic-inspired lighthouse standing sentinel against the stormy sea, with crashing waves, rugged cliffs, and a sense of gothic maritime drama and heroism.",
+		"negative_prompt": "Non-lighthouse, ordinary, lacking storm, unheroic, mundane."
+	},
+	{
+		"name": "Gothic Revival Ballroom",
+		"prompt": "Craft a piece of Gothic Revival art showcasing an opulent ballroom adorned with intricate chandeliers, draped velvet curtains, and gothic arches, where dancers swirl in a surreal and elegant waltz, evoking a sense of gothic decadence and mystique.",
+		"negative_prompt": "Non-ballroom, ordinary, lacking opulence, unadorned, mundane."
+	},
+	{
+		"name": "Gothic Revival Clock Tower",
+		"prompt": "Create a stunning piece of Gothic Revival art featuring a majestic gothic clock tower with intricate clock faces, towering above a cityscape, with dramatic skies and a sense of gothic timekeeping and urban grandeur.",
+		"negative_prompt": "Non-clock tower, ordinary, lacking majesty, untowering, mundane."
+	},
+	{
+		"name": "Gothic Revival Theater",
+		"prompt": "Craft a piece of Gothic Revival art showcasing the interior of a gothic-inspired theater, with ornate balconies, dramatic stage lighting, and a performance in progress, evoking a sense of gothic theatricality and drama.",
+		"negative_prompt": "Non-theater, ordinary, lacking ornateness, unlit, mundane."
+	},
+	{
+		"name": "Gothic Revival Bridge",
+		"prompt": "Create a piece of Gothic Revival art featuring a gothic-inspired bridge spanning a dark, mysterious river, with intricate stone arches, looming shadows, and a sense of gothic transportation and crossing.",
+		"negative_prompt": "Non-bridge, ordinary, lacking darkness, unarched, mundane."
+	},
+	{
+		"name": "Gothic Revival Crypt",
+		"prompt": "Craft a piece of Gothic Revival art depicting a crypt with gothic arches, ancient tombs, and eerie candlelight, where mysteries are concealed in the shadows, creating a sense of gothic burial and enigma.",
+		"negative_prompt": "Non-crypt, ordinary, lacking arches, unancient, mundane."
+	},
+	{
+		"name": "Gothic Revival Library",
+		"prompt": "Create a stunning piece of Gothic Revival art showcasing the interior of a gothic-inspired library, with towering bookshelves, dimly lit reading nooks, and a sense of gothic knowledge and quiet contemplation.",
+		"negative_prompt": "Non-library, ordinary, lacking books, unlit, mundane."
+	},
+	{
+		"name": "Gothic Revival Cemetery Gate",
+		"prompt": "Craft a piece of Gothic Revival art featuring a gothic cemetery gate with intricate wrought ironwork, looming above a dark and foggy graveyard, creating a sense of gothic passage and somber reflection.",
+		"negative_prompt": "Non-cemetery gate, ordinary, lacking wrought iron, unlooming, mundane."
+	},
+	{
+		"name": "Gothic Revival Chapel",
+		"prompt": "Create a piece of Gothic Revival art showcasing a gothic-inspired chapel with stained glass windows, flickering candles, and an atmosphere of spiritual reverence, evoking a sense of gothic faith and serenity.",
+		"negative_prompt": "Non-chapel, ordinary, lacking stained glass, unlit, mundane."
+	},
+	{
+		"name": "Gothic Revival Cityscape",
+		"prompt": "Craft a piece of Gothic Revival art featuring a sprawling cityscape with towering gothic skyscrapers, winding streets, and dramatic lighting that accentuates the architectural details, evoking a sense of gothic urban grandeur and modernity.",
+		"negative_prompt": "Non-cityscape, ordinary, lacking skyscrapers, unlit, mundane."
+	},
+	{
+		"name": "Gothic Revival Forest Chapel",
+		"prompt": "Create a piece of Gothic Revival art showcasing a secluded chapel nestled within a dark, ancient forest, with dappled sunlight filtering through the trees, creating a sense of gothic serenity and natural beauty.",
+		"negative_prompt": "Non-forest chapel, ordinary, lacking seclusion, unsunlit, mundane."
+	},
+	{
+		"name": "Gothic Revival Clockwork Cathedral",
+		"prompt": "Craft a piece of Gothic Revival art depicting a cathedral where intricate clockwork mechanisms are integrated into the architecture, with moving gears, pendulums, and a sense of gothic timekeeping and innovation.",
+		"negative_prompt": "Non-clockwork, ordinary, lacking mechanisms, unmoving, mundane."
+	},
+	{
+		"name": "Gothic Revival Art Gallery",
+		"prompt": "Create a stunning piece of Gothic Revival art showcasing the interior of a gothic-inspired art gallery, with dramatic lighting, ornate frames, and a collection of surreal and gothic artworks, evoking a sense of gothic creativity and curation.",
+		"negative_prompt": "Non-art gallery, ordinary, lacking lighting, unornate, mundane."
+	},
+	{
+		"name": "Gothic Revival Mountain Fortress",
+		"prompt": "Craft a piece of Gothic Revival art featuring a mountain fortress with imposing gothic walls, perched high among craggy peaks, and a sense of gothic defense and elevation.",
+		"negative_prompt": "Non-mountain fortress, ordinary, lacking walls, unperched, mundane."
+	},
+	{
+		"name": "Gothic Revival Seaside Abbey",
+		"prompt": "Create a piece of Gothic Revival art showcasing an abbey by the sea, with towering cliffs, crashing waves, and a sense of gothic spirituality and coastal drama, evoking a sense of gothic monasticism and nature's power.",
+		"negative_prompt": "Non-seaside abbey, ordinary, lacking cliffs, uncrashing, mundane."
+	},
+	{
+		"name": "Gothic Revival Opera House",
+		"prompt": "Craft a piece of Gothic Revival art featuring the interior of a gothic-inspired opera house, with elaborate balconies, dramatic stage curtains, and a performance in progress, evoking a sense of gothic theatricality and artistic expression.",
+		"negative_prompt": "Non-opera house, ordinary, lacking balconies, undramatic, mundane."
+	},
+	{
+		"name": "Gothic Revival Castle Ruins",
+		"prompt": "Create a stunning piece of Gothic Revival art depicting the ruins of a gothic castle, overgrown with ivy, moss-covered stones, and a sense of gothic history and decay, evoking a sense of gothic abandonment and nostalgia.",
+		"negative_prompt": "Non-castle ruins, ordinary, lacking ivy, unmossy, mundane."
+	},
+	{
+		"name": "Gothic Revival Underground Crypt",
+		"prompt": "Craft a piece of Gothic Revival art showcasing an underground crypt with gothic arches and eerie candlelight, where secrets are buried in the depths, creating a sense of gothic mystery and subterranean beauty.",
+		"negative_prompt": "Non-underground crypt, ordinary, lacking arches, unburied, mundane."
+	},
+	{
+		"name": "Gothic Revival Forest Bridge",
+		"prompt": "Create a piece of Gothic Revival art featuring a bridge within a dark, ancient forest, with gothic arches, twisted roots, and a sense of gothic passage and natural enchantment, evoking a sense of gothic wilderness and crossing.",
+		"negative_prompt": "Non-forest bridge, ordinary, lacking arches, untwisted, mundane."
+	},
+	{
+		"name": "Gothic Revival Steampunk Workshop",
+		"prompt": "Craft a piece of Gothic Revival art showcasing a steampunk workshop with gothic aesthetics, intricate machinery, and a sense of gothic innovation and industrial creativity, evoking a sense of gothic steampunk fusion.",
+		"negative_prompt": "Non-steampunk, ordinary, lacking machinery, uncreative, mundane."
+	}
+]
