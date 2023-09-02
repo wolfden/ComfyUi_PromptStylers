@@ -1020,11 +1020,204 @@ class SDXLPromptStylerbyImpressionism:
 
         return positive_prompt, negative_prompt
 
+class SDXLPromptStylerbyCyberpunkSurrealism:
+
+    def __init__(self):
+        pass
+
+    @classmethod
+    def INPUT_TYPES(self):
+        # Get current file's directory
+        p = os.path.dirname(os.path.realpath(__file__))
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles_cs.json')
+
+        # Read JSON from file
+        self.json_data = read_json_file(file_path)
+        # Retrieve styles from JSON data
+        styles = read_sdxl_styles(self.json_data)
+        
+        return {
+            "required": {
+                "text_positive": ("STRING", {"default": "", "multiline": True}),
+                "text_negative": ("STRING", {"default": "", "multiline": True}),
+                "style": ((styles), ),
+                "log_prompt": (["No", "Yes"], {"default":"No"}),
+            },
+        }
+
+    RETURN_TYPES = ('STRING','STRING',)
+    RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
+    FUNCTION = 'prompt_styler'
+    CATEGORY = 'Style Prompts'
+
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
+        # Process and combine prompts in templates
+        # The function replaces the positive prompt placeholder in the template,
+        # and combines the negative prompt with the template's negative prompt, if they exist.
+        positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
+ 
+        # If logging is enabled (log_prompt is set to "Yes"), 
+        # print the style, positive and negative text, and positive and negative prompts to the console
+        if log_prompt == "Yes":
+            print(f"style: {style}")
+            print(f"text_positive: {text_positive}")
+            print(f"text_negative: {text_negative}")
+            print(f"positive_prompt: {positive_prompt}")
+            print(f"negative_prompt: {negative_prompt}")
+
+        return positive_prompt, negative_prompt
+
+class SDXLPromptStylerbyQuantumRealism:
+
+    def __init__(self):
+        pass
+
+    @classmethod
+    def INPUT_TYPES(self):
+        # Get current file's directory
+        p = os.path.dirname(os.path.realpath(__file__))
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles_qr.json')
+
+        # Read JSON from file
+        self.json_data = read_json_file(file_path)
+        # Retrieve styles from JSON data
+        styles = read_sdxl_styles(self.json_data)
+        
+        return {
+            "required": {
+                "text_positive": ("STRING", {"default": "", "multiline": True}),
+                "text_negative": ("STRING", {"default": "", "multiline": True}),
+                "style": ((styles), ),
+                "log_prompt": (["No", "Yes"], {"default":"No"}),
+            },
+        }
+
+    RETURN_TYPES = ('STRING','STRING',)
+    RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
+    FUNCTION = 'prompt_styler'
+    CATEGORY = 'Style Prompts'
+
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
+        # Process and combine prompts in templates
+        # The function replaces the positive prompt placeholder in the template,
+        # and combines the negative prompt with the template's negative prompt, if they exist.
+        positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
+ 
+        # If logging is enabled (log_prompt is set to "Yes"), 
+        # print the style, positive and negative text, and positive and negative prompts to the console
+        if log_prompt == "Yes":
+            print(f"style: {style}")
+            print(f"text_positive: {text_positive}")
+            print(f"text_negative: {text_negative}")
+            print(f"positive_prompt: {positive_prompt}")
+            print(f"negative_prompt: {negative_prompt}")
+
+        return positive_prompt, negative_prompt
+
+class SDXLPromptStylerbySteamPunkRealism:
+
+    def __init__(self):
+        pass
+
+    @classmethod
+    def INPUT_TYPES(self):
+        # Get current file's directory
+        p = os.path.dirname(os.path.realpath(__file__))
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles_sr.json')
+
+        # Read JSON from file
+        self.json_data = read_json_file(file_path)
+        # Retrieve styles from JSON data
+        styles = read_sdxl_styles(self.json_data)
+        
+        return {
+            "required": {
+                "text_positive": ("STRING", {"default": "", "multiline": True}),
+                "text_negative": ("STRING", {"default": "", "multiline": True}),
+                "style": ((styles), ),
+                "log_prompt": (["No", "Yes"], {"default":"No"}),
+            },
+        }
+
+    RETURN_TYPES = ('STRING','STRING',)
+    RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
+    FUNCTION = 'prompt_styler'
+    CATEGORY = 'Style Prompts'
+
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
+        # Process and combine prompts in templates
+        # The function replaces the positive prompt placeholder in the template,
+        # and combines the negative prompt with the template's negative prompt, if they exist.
+        positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
+ 
+        # If logging is enabled (log_prompt is set to "Yes"), 
+        # print the style, positive and negative text, and positive and negative prompts to the console
+        if log_prompt == "Yes":
+            print(f"style: {style}")
+            print(f"text_positive: {text_positive}")
+            print(f"text_negative: {text_negative}")
+            print(f"positive_prompt: {positive_prompt}")
+            print(f"negative_prompt: {negative_prompt}")
+
+        return positive_prompt, negative_prompt
+
+class SDXLPromptStylerbyWyvern:
+
+    def __init__(self):
+        pass
+
+    @classmethod
+    def INPUT_TYPES(self):
+        # Get current file's directory
+        p = os.path.dirname(os.path.realpath(__file__))
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles_wyvern.json')
+
+        # Read JSON from file
+        self.json_data = read_json_file(file_path)
+        # Retrieve styles from JSON data
+        styles = read_sdxl_styles(self.json_data)
+        
+        return {
+            "required": {
+                "text_positive": ("STRING", {"default": "", "multiline": True}),
+                "text_negative": ("STRING", {"default": "", "multiline": True}),
+                "style": ((styles), ),
+                "log_prompt": (["No", "Yes"], {"default":"No"}),
+            },
+        }
+
+    RETURN_TYPES = ('STRING','STRING',)
+    RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
+    FUNCTION = 'prompt_styler'
+    CATEGORY = 'Style Prompts'
+
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
+        # Process and combine prompts in templates
+        # The function replaces the positive prompt placeholder in the template,
+        # and combines the negative prompt with the template's negative prompt, if they exist.
+        positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
+ 
+        # If logging is enabled (log_prompt is set to "Yes"), 
+        # print the style, positive and negative text, and positive and negative prompts to the console
+        if log_prompt == "Yes":
+            print(f"style: {style}")
+            print(f"text_positive: {text_positive}")
+            print(f"text_negative: {text_negative}")
+            print(f"positive_prompt: {positive_prompt}")
+            print(f"negative_prompt: {negative_prompt}")
+
+        return positive_prompt, negative_prompt
+        
 
 NODE_CLASS_MAPPINGS = {
     "SDXLPromptStylerbyArtist": SDXLPromptStylerbyArtist,
     "SDXLPromptStylerbyCamera": SDXLPromptStylerbyCamera,
     "SDXLPromptStylerbyComposition": SDXLPromptStylerbyComposition,
+    "SDXLPromptStylerbyCyberpunkSurrealism": SDXLPromptStylerbyCyberpunkSurrealism,
     "SDXLPromptStylerbyDepth": SDXLPromptStylerbyDepth,
     "SDXLPromptStylerbyEnvironment": SDXLPromptStylerbyEnvironment,
     "SDXLPromptStylerbyFantasySetting": SDXLPromptStylerbyFantasySetting,
@@ -1038,16 +1231,20 @@ NODE_CLASS_MAPPINGS = {
     "SDXLPromptStylerbyMood": SDXLPromptStylerbyMood,
     "SDXLPromptStylerbyMythicalCreature": SDXLPromptStylerbyMythicalCreature,
     "SDXLPromptStylerbyOriginal": SDXLPromptStylerbyOriginal,
+    "SDXLPromptStylerbyQuantumRealism": SDXLPromptStylerbyQuantumRealism,
+    "SDXLPromptStylerbySteamPunkRealism": SDXLPromptStylerbySteamPunkRealism,
     "SDXLPromptStylerbySubject": SDXLPromptStylerbySubject,
     "SDXLPromptStylerbySurrealism": SDXLPromptStylerbySurrealism,
     "SDXLPromptStylerbyTheme": SDXLPromptStylerbyTheme,
     "SDXLPromptStylerbyTimeofDay": SDXLPromptStylerbyTimeofDay,
+    "SDXLPromptStylerbyWyvern": SDXLPromptStylerbyWyvern,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
     "SDXLPromptStylerbyArtist": "Prompt Styler Artist",
     "SDXLPromptStylerbyCamera": "Prompt Styler Camera",
     "SDXLPromptStylerbyComposition": "Prompt Styler Composition",
+    "SDXLPromptStylerbyCyberpunkSurrealism": "Prompt Styler Cyberpunk Surrealism",
     "SDXLPromptStylerbyDepth": "Prompt Styler Depth",
     "SDXLPromptStylerbyEnvironment": "Prompt Styler Environment",
     "SDXLPromptStylerbyFantasySetting": "Prompt Styler Fantasy-Setting",
@@ -1061,8 +1258,11 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "SDXLPromptStylerbyMood": "Prompt Styler Mood",
     "SDXLPromptStylerbyMythicalCreature": "Prompt Styler Mythical Creature",
     "SDXLPromptStylerbyOriginal": "Prompt Styler Original",
+    "SDXLPromptStylerbyQuantumRealism": "Prompt Styler Quantum Realism",
+    "SDXLPromptStylerbySteamPunkRealism": "Prompt Styler SteamPunk Realism",
     "SDXLPromptStylerbySubject": "Prompt Styler Subject",
     "SDXLPromptStylerbySurrealism": "Prompt Styler Surrealism",
     "SDXLPromptStylerbyTheme": "Prompt Styler Theme",
     "SDXLPromptStylerbyTimeofDay": "Prompt Styler Time of Day",
+    "SDXLPromptStylerbyWyvern": "Prompt Styler Wyvern",
 }

@@ -128,5 +128,105 @@
         "name": "Xanadu",
         "prompt": "A magical kingdom ruled by a wise and benevolent queen, Palace, Kubla Khan, Opulence, Chinese Dynasty, Mongol Empire, Gardens",
         "negative_prompt": "ugly, deformed, noisy, low poly, blurry,"
-    }
+    },
+	{
+		"name": "The Floating Isles of Aether",
+		"prompt": "A collection of mystical islands suspended in the sky, each with its unique ecosystem and magical properties, connected by bridges of light and airships.",
+		"negative_prompt": "Non-floating, ordinary, lacking magic, unconnected, mundane."
+	},
+	{
+		"name": "The City of Eldertide",
+		"prompt": "A sprawling city built within the hollowed trunk of a colossal ancient tree, where the residents live in harmony with nature and tree-dwelling creatures.",
+		"negative_prompt": "Non-tree-dwelling, ordinary, lacking harmony, unremarkable, mundane."
+	},
+	{
+		"name": "The Desert Kingdom of Mirage",
+		"prompt": "A vast desert realm where shifting sand dunes conceal hidden oases, ancient ruins, and mirage cities that materialize and vanish mysteriously.",
+		"negative_prompt": "Non-desert, ordinary, lacking mirages, unhidden, mundane."
+	},
+	{
+		"name": "The Enchanted Library of Whispers",
+		"prompt": "A grand library filled with sentient, talking books and scrolls, where ancient knowledge is guarded by animated guardians, and every page tells a tale.",
+		"negative_prompt": "Non-enchanted, ordinary, lacking knowledge, unguarded, mundane."
+	},
+	{
+		"name": "The Crystal Caverns of Lumaria",
+		"prompt": "A labyrinthine network of caves adorned with glowing crystals of various colors, where each crystal possesses unique magical properties and secrets.",
+		"negative_prompt": "Non-crystalline, ordinary, lacking magic, unsecretive, mundane."
+	},
+	{
+		"name": "The Clockwork City of Gearspring",
+		"prompt": "A metropolis where clockwork machinery and automatons are an integral part of daily life, with gears, cogs, and steam-powered technology shaping the cityscape.",
+		"negative_prompt": "Non-clockwork, ordinary, lacking technology, unshaped, mundane."
+	},
+	{
+		"name": "The Forest of Eternal Twilight",
+		"prompt": "A mystical woodland where the sun never fully sets, creating an eternal twilight, inhabited by creatures of twilight, and filled with ancient, towering trees.",
+		"negative_prompt": "Non-twilight, ordinary, lacking creatures, unpopulated, mundane."
+	},
+	{
+		"name": "The Elemental Planes Nexus",
+		"prompt": "A crossroads where the elemental planes intersect, allowing travelers to journey between realms of fire, water, air, and earth, each with its own challenges and wonders.",
+		"negative_prompt": "Non-elemental, ordinary, lacking travel, unchallenging, mundane."
+	},
+	{
+		"name": "The Astral Citadel of Astraeus",
+		"prompt": "A fortress floating within the Astral Plane, where celestial beings and starry entities reside, guarding the secrets of the cosmos and the paths to other dimensions.",
+		"negative_prompt": "Non-astral, ordinary, lacking guardians, unguarded, mundane."
+	},
+	{
+		"name": "The Shadowed Realm of Umbrathor",
+		"prompt": "A dimension cloaked in eternal darkness, where shadowy creatures and beings of the night roam, and secrets of shadow magic and hidden truths await discovery.",
+		"negative_prompt": "Non-shadowed, ordinary, lacking secrets, untruthful, mundane."
+	},
+	{
+		"name": "The Sunken Kingdom of Atlantis",
+		"prompt": "A fabled civilization lost beneath the ocean waves, with majestic underwater cities, advanced technology, and aquatic creatures as inhabitants.",
+		"negative_prompt": "Non-sunken, ordinary, lacking technology, unpopulated, mundane."
+	},
+	{
+		"name": "The Celestial Gardens of Zephyria",
+		"prompt": "A realm among the clouds, where floating gardens bloom with vibrant, otherworldly flora, tended by winged guardians and home to creatures of the sky.",
+		"negative_prompt": "Non-celestial, ordinary, lacking guardians, untended, mundane."
+	},
+	{
+		"name": "The Crystal Labyrinth of Prisms",
+		"prompt": "A maze-like structure constructed entirely of enchanted prisms that bend and reflect light, creating intricate patterns and illusions at every turn.",
+		"negative_prompt": "Non-crystal, ordinary, lacking enchantment, unpatterned, mundane."
+	},
+	{
+		"name": "The Wandering Forest of Eldertrees",
+		"prompt": "A vast forest where ancient sentient trees roam, creating their paths as they wander, and offering wisdom and guidance to those who seek it.",
+		"negative_prompt": "Non-forest, ordinary, lacking sentience, unguided, mundane."
+	},
+	{
+		"name": "The Ethereal Observatory of Astromancers",
+		"prompt": "A celestial observatory located on a floating island, where astromancers study the stars, moons, and constellations, harnessing cosmic magic.",
+		"negative_prompt": "Non-ethereal, ordinary, lacking study, unharnessed, mundane."
+	},
+	{
+		"name": "The Hollow Mountain of Emberforge",
+		"prompt": "A colossal mountain hollowed out to become a bustling city of forges and molten metal, where dwarves craft legendary weapons and artifacts.",
+		"negative_prompt": "Non-hollow, ordinary, lacking crafting, unlegendary, mundane."
+	},
+	{
+		"name": "The Dreaming Realm of Morpheus",
+		"prompt": "A dimension where dreams take physical form, with landscapes shaped by the dreamers' imaginations and creatures born of sleeping minds.",
+		"negative_prompt": "Non-dreaming, ordinary, lacking imagination, unformed, mundane."
+	},
+	{
+		"name": "The Elemental Nexus of Convergence",
+		"prompt": "A central point where the elemental forces of fire, water, air, and earth meet, creating a place of balance and elemental harmony.",
+		"negative_prompt": "Non-elemental, ordinary, lacking balance, unharmonious, mundane."
+	},
+	{
+		"name": "The Forgotten Ruins of Eldertemples",
+		"prompt": "A vast, overgrown complex of ancient temples where long-forgotten gods and spirits still linger, waiting to be rediscovered and appeased.",
+		"negative_prompt": "Non-ruined, ordinary, lacking gods, unappeased, mundane."
+	},
+	{
+		"name": "The Enchanted Isles of Luminescia",
+		"prompt": "A cluster of mystical islands where bioluminescent flora and fauna create a world of eternal twilight, inhabited by beings who harness the power of light magic.",
+		"negative_prompt": "Non-enchanted, ordinary, lacking bioluminescence, unpeopled, mundane."
+	}
 ]

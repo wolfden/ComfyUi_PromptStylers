@@ -103,5 +103,105 @@
 		"name": "The Roc, King of the Avians",
 		"prompt": "A colossal and legendary bird of prey, capable of carrying off elephants, known for its majestic and awe-inspiring presence.",
 		"negative_prompt": "Grounded, helpless, flightless, obscure, muted."
-	}	
+	},
+	{
+		"name": "The Unicorn's Elegance",
+		"prompt": "A gentle and majestic horse-like creature with a single spiral horn on its forehead, symbolizing purity and grace.",
+		"negative_prompt": "Ungraceful, ordinary, lacking purity, unremarkable, insignificant."
+	},
+	{
+		"name": "The Dragon's Hoard",
+		"prompt": "A fearsome and intelligent fire-breathing dragon known for guarding vast treasures in its lair, representing both power and greed.",
+		"negative_prompt": "Non-guarding, ordinary, lacking treasures, unremarkable, insignificant."
+	},
+	{
+		"name": "The Mermaid's Melody",
+		"prompt": "A beautiful aquatic creature with the upper body of a human and the lower body of a fish, captivating sailors with enchanting songs and luring them beneath the waves.",
+		"negative_prompt": "Non-captivating, ordinary, lacking songs, unremarkable, insignificant."
+	},
+	{
+		"name": "The Thunderbird's Roar",
+		"prompt": "A giant bird of Native American folklore with the power to create thunderstorms, representing the awe-inspiring forces of nature.",
+		"negative_prompt": "Non-thunderous, ordinary, lacking storms, unremarkable, insignificant."
+	},
+	{
+		"name": "The Valkyrie's Valor",
+		"prompt": "A divine warrior maiden from Norse mythology, choosing the bravest fallen warriors to join the ranks of the gods in Valhalla, embodying valor and honor.",
+		"negative_prompt": "Unvalorous, ordinary, lacking honor, unremarkable, insignificant."
+	},
+	{
+		"name": "The Yeti's Elusiveness",
+		"prompt": "A legendary ape-like creature said to inhabit the Himalayan mountains, known for its elusive nature and sightings in the snowy wilderness.",
+		"negative_prompt": "Non-elusive, ordinary, lacking sightings, unremarkable, insignificant."
+	},
+	{
+		"name": "The Basilisk's Deadly Gaze",
+		"prompt": "A serpent-like creature with a venomous glare that can kill with a single glance, embodying the danger and terror of the unknown.",
+		"negative_prompt": "Non-deadly, ordinary, lacking danger, unremarkable, insignificant."
+	},
+	{
+		"name": "The Kappa's Watery Mischief",
+		"prompt": "A mischievous water creature from Japanese folklore, known for playing pranks and tricks near bodies of water, both delighting and unsettling humans.",
+		"negative_prompt": "Non-mischievous, ordinary, lacking pranks, unremarkable, insignificant."
+	},
+	{
+		"name": "The Chupacabra's Bloodlust",
+		"prompt": "A cryptid creature from Latin American folklore said to drink the blood of livestock, striking fear into the hearts of rural communities.",
+		"negative_prompt": "Non-bloodthirsty, ordinary, lacking livestock, unremarkable, insignificant."
+	},
+	{
+		"name": "The Wendigo's Hunger",
+		"prompt": "A malevolent creature from Algonquian folklore, representing cannibalistic greed and the horrors of wilderness survival.",
+		"negative_prompt": "Non-cannibalistic, ordinary, lacking hunger, unremarkable, insignificant."
+	},
+	{
+		"name": "The Manticore's Ferocity",
+		"prompt": "A legendary beast with the body of a lion, a human head, and a tail full of deadly spines, known for its ferocious nature and fearsome appearance.",
+		"negative_prompt": "Non-ferocious, ordinary, lacking spines, unremarkable, insignificant."
+	},
+	{
+		"name": "The Nymph's Enchantment",
+		"prompt": "A beautiful and ethereal female spirit of nature, associated with specific natural features and capable of enchanting those who encounter her.",
+		"negative_prompt": "Unenchanting, ordinary, lacking nature, unremarkable, insignificant."
+	},
+	{
+		"name": "The Jinn's Wish-Granting",
+		"prompt": "A supernatural creature from Middle Eastern folklore, capable of granting wishes to those who summon and appease it, embodying the power of desire and temptation.",
+		"negative_prompt": "Non-wish-granting, ordinary, lacking wishes, unremarkable, insignificant."
+	},
+	{
+		"name": "The Leshy's Forest Mischief",
+		"prompt": "A mischievous woodland spirit from Slavic mythology, known for leading travelers astray in the forest and causing them to become lost.",
+		"negative_prompt": "Non-mischievous, ordinary, lacking mischief, unremarkable, insignificant."
+	},
+	{
+		"name": "The Tengu's Martial Prowess",
+		"prompt": "A bird-like creature from Japanese folklore, skilled in martial arts and known for both protecting and tormenting humans in the mountains.",
+		"negative_prompt": "Non-skilled, ordinary, lacking martial arts, unremarkable, insignificant."
+	},
+	{
+		"name": "The Thunder Horse's Storm Control",
+		"prompt": "A divine horse from Chinese mythology, capable of controlling thunder and rain, symbolizing the power and unpredictability of the natural world.",
+		"negative_prompt": "Non-controlling, ordinary, lacking thunder, unremarkable, insignificant."
+	},
+	{
+		"name": "The Roc's Soaring Majesty",
+		"prompt": "A colossal bird of prey from Arabian mythology, capable of carrying elephants in its talons and representing the awe-inspiring forces of the sky.",
+		"negative_prompt": "Non-soaring, ordinary, lacking majesty, unremarkable, insignificant."
+	},
+	{
+		"name": "The Bunyip's Aquatic Mystery",
+		"prompt": "A mysterious aquatic creature from Australian Aboriginal mythology, known for lurking in swamps and waterways, embodying the enigmas of the deep waters.",
+		"negative_prompt": "Non-mysterious, ordinary, lacking aquatic traits, unremarkable, insignificant."
+	},
+	{
+		"name": "The Chimalli's Shield of Protection",
+		"prompt": "A protective spirit from Aztec mythology, associated with shields and safeguarding warriors in battle, symbolizing defense and resilience.",
+		"negative_prompt": "Non-protective, ordinary, lacking shields, unremarkable, insignificant."
+	},
+	{
+		"name": "The Ifrit's Fiery Wrath",
+		"prompt": "A powerful and malevolent fire demon from Middle Eastern folklore, capable of causing destruction and chaos, embodying the destructive power of fire.",
+		"negative_prompt": "Non-destructive, ordinary, lacking fire, unremarkable, insignificant."
+	}
 ]

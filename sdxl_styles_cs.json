@@ -1,0 +1,107 @@
+[
+    {
+        "name": "none byCyberpunkSurrealism",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+	{
+	   "name": "Neon Metropolis",
+	   "prompt": "Imagine a sprawling cyberpunk cityscape bathed in a kaleidoscope of neon lights, where towering skyscrapers merge with surreal organic shapes, blurring the lines between reality and dreams.",
+	   "negative_prompt": "Monotone colors, conventional architecture, lack of surreal elements."
+	},
+	{
+	   "name": "Biomechanical Dreamscape",
+	   "prompt": "Create an artwork that portrays a surreal world where humans are interconnected with biomechanical structures, as if they are symbiotically evolving in a mesmerizing, ever-changing environment.",
+	   "negative_prompt": "Static human forms, absence of surreal fusion, mundane scenery."
+	},
+	{
+	   "name": "Cyberpunk Underwater Abyss",
+	   "prompt": "Picture an underwater dystopia where submerged cities are lit by eerie bioluminescent organisms, creating a haunting and surreal aquatic landscape in the depths of the ocean.",
+	   "negative_prompt": "Bright, clear waters, mundane marine life, lack of surreal elements."
+	},
+	{
+	   "name": "Data Hacker's Nightmare",
+	   "prompt": "Illustrate the chaotic dreamscape of a hacker's mind as they traverse the digital realm, blending surreal, glitchy cybernetic landscapes with fragmented data and distorted realities.",
+	   "negative_prompt": "Clean, orderly digital landscapes, lack of glitch aesthetics."
+	},
+	{
+	   "name": "City of Whispering Machines",
+	   "prompt": "Envision a cyberpunk city overrun by sentient machines, where the buildings themselves seem to whisper secrets and the streets are a maze of surreal mechanical wonders and enigmatic symbols.",
+	   "negative_prompt": "Lifeless machines, ordinary cityscape, lack of surreal elements."
+	},
+	{
+	   "name": "Virtual Reality Odyssey",
+	   "prompt": "Craft a surreal journey through a virtual reality world where the laws of physics are distorted, and gravity becomes optional, creating a whimsical yet uncanny dreamscape.",
+	   "negative_prompt": "Realistic environments, predictable physics, absence of surreal elements."
+	},
+	{
+	   "name": "Neo-Tokyo Redux",
+	   "prompt": "Reimagine Neo-Tokyo with a surreal twist, where traditional Japanese elements fuse with cyberpunk aesthetics, resulting in a cityscape that is both nostalgic and futuristic.",
+	   "negative_prompt": "Conventional Tokyo scenery, absence of cyberpunk or surreal elements."
+	},
+	{
+	   "name": "Bioluminescent Urban Jungle",
+	   "prompt": "Paint a picture of a cyberpunk city engulfed in a surreal urban jungle, where luminous, genetically engineered plants and creatures coexist with neon-lit streets and skyscrapers.",
+	   "negative_prompt": "Ordinary cityscape, lack of bioluminescent or surreal elements."
+	},
+	{
+	   "name": "Clockwork Dreams",
+	   "prompt": "Capture a surreal dreamscape where intricate clockwork mechanisms merge with human forms, creating a timeless and enigmatic world where time itself is an abstract concept.",
+	   "negative_prompt": "Conventional clockwork, mundane human figures, absence of surreal fusion."
+	},
+	{
+	   "name": "Psychedelic Cyber Alley",
+	   "prompt": "Visualize a narrow, neon-lit alley in a cyberpunk city where reality warps into a psychedelic experience, with swirling colors, distorted shapes, and an otherworldly atmosphere.",
+	   "negative_prompt": "Ordinary alley, lack of psychedelic elements."
+	},
+	{
+	   "name": "Digital Garden of Delights",
+	   "prompt": "Design a surreal digital garden filled with fantastical flora and fauna, all interconnected through intricate patterns of data, blurring the line between nature and technology.",
+	   "negative_prompt": "Realistic garden, absence of surreal data fusion."
+	},
+	{
+	   "name": "Post-Human Utopia",
+	   "prompt": "Depict a utopian world where humans have transcended their physical forms, merging seamlessly with a surreal digital realm, resulting in a harmonious, post-human existence.",
+	   "negative_prompt": "Ordinary human forms, lack of surreal digital integration."
+	},
+	{
+	   "name": "Steam-Powered Cyberpunk",
+	   "prompt": "Imagine a cyberpunk world where steam-powered technology meets futuristic cybernetics, creating a surreal, retro-futuristic cityscape filled with intricate machinery and elaborate details.",
+	   "negative_prompt": "Conventional steam-powered aesthetics, absence of cyberpunk elements."
+	},
+	{
+	   "name": "Dystopian Dreamscape",
+	   "prompt": "Convey a dystopian dreamscape where abandoned, overgrown urban environments are juxtaposed with surreal, floating objects, blurring the boundaries between decay and fantasy.",
+	   "negative_prompt": "Ordinary urban decay, absence of surreal floating elements."
+	},
+	{
+	   "name": "Neuro-Interface Odyssey",
+	   "prompt": "Illustrate the surreal journey of a person navigating a neural interface, where thoughts and emotions manifest as surreal landscapes, symbols, and abstract forms.",
+	   "negative_prompt": "Conventional neural interface, lack of surreal thought manifestations."
+	},
+	{
+	   "name": "Post-Apocalyptic Dreams",
+	   "prompt": "Create a surreal dreamscape in a post-apocalyptic world, where remnants of technology and nature blend together in a haunting and enigmatic fusion of the past and future.",
+	   "negative_prompt": "Ordinary post-apocalyptic scenery, lack of surreal fusion."
+	},
+	{
+	   "name": "Datastream Mirage",
+	   "prompt": "Imagine a surreal desert landscape where data streams flow like rivers through the dunes, and shimmering mirages reveal hidden digital worlds beneath the surface.",
+	   "negative_prompt": "Ordinary desert landscape, absence of datastream elements."
+	},
+	{
+	   "name": "Quantum Cityscapes",
+	   "prompt": "Visualize a cyberpunk city where quantum physics reigns, resulting in surreal, shifting cityscapes, fractured realities, and glimpses of alternate dimensions.",
+	   "negative_prompt": "Conventional cityscape, lack of quantum surrealism."
+	},
+	{
+	   "name": "Machine Rebellion Fantasia",
+	   "prompt": "Capture the surreal moment of a machine rebellion, where mechanical beings gain sentience and disrupt the cyberpunk world, resulting in chaotic and unexpected visuals.",
+	   "negative_prompt": "Lifeless machines, absence of rebellion or surreal elements."
+	},
+	{
+	   "name": "Transcendent Cyberspace",
+	   "prompt": "Visualize a transcendent cyberspace where digital consciousness merges with surreal celestial vistas, creating an otherworldly and spiritual experience beyond the boundaries of reality.",
+	   "negative_prompt": "Conventional cyberspace, absence of surreal celestial elements."
+	}
+]

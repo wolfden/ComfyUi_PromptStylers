@@ -1,0 +1,102 @@
+[
+    {
+        "name": "none byQuantumRealism",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+	{
+	   "name": "Ethereal Particle Dance",
+	   "prompt": "Visualize the enigmatic dance of subatomic particles, where electrons and quarks exist in multiple positions simultaneously, creating a mesmerizing interplay of colors and shapes.",
+	   "negative_prompt": "Static particle representations, lack of quantum uncertainty."
+	},
+	{
+	   "name": "Wavefunction Symphony",
+	   "prompt": "Illustrate the concept of wavefunctions as harmonious symphonies of mathematical beauty, where complex equations come to life in vibrant, oscillating patterns that transcend conventional reality.",
+	   "negative_prompt": "Absence of mathematical symbolism, lack of vibrancy."
+	},
+	{
+	   "name": "Observer's Paradox",
+	   "prompt": "Capture the paradoxical nature of observation in quantum physics, where the act of looking influences what is seen. Create an artwork that shifts and transforms as the viewer's perspective changes.",
+	   "negative_prompt": "Static perspective, absence of observer influence."
+	},
+	{
+	   "name": "Schrodinger's Garden",
+	   "prompt": "Imagine a surreal garden where Schrödinger's cat is both alive and dead, coexisting in a state of quantum uncertainty. Portray the duality of life and death in a whimsical and thought-provoking manner.",
+	   "negative_prompt": "Clear distinction between life and death, absence of surreal elements."
+	},
+	{
+	   "name": "Entangled Realities",
+	   "prompt": "Explore the concept of quantum entanglement, where particles separated by vast distances instantaneously affect each other. Depict a surreal, interconnected world where cause and effect are intertwined in mysterious ways.",
+	   "negative_prompt": "Lack of entanglement symbolism, conventional causality."
+	},
+	{
+	   "name": "Quantum Mirage",
+	   "prompt": "Create a landscape that appears both solid and transparent, as if it exists in a state of quantum superposition. Challenge the viewer's perception by blending solidity with ethereality.",
+	   "negative_prompt": "Clearly defined solidity, lack of superposition elements."
+	},
+	{
+	   "name": "Cubist Uncertainty",
+	   "prompt": "Reimagine the principles of cubism through a quantum lens. Craft a fragmented, multidimensional world where objects and perspectives coalesce and diverge simultaneously.",
+	   "negative_prompt": "Conventional cubist representations, absence of quantum influence."
+	},
+	{
+	   "name": "Quantum Kaleidoscope",
+	   "prompt": "Design a kaleidoscopic artwork where patterns and shapes continuously shift and evolve, reflecting the uncertainty principle. Create a mesmerizing visual experience that challenges stability and predictability.",
+	   "negative_prompt": "Stable, unchanging patterns, absence of uncertainty."
+	},
+	{
+	   "name": "Quantum Dreamscape",
+	   "prompt": "Portray a dreamlike realm where surreal landscapes and impossible geometries are governed by quantum principles. Blur the line between dream and reality in an ever-shifting environment.",
+	   "negative_prompt": "Ordinary dreamscapes, lack of quantum influence."
+	},
+	{
+	   "name": "Quantum Chromatic Symphony",
+	   "prompt": "Compose a symphony of colors where hues and shades meld and transform, reflecting the probabilistic nature of quantum states. Create a vivid and dynamic visual experience.",
+	   "negative_prompt": "Static color palette, lack of probabilistic elements."
+	},
+	{
+	   "name": "Quantum Reflections",
+	   "prompt": "Capture the idea that every reflection in a mirror represents a parallel universe. Create a surreal world where mirrors reveal alternative realities and infinite possibilities.",
+	   "negative_prompt": "Conventional mirror reflections, absence of surreal elements."
+	},
+	{
+	   "name": "Quantum Fractal Realities",
+	   "prompt": "Explore the infinite recursion of fractals through a quantum perspective. Craft a world where fractal patterns evolve and branch in unpredictable ways, revealing the interconnectedness of all scales.",
+	   "negative_prompt": "Static fractal representations, lack of quantum influence."
+	},
+	{
+	   "name": "Quantum Tesseract Enigma",
+	   "prompt": "Illustrate the mysterious concept of higher dimensions and tesseracts, where geometry transcends our three-dimensional world. Convey a sense of unfolding dimensions and hidden realms.",
+	   "negative_prompt": "Conventional geometry, absence of higher-dimensional elements."
+	},
+	{
+	   "name": "Quantum Portal Nexus",
+	   "prompt": "Imagine a surreal network of quantum portals connecting disparate locations and times. Create an intricate web of interconnected doorways that challenge the boundaries of space and causality.",
+	   "negative_prompt": "Ordinary portals, absence of surreal connectivity."
+	},
+	{
+	   "name": "Quantum Interference Symphony",
+	   "prompt": "Compose an artwork where waves of interference patterns overlap and interact, representing the wave-particle duality of quantum entities. Explore the beauty and complexity of interference phenomena.",
+	   "negative_prompt": "Absence of interference patterns, lack of wave-particle duality."
+	},
+	{
+	   "name": "Quantum Constellation Ballet",
+	   "prompt": "Portray a celestial ballet where stars and galaxies exist in a quantum entanglement, choreographing an intricate dance across the cosmos. Capture the beauty of interconnected cosmic forces.",
+	   "negative_prompt": "Conventional celestial representations, absence of quantum influence."
+	},
+	{
+	   "name": "Quantum Labyrinth",
+	   "prompt": "Design a surreal labyrinthine structure where walls shift and pathways change as if guided by quantum probability. Create an immersive experience that challenges the concept of a fixed path.",
+	   "negative_prompt": "Conventional labyrinth, lack of quantum influence."
+	},
+	{
+	   "name": "Quantum Mirage Forest",
+	   "prompt": "Craft a forest where the boundary between reality and illusion is blurred, as trees and flora appear to phase in and out of existence, reflecting the probabilistic nature of quantum states.",
+	   "negative_prompt": "Static forest scenery, absence of quantum influence."
+	},
+	{
+	   "name": "Quantum Alchemical Fusion",
+	   "prompt": "Imagine a laboratory where the principles of quantum mechanics and alchemy converge, resulting in surreal transformations of matter and energy. Convey the mysterious interplay of science and mysticism.",
+	   "negative_prompt": "Conventional laboratory setting, absence of alchemical or quantum fusion."
+	}
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "name": "none bySteamPunkRealism",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+	{
+	   "name": "Clockwork Menagerie",
+	   "prompt": "Imagine a surreal world where a mechanical menagerie of whimsical creatures roams amidst the intricate gears and steam-powered wonders of a fantastical steampunk landscape.",
+	   "negative_prompt": "Ordinary creatures, lack of steampunk machinery."
+	},
+	{
+	   "name": "Cogged Dreamscape",
+	   "prompt": "Create a dreamscape where surreal landscapes and intricate cogs merge, blurring the boundaries between the mechanical and the fantastical. Surrender to the whimsy of this surreal contraption.",
+	   "negative_prompt": "Static landscapes, absence of cogs or surreal elements."
+	},
+	{
+	   "name": "Steam-Fueled Dreams",
+	   "prompt": "Illustrate a dreamlike world powered by steam, where locomotives soar through the skies, and steam-driven plants flourish in the clouds. Surrender to the whimsy of this surreal contraption.",
+	   "negative_prompt": "Conventional locomotives, absence of surreal steam-powered elements."
+	},
+	{
+	   "name": "Chrono-Mystical Carnival",
+	   "prompt": "Craft an otherworldly carnival where time is both a performer and an illusionist. Surreal carnival rides and attractions, blending steampunk aesthetics with dreamlike time-bending experiences.",
+	   "negative_prompt": "Ordinary carnival, lack of time-bending or surreal elements."
+	},
+	{
+	   "name": "Mechanical Menagerie Ballroom",
+	   "prompt": "Envision a grand ballroom filled with elegant steampunk automatons and clockwork dancers, their movements controlled by surreal and unpredictable forces. Surrender to the waltz of the surreal.",
+	   "negative_prompt": "Ordinary ballroom, absence of surreal automatons."
+	},
+	{
+	   "name": "Steampunk Alchemical Garden",
+	   "prompt": "Create a surreal garden where alchemical experiments blend with Victorian horticulture. Plants sprout gears and cogs, and steam-powered contraptions nurture bizarre and whimsical flora.",
+	   "negative_prompt": "Conventional garden, lack of alchemical or surreal elements."
+	},
+	{
+	   "name": "Clockwork Cityscape Dreams",
+	   "prompt": "Imagine a surreal cityscape where clockwork skyscrapers reach for the sky, while surreal, time-bending distortions play tricks on the eye, making every street a twist in reality.",
+	   "negative_prompt": "Conventional cityscape, absence of surreal distortions."
+	},
+	{
+	   "name": "Steam-Driven Enigma",
+	   "prompt": "Capture a mysterious, enigmatic world powered by steam and populated by surreal and elusive beings. Surrender to the intrigue of this steampunk surrealist realm.",
+	   "negative_prompt": "Ordinary beings, lack of surreal or steam-powered elements."
+	},
+	{
+	   "name": "Cogwheel Wonderland",
+	   "prompt": "Craft a whimsical wonderland where gigantic cogwheels and gears transform the landscape into a surreal mechanical dreamscape. Surrender to the rhythmic pulse of this clockwork world.",
+	   "negative_prompt": "Conventional landscape, absence of surreal mechanical elements."
+	},
+	{
+	   "name": "Steam-Powered Carnival",
+	   "prompt": "Envision a fantastical carnival where steam-powered rides and contraptions defy gravity and physics, creating a surreal and exhilarating experience under the big, brass top.",
+	   "negative_prompt": "Ordinary carnival rides, lack of surreal steam-powered elements."
+	},
+	{
+	   "name": "Surreal Airship Odyssey",
+	   "prompt": "Take a surreal journey aboard a fantastical airship, where time and space are fluid, and landscapes change with every turn of the steam-driven propellers. Surrender to the skies of wonder.",
+	   "negative_prompt": "Ordinary airship journey, absence of surreal elements."
+	},
+	{
+	   "name": "Neo-Victorian Dreamscape",
+	   "prompt": "Picture a Neo-Victorian dreamscape where ornate steampunk architecture coexists with surreal and illogical landscapes. Surrender to the fantastical fusion of eras and realities.",
+	   "negative_prompt": "Conventional Neo-Victorian setting, lack of surreal elements."
+	},
+	{
+	   "name": "Steampunk Surrealist Ball",
+	   "prompt": "Create a surreal masquerade ball where guests wear elaborate steampunk costumes that seem to come to life, blending with the dreamlike atmosphere of the event. Surrender to the dance of illusion.",
+	   "negative_prompt": "Ordinary masquerade, absence of surreal costumes."
+	},
+	{
+	   "name": "Mechanical Dreamscape Symphony",
+	   "prompt": "Compose a symphony of surreal landscapes where mechanical wonders and impossible structures create a harmonious yet irrational world. Surrender to the mesmerizing music of this dreamscape.",
+	   "negative_prompt": "Ordinary landscapes, absence of surreal mechanical elements."
+	},
+	{
+	   "name": "Clockwork Wonderland",
+	   "prompt": "Visualize an enchanted wonderland where time is at once a friend and a foe. Surreal clockwork creatures, intricate timepieces, and whimsical landscapes intertwine in a surreal dance.",
+	   "negative_prompt": "Conventional wonderland, lack of surreal clockwork elements."
+	},
+	{
+	   "name": "Steampunk Astral Odyssey",
+	   "prompt": "Embark on an astral odyssey through a steampunk-inspired cosmos, where surreal celestial bodies and mechanical constellations guide your journey through time and space. Surrender to the cosmic clockwork.",
+	   "negative_prompt": "Conventional cosmic representation, absence of surreal celestial elements."
+	},
+	{
+	   "name": "Mechanical Menagerie Parade",
+	   "prompt": "Imagine a surreal parade of mechanical wonders, where fantastical steampunk creatures and surreal contraptions march in a mesmerizing spectacle. Surrender to the parade of surreal marvels.",
+	   "negative_prompt": "Ordinary parade, absence of surreal contraptions."
+	},
+	{
+	   "name": "Quantum Steam-Driven Enigma",
+	   "prompt": "Merge the realms of quantum physics with steampunk aesthetics, crafting a surreal world where subatomic particles are harnessed by steam-powered machines in a perplexing dance of science and art.",
+	   "negative_prompt": "Conventional science and art fusion, lack of surreal quantum elements."
+	},
+	{
+	   "name": "Steampunk Dreamscape Architect",
+	   "prompt": "Become the architect of a surreal steampunk dreamscape, where imagination runs wild, gears are oversized, and landscapes are sculpted by whimsy. Surrender to the architect's fantasies.",
+	   "negative_prompt": "Conventional architecture, absence of surreal whimsy."
+	},
+	{
+	   "name": "Mechanical Dreamscape Symphony",
+	   "prompt": "Compose a symphony of surreal landscapes where mechanical wonders and impossible structures create a harmonious yet irrational world. Surrender to the mesmerizing music of this dreamscape.",
+	   "negative_prompt": "Ordinary landscapes, absence of surreal mechanical elements."
+	},
+	{
+	   "name": "Steampunk Dreamscape Architect",
+	   "prompt": "Become the architect of a surreal steampunk dreamscape, where imagination runs wild, gears are oversized, and landscapes are sculpted by whimsy. Surrender to the architect's fantasies.",
+	   "negative_prompt": "Conventional architecture, absence of surreal."
+	},
+	{
+	"name": "Mechanical Dreamscape Symphony",
+	"prompt": "Compose a symphony of surreal landscapes where mechanical wonders and impossible structures create a harmonious yet irrational world. Surrender to the mesmerizing music of this dreamscape.",
+	"negative_prompt": "Ordinary landscapes, absence of surreal mechanical elements."
+	},
+	{
+	"name": "Steam-Powered Carnival",
+	"prompt": "Envision a fantastical carnival where steam-powered rides and contraptions defy gravity and physics, creating a surreal and exhilarating experience under the big, brass top.",
+	"negative_prompt": "Ordinary carnival rides, lack of surreal steam-powered elements."
+	},
+	{
+	"name": "Steampunk Explorer's Dreams",
+	"prompt": "Embark on an expedition through a surreal steampunk world where Victorian explorers encounter bizarre landscapes and mechanized creatures. Surrender to the explorer's surreal journey.",
+	"negative_prompt": "Conventional exploration, absence of surreal landscapes."
+	},
+	{
+	"name": "Surreal Clockwork Opera",
+	"prompt": "Imagine a surreal opera house where clockwork musicians and performers create a symphony of surreal sensations. Surrender to the melodious madness of this clockwork performance.",
+	"negative_prompt": "Ordinary opera, absence of surreal clockwork performers."
+	},
+	{
+	"name": "Mechanical Dreamscape Symphony",
+	"prompt": "Compose a symphony of surreal landscapes where mechanical wonders and impossible structures create a harmonious yet irrational world. Surrender to the mesmerizing music of this dreamscape.",
+	"negative_prompt": "Ordinary landscapes, absence of surreal mechanical elements."
+	},
+	{
+	"name": "Steampunk Dreamscape Architect",
+	"prompt": "Become the architect of a surreal steampunk dreamscape, where imagination runs wild, gears are oversized, and landscapes are sculpted by whimsy. Surrender to the architect's fantasies.",
+	"negative_prompt": "Conventional architecture, absence of surreal whimsy."
+	},
+	{
+	"name": "Surreal Clockwork Opera",
+	"prompt": "Imagine a surreal opera house where clockwork musicians and performers create a symphony of surreal sensations. Surrender to the melodious madness of this clockwork performance.",
+	"negative_prompt": "Ordinary opera, absence of surreal clockwork performers."
+	}
+]

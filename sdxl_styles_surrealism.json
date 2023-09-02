@@ -5,9 +5,9 @@
         "negative_prompt": ""
     },
 	{
-    "name": "Morning Light on the Seine",
-    "prompt": "Capture the soft, early morning light reflecting on the gentle ripples of the Seine River, creating a tranquil and luminous atmosphere.",
-    "negative_prompt": "Harsh shadows, overworked details, static, dull colors, lack of atmosphere."
+		"name": "Morning Light on the Seine",
+		"prompt": "Capture the soft, early morning light reflecting on the gentle ripples of the Seine River, creating a tranquil and luminous atmosphere.",
+		"negative_prompt": "Harsh shadows, overworked details, static, dull colors, lack of atmosphere."
 	},
 	{
 		"name": "Fields of Sunflowers in Bloom",
@@ -95,7 +95,7 @@
 		"negative_prompt": "Lack of tranquility, static water, lack of reflection, unrealistic colors, overworked details."
 	},
 	{
-		"name": "Café Terrace at Night",
+		"name": "Cafe Terrace at Night",
 		"prompt": "Capture the nocturnal atmosphere of a bustling café terrace at night, with patrons seated at tables, under the soft glow of street lamps and starry skies.",
 		"negative_prompt": "Lack of nocturnal atmosphere, harsh lighting, lack of ambiance, unrealistic colors, overly detailed."
 	},
@@ -103,6 +103,105 @@
 		"name": "A Country Path in Autumn",
 		"prompt": "Convey the rustic beauty of a countryside path in autumn, with colorful leaves carpeting the ground and the soft, golden hues of the autumnal light.",
 		"negative_prompt": "Lack of rustic charm, flat colors, lack of autumnal ambiance, unrealistic colors, overworked details."
+	},
+	{
+		"name": "The Clockwork Dreamscape",
+		"prompt": "An otherworldly realm where gears and mechanisms merge with the organic, creating surreal landscapes where clockwork animals roam and mechanical plants grow.",
+		"negative_prompt": "Non-clockwork, ordinary, lacking organic fusion, unremarkable, mundane."
+	},
+	{
+		"name": "The Melting Clocks of Dali's Vision",
+		"prompt": "A surreal scene inspired by Salvador Dali's art, featuring melting clocks draped over bizarre landscapes, defying the laws of physics and reality.",
+		"negative_prompt": "Non-melting, ordinary, lacking surrealism, unartistic, mundane."
+	},
+	{
+		"name": "The Mirrored Masks of Identity",
+		"prompt": "A surreal masquerade where everyone wears mirrored masks reflecting the emotions and thoughts of others, blurring the boundaries of self and other.",
+		"negative_prompt": "Non-mirrored, ordinary, lacking masks, unreflective, mundane."
+	},
+	{
+		"name": "The Endless Staircase Ascent",
+		"prompt": "A surreal climb up an infinite staircase that defies gravity and perspective, leading to strange and surreal destinations with each step.",
+		"negative_prompt": "Non-endless, ordinary, lacking staircase, unascendant, mundane."
+	},
+	{
+		"name": "The Floating Islands of Imagination",
+		"prompt": "A surreal archipelago where islands float in the sky, each one representing a different aspect of human imagination and creativity.",
+		"negative_prompt": "Non-floating, ordinary, lacking imagination, uncreative, mundane."
+	},
+	{
+		"name": "The Eyes in the Sky",
+		"prompt": "A surreal sky filled with giant floating eyes, watching over a dreamlike landscape where reality and perception merge in unsettling ways.",
+		"negative_prompt": "Non-observant, ordinary, lacking eyes, unwatchful, mundane."
+	},
+	{
+		"name": "The Rain of Upside-Down Umbrellas",
+		"prompt": "A surreal rainstorm where inverted umbrellas fall from the sky, creating an otherworldly spectacle as they twirl and dance in the air.",
+		"negative_prompt": "Non-inverted, ordinary, lacking umbrellas, unspiraled, mundane."
+	},
+	{
+		"name": "The Fish in the Desert Mirage",
+		"prompt": "A surreal desert landscape where an oasis appears as a mirage, but upon closer inspection, it's an underwater realm with fish swimming in the sand.",
+		"negative_prompt": "Non-miraged, ordinary, lacking fish, unexamined, mundane."
+	},
+	{
+		"name": "The Doorways to Unknown Realms",
+		"prompt": "A surreal cityscape filled with doorways that lead to entirely different dimensions and realities, blurring the lines between the possible and impossible.",
+		"negative_prompt": "Non-doorway, ordinary, lacking dimensions, unblurred, mundane."
+	},
+	{
+		"name": "The Symphony of Disjointed Melodies",
+		"prompt": "A surreal musical performance where instruments play disjointed melodies, and the audience becomes part of the surreal composition, both conductor and listener.",
+		"negative_prompt": "Non-musical, ordinary, lacking melodies, undiscordant, mundane."
+	},
+	{
+		"name": "The Desert of Mirrors",
+		"prompt": "A surreal desert where the sands are made of mirrors that reflect distorted and fragmented images, creating a disorienting and mesmerizing landscape.",
+		"negative_prompt": "Non-mirrored, ordinary, lacking distortion, unreflective, mundane."
+	},
+	{
+		"name": "The Carousel of Forgotten Dreams",
+		"prompt": "A surreal carnival carousel that spins endlessly, with each seat holding a different forgotten dream, waiting for riders to unlock their mysteries.",
+		"negative_prompt": "Non-carousel, ordinary, lacking dreams, unspinning, mundane."
+	},
+	{
+		"name": "The Library of Whispering Pages",
+		"prompt": "A surreal library where books whisper their stories to those who enter, with pages that come to life and characters that interact with readers.",
+		"negative_prompt": "Non-library, ordinary, lacking whispers, unbookish, mundane."
+	},
+	{
+		"name": "The Symphony of Broken Instruments",
+		"prompt": "A surreal orchestra where musicians play broken and deformed instruments, creating a cacophony of discordant sounds that blend into an eerie harmony.",
+		"negative_prompt": "Non-orchestra, ordinary, lacking instruments, unharmonious, mundane."
+	},
+	{
+		"name": "The Mirrored Faces of Identity",
+		"prompt": "A surreal gathering where participants have mirrored surfaces instead of faces, reflecting the emotions and thoughts of those they interact with, revealing inner truths.",
+		"negative_prompt": "Non-mirrored, ordinary, lacking faces, unreflective, mundane."
+	},
+	{
+		"name": "The Endless Corridor of Mirrors",
+		"prompt": "A surreal corridor that extends infinitely in all directions, with mirrors on every surface, creating an endless maze of reflections and distortions.",
+		"negative_prompt": "Non-endless, ordinary, lacking corridors, unreflected, mundane."
+	},
+	{
+		"name": "The Clockwork Circus of Time",
+		"prompt": "A surreal circus where time itself is the main attraction, with performers manipulating the flow of time, causing moments to stretch and contract in bizarre ways.",
+		"negative_prompt": "Non-circus, ordinary, lacking time manipulation, unremarkable, mundane."
+	},
+	{
+		"name": "The Rain of Falling Stars",
+		"prompt": "A surreal rainstorm where stars fall from the sky, turning into celestial creatures upon touching the ground, creating a mesmerizing celestial menagerie.",
+		"negative_prompt": "Non-celestial, ordinary, lacking stars, ungrounded, mundane."
+	},
+	{
+		"name": "The Underwater Forest of Whispers",
+		"prompt": "A surreal underwater forest where the trees have branches made of flowing water, and their whispers can be heard by those who dive into its depths.",
+		"negative_prompt": "Non-underwater, ordinary, lacking whispers, unflowing, mundane."
+	},
+	{
+		"name": "The Chessboard of Surreal Strategies",
+		"prompt": "A surreal chessboard where the pieces have minds of their own, and the game unfolds as a surreal battle of wits between the players and the pieces.",
+		"negative_prompt": "Non-chessboard, ordinary, lacking strategies, unstrategic, mundane."
 	}
-
 ]

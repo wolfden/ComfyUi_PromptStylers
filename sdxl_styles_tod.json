@@ -20,11 +20,6 @@
         "negative_prompt": "morning"
     },
     {
-        "name": "GoldenHour",
-        "prompt": "goldenhour  {prompt}",
-        "negative_prompt": "night"
-    },
-    {
         "name": "Midday",
         "prompt": "midday  {prompt}",
         "negative_prompt": "morning"
@@ -53,5 +48,105 @@
         "name": "Twilight",
         "prompt": "twilight  {prompt}",
         "negative_prompt": "day"
-    }
+    },
+	{
+		"name": "Golden Hour",
+		"prompt": "The warm and inviting light of early morning or late afternoon, casting long shadows and bathing the world in a soft, golden glow, evoking a sense of tranquility and magic.",
+		"negative_prompt": "Ungolden, ordinary, lacking warmth, uninviting, mundane."
+	},
+	{
+		"name": "Midnight Reverie",
+		"prompt": "The deep, still hours of the night when the world is wrapped in darkness, and a sense of mystery and introspection fills the air, inviting contemplation and solitude.",
+		"negative_prompt": "Unmidnight, ordinary, lacking stillness, unreflective, mundane."
+	},
+	{
+		"name": "Twilight Serenity",
+		"prompt": "The tranquil and ethereal moments when day transitions into night, with the sky painted in shades of pink and purple, creating a dreamy and serene atmosphere.",
+		"negative_prompt": "Untwilight, ordinary, lacking tranquility, unethereal, mundane."
+	},
+	{
+		"name": "Noonday Radiance",
+		"prompt": "The bright and vibrant light of midday, when the sun is at its zenith, casting sharp shadows and illuminating the world with intense brilliance, evoking a sense of energy and vibrancy.",
+		"negative_prompt": "Unnoonday, ordinary, lacking brightness, unvibrant, mundane."
+	},
+	{
+		"name": "Dawn's Awakening",
+		"prompt": "The tender and hopeful moments of early morning when the world awakens from slumber, with the sky painted in soft pastels, creating a sense of renewal and anticipation.",
+		"negative_prompt": "Undawn, ordinary, lacking tenderness, unawakening, mundane."
+	},
+	{
+		"name": "Dusk's Embrace",
+		"prompt": "The gentle and romantic moments of evening when the day transitions into night, with the sky adorned in shades of orange and red, creating a sense of warmth and intimacy.",
+		"negative_prompt": "Undusk, ordinary, lacking gentleness, unromantic, mundane."
+	},
+	{
+		"name": "Midday Hustle",
+		"prompt": "The bustling and energetic hours of late morning and early afternoon when the world is in full swing, and a sense of productivity and activity fills the air, inviting engagement and momentum.",
+		"negative_prompt": "Unmidday, ordinary, lacking hustle, unproductive, mundane."
+	},
+	{
+		"name": "Starlit Silence",
+		"prompt": "The tranquil and mysterious hours of night when the stars fill the sky, and a sense of peace and wonder prevails, inviting contemplation and awe.",
+		"negative_prompt": "Unstarlit, ordinary, lacking silence, unpeaceful, mundane."
+	},
+	{
+		"name": "Afternoon Lull",
+		"prompt": "The calm and soothing hours of late afternoon when the world takes a moment to rest, with the sun casting a gentle glow, creating a sense of relaxation and respite.",
+		"negative_prompt": "Unafternoon, ordinary, lacking calm, unsoothing, mundane."
+	},
+	{
+		"name": "Moonlit Dream",
+		"prompt": "The magical and enchanting hours of night when the moon bathes the world in silvery light, casting a spell of mystery and enchantment, inviting imagination and reverie.",
+		"negative_prompt": "Unmoonlit, ordinary, lacking magic, unenchanting, mundane."
+	},
+	{
+		"name": "Misty Morning Hush",
+		"prompt": "The quiet and mystical hours of early morning when a soft mist blankets the world, creating an atmosphere of stillness and wonder, inviting contemplation and discovery.",
+		"negative_prompt": "Unmisty, ordinary, lacking quietness, undiscovering, mundane."
+	},
+	{
+		"name": "Midnight Dance",
+		"prompt": "The lively and enchanting hours of the night when the world comes alive with music and celebration, with the moon and stars as witnesses, evoking a sense of joy and camaraderie.",
+		"negative_prompt": "Unmidnight, ordinary, lacking dance, unjoyful, mundane."
+	},
+	{
+		"name": "Noontime Reverberation",
+		"prompt": "The vibrant and bustling hours of midday when the world resounds with activity and echoes of life, creating a sense of vitality and resonance, inviting engagement and connection.",
+		"negative_prompt": "Unnoon, ordinary, lacking vibrancy, unresonant, mundane."
+	},
+	{
+		"name": "Twilight's Whispers",
+		"prompt": "The mysterious and alluring moments of evening when the world is bathed in shades of blue and indigo, and whispers of secrets fill the air, creating a sense of intrigue and mystique.",
+		"negative_prompt": "Untwilight, ordinary, lacking whispers, unintriguing, mundane."
+	},
+	{
+		"name": "High Noon Blaze",
+		"prompt": "The intense and scorching hours of midday when the sun blazes at its peak, casting stark shadows and igniting the world with searing heat, evoking a sense of intensity and endurance.",
+		"negative_prompt": "Unnoon, ordinary, lacking intensity, unenduring, mundane."
+	},
+	{
+		"name": "Dawn's Promise",
+		"prompt": "The hopeful and optimistic moments of early morning when the world is bathed in soft light, and the promise of a new day fills the air, creating a sense of anticipation and hope.",
+		"negative_prompt": "Undawn, ordinary, lacking promise, unhopeful, mundane."
+	},
+	{
+		"name": "Eerie Midnight",
+		"prompt": "The eerie and unsettling hours of the night when the world is shrouded in darkness, and a sense of unease and mystery hangs in the air, inviting suspense and trepidation.",
+		"negative_prompt": "Uneerie, ordinary, lacking darkness, unsuspenseful, mundane."
+	},
+	{
+		"name": "Afternoon Bliss",
+		"prompt": "The tranquil and idyllic hours of late afternoon when the world seems to slow down, with the sun casting a warm and comforting light, creating a sense of contentment and serenity.",
+		"negative_prompt": "Unafternoon, ordinary, lacking tranquility, uncontented, mundane."
+	},
+	{
+		"name": "Moonlit Reflection",
+		"prompt": "The introspective and contemplative hours of night when the moonlight illuminates the world, casting a reflective and introspective mood, inviting deep thought and self-discovery.",
+		"negative_prompt": "Unmoonlit, ordinary, lacking reflection, unreflective, mundane."
+	},
+	{
+		"name": "Daybreak's Hope",
+		"prompt": "The tender and promising moments of early morning when the world emerges from darkness, with the sky painted in delicate hues, creating a sense of renewal and optimism.",
+		"negative_prompt": "Undaybreak, ordinary, lacking tenderness, unoptimistic, mundane."
+	}
 ]

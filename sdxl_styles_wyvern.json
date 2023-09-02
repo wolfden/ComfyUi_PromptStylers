@@ -1,0 +1,107 @@
+[
+    {
+        "name": "none byWyvern",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+		"name": "Azure Skywing",
+		"prompt": "A majestic wyvern with scales as blue as the sky, capable of soaring through the heavens with grace and power, evoking a sense of awe and wonder.",
+		"negative_prompt": "Non-azure, ordinary, lacking grace, unpowerful, mundane."
+	},
+	{
+		"name": "Emerald Venomspine",
+		"prompt": "A deadly wyvern adorned in emerald green scales, equipped with venomous spines that it launches at its prey with deadly accuracy, creating a sense of danger and intrigue.",
+		"negative_prompt": "Non-emerald, ordinary, lacking venom, unaccurate, mundane."
+	},
+	{
+		"name": "Crimson Firebreath",
+		"prompt": "A fearsome wyvern with fiery red scales and the ability to unleash scorching flames from its maw, capable of turning anything to ash, evoking a sense of terror and destruction.",
+		"negative_prompt": "Non-crimson, ordinary, lacking fire, unscorching, mundane."
+	},
+	{
+		"name": "Golden Serpentwing",
+		"prompt": "A regal wyvern with gleaming golden scales and wings that shimmer in the sunlight, a symbol of wealth and power, creating a sense of opulence and grandeur.",
+		"negative_prompt": "Non-golden, ordinary, lacking wings, unshimmering, mundane."
+	},
+	{
+		"name": "Shadowy Nightstalker",
+		"prompt": "A stealthy wyvern with inky black scales that can blend seamlessly into the night, lurking in the shadows and striking with swift and deadly precision, evoking a sense of mystery and fear.",
+		"negative_prompt": "Non-shadowy, ordinary, lacking stealth, unprecise, mundane."
+	},
+	{
+		"name": "Crystal Frostclaw",
+		"prompt": "An ice-cold wyvern with translucent crystal-like scales and talons sharp enough to shatter stone, capable of freezing its prey solid, creating a sense of icy beauty and danger.",
+		"negative_prompt": "Non-crystal, ordinary, lacking frost, unshattering, mundane."
+	},
+	{
+		"name": "Sapphire Stormrider",
+		"prompt": "A wyvern with stormy blue scales and the power to control the weather, summoning thunderstorms and tornadoes at will, evoking a sense of elemental might and chaos.",
+		"negative_prompt": "Non-sapphire, ordinary, lacking storm control, unsummoning, mundane."
+	},
+	{
+		"name": "Onyx Deathwing",
+		"prompt": "A wyvern of darkness with onyx black scales and the ability to drain the life force from its victims, leaving behind a trail of death and desolation, creating a sense of dread and malevolence.",
+		"negative_prompt": "Non-onyx, ordinary, lacking life drain, undraining, mundane."
+	},
+	{
+		"name": "Amethyst Dreamwing",
+		"prompt": "A mystical wyvern with amethyst-hued scales and the power to enter the dreams of mortals, offering wisdom or weaving nightmares, evoking a sense of enchantment and mysticism.",
+		"negative_prompt": "Non-amethyst, ordinary, lacking dream entry, unwisdom, mundane."
+	},
+	{
+		"name": "Verdant Forestgale",
+		"prompt": "A wyvern of the wilds with verdant green scales, capable of manipulating the forces of nature, summoning winds and unleashing the fury of the forest, creating a sense of natural harmony and chaos.",
+		"negative_prompt": "Non-verdant, ordinary, lacking nature manipulation, unsummoning, mundane."
+	},
+	{
+		"name": "Topaz Thunderstrike",
+		"prompt": "A thunderous wyvern with scales the color of topaz and the power to summon lightning bolts from the sky, striking down its foes with electrifying force, evoking a sense of electrifying power and awe.",
+		"negative_prompt": "Non-topaz, ordinary, lacking lightning, unstriking, mundane."
+	},
+	{
+		"name": "Obsidian Nightshade",
+		"prompt": "A nocturnal wyvern with obsidian-black scales and the ability to create impenetrable darkness, enveloping its prey in inescapable shadows, creating a sense of darkness and fear.",
+		"negative_prompt": "Non-obsidian, ordinary, lacking darkness, unenveloping, mundane."
+	},
+	{
+		"name": "Ruby Flameheart",
+		"prompt": "A passionate wyvern with fiery red scales that can channel its inner flame into powerful bursts of fire, igniting its enemies with relentless fury, creating a sense of fiery determination and destruction.",
+		"negative_prompt": "Non-ruby, ordinary, lacking flame, unigniting, mundane."
+	},
+	{
+		"name": "Aurora Skydancer",
+		"prompt": "A graceful wyvern with iridescent scales that shimmer like the Northern Lights, capable of mesmerizing its prey with hypnotic displays, creating a sense of ethereal beauty and enchantment.",
+		"negative_prompt": "Non-aurora, ordinary, lacking shimmer, unmesmerizing, mundane."
+	},
+	{
+		"name": "Cerulean Wavecrest",
+		"prompt": "A coastal wyvern with cerulean scales that rides the ocean's waves and commands the tides, creating surges and storms, evoking a sense of maritime might and chaos.",
+		"negative_prompt": "Non-cerulean, ordinary, lacking wave control, uncreating surges, mundane."
+	},
+	{
+		"name": "Opal Dreamseeker",
+		"prompt": "A visionary wyvern with opalescent scales and the ability to reveal hidden truths and glimpses of the future through its dreams, creating a sense of prophetic insight and mystique.",
+		"negative_prompt": "Non-opal, ordinary, lacking dream vision, untruthful, mundane."
+	},
+	{
+		"name": "Crimson Inferno",
+		"prompt": "A blazing wyvern with crimson scales and an insatiable appetite for destruction, capable of turning the world to ash with its fiery breath, creating a sense of fiery apocalypse and chaos.",
+		"negative_prompt": "Non-crimson, ordinary, lacking destruction, unincinerating, mundane."
+	},
+	{
+		"name": "Sapphire Stormsurge",
+		"prompt": "A tempestuous wyvern with sapphire scales and the power to conjure raging storms at sea, summoning massive waves and whirlpools, evoking a sense of aquatic fury and mayhem.",
+		"negative_prompt": "Non-sapphire, ordinary, lacking storm conjuring, unwhirlpooling, mundane."
+	},
+	{
+		"name": "Emerald Forestwhisper",
+		"prompt": "A guardian wyvern with emerald-green scales that protects the heart of the ancient forest, communicating with the spirits of the woods and defending its domain with unwavering resolve, creating a sense of natural harmony and protection.",
+		"negative_prompt": "Non-emerald, ordinary, lacking forest protection, undefending, mundane."
+	},
+	{
+		"name": "Crystal Moonshroud",
+		"prompt": "A mystical wyvern with crystalline scales that reflects the light of the moon, capable of creating illusions and bending reality to its whims, evoking a sense of enchantment and illusion.",
+		"negative_prompt": "Non-crystal, ordinary, lacking illusion, unreflecting, mundane."
+	}
+]

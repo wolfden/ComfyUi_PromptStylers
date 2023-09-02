@@ -5,9 +5,9 @@
         "negative_prompt": ""
     },
 	{
-    "name": "Morning Light on the Seine",
-    "prompt": "Capture the soft, early morning light reflecting on the gentle ripples of the Seine River, creating a tranquil and luminous atmosphere.",
-    "negative_prompt": "Harsh shadows, overworked details, static, dull colors, lack of atmosphere."
+		"name": "Morning Light on the Seine",
+		"prompt": "Capture the soft, early morning light reflecting on the gentle ripples of the Seine River, creating a tranquil and luminous atmosphere.",
+		"negative_prompt": "Harsh shadows, overworked details, static, dull colors, lack of atmosphere."
 	},
 	{
 		"name": "Fields of Sunflowers in Bloom",
@@ -103,6 +103,55 @@
 		"name": "A Country Path in Autumn",
 		"prompt": "Convey the rustic beauty of a countryside path in autumn, with colorful leaves carpeting the ground and the soft, golden hues of the autumnal light.",
 		"negative_prompt": "Lack of rustic charm, flat colors, lack of autumnal ambiance, unrealistic colors, overworked details."
+	},
+	{
+		"name": "Sunset Over a Tranquil Lake",
+		"prompt": "Capture the serene beauty of a lake at sunset, with the fading light casting a warm, golden glow over the water and the surrounding landscape.",
+		"negative_prompt": "Lack of serenity, harsh lighting, lack of warmth, unrealistic colors, overworked details."
+	},
+	{
+		"name": "A Parisian Street Cafe in Spring",
+		"prompt": "Paint the lively atmosphere of a street cafe in Paris during springtime, with patrons enjoying coffee, colorful flowers in bloom, and the energy of the city.",
+		"negative_prompt": "Lack of liveliness, static figures, lack of spring ambiance, unrealistic colors, overworked details."
+	},
+	{
+		"name": "A Field of Poppies in a Breeze",
+		"prompt": "Convey the vibrant beauty of a field of poppies swaying in a gentle breeze, with their bright red petals dancing in the wind and the play of light and shadow.",
+		"negative_prompt": "Lack of vibrancy, static flowers, lack of movement, unrealistic colors, overworked details."
+	},
+	{
+		"name": "A Moonlit Forest Glade",
+		"prompt": "Capture the enchantment of a moonlit forest glade, with dappled moonlight filtering through the trees, illuminating the magical scene.",
+		"negative_prompt": "Lack of enchantment, harsh lighting, lack of ambiance, unrealistic colors, overworked details."
+	},
+	{
+		"name": "A Canal in Venice at Dusk",
+		"prompt": "Paint the romantic ambiance of a Venetian canal at dusk, with gondolas gliding on the water, the soft glow of lanterns, and the reflection of buildings in the canal.",
+		"negative_prompt": "Lack of romance, static figures, lack of dusk ambiance, unrealistic colors, overworked details."
+	},
+	{
+		"name": "A Garden in Full Bloom",
+		"prompt": "Convey the abundance of a garden in full bloom, with a riot of colorful flowers, bees buzzing, and the lush foliage bathed in sunlight.",
+		"negative_prompt": "Lack of abundance, static flowers, lack of vitality, unrealistic colors, overworked details."
+	},
+	{
+		"name": "The Eiffel Tower at Night",
+		"prompt": "Capture the iconic Eiffel Tower illuminated at night, with its intricate ironwork and the shimmering lights of the city of Paris in the background.",
+		"negative_prompt": "Lack of illumination, static structure, lack of nighttime ambiance, unrealistic colors, overworked details."
+	},
+	{
+		"name": "A Coastal Cliff at Sunrise",
+		"prompt": "Paint the dramatic beauty of a coastal cliff at sunrise, with crashing waves, a fiery sky, and the rugged landscape bathed in the first light of day.",
+		"negative_prompt": "Lack of drama, static waves, lack of sunrise ambiance, unrealistic colors, overworked details."
+	},
+	{
+		"name": "A Peaceful Meadow in Summer",
+		"prompt": "Convey the tranquility of a summer meadow, with wildflowers, butterflies, and a gentle stream winding through the idyllic landscape.",
+		"negative_prompt": "Lack of tranquility, static meadow, lack of summer ambiance, unrealistic colors, overworked details."
+	},
+	{
+		"name": "A Lakeside Cabin in Autumn",
+		"prompt": "Capture the cozy charm of a lakeside cabin surrounded by colorful autumn foliage, with the reflection of the cabin and the trees in the still water of the lake.",
+		"negative_prompt": "Lack of coziness, static cabin, lack of autumn ambiance, unrealistic colors, overworked details."
 	}
-
 ]
