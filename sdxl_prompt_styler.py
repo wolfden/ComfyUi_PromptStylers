@@ -1450,7 +1450,7 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "SDXLPromptbyGothicRevival": "Prompt Styler Gothic Revival",
     "SDXLPromptStylerHorror": "Prompt Styler Horror",
     "SDXLPromptStylerbyImpressionism": "Prompt Styler Impressionism",
-    "SDXLPromptbyIrishFolkArt": Prompt Styler Irish Folk Art,
+    "SDXLPromptbyIrishFolkArt": "Prompt Styler Irish Folk Art",
     "SDXLPromptStylerbyLighting": "Prompt Styler Lighting",
     "SDXLPromptStylerbyMileHigh": "Prompt Styler MileHigh",
     "SDXLPromptStylerMisc": "Prompt Styler Misc",
