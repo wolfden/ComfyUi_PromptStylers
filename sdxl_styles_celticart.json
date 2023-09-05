@@ -1,0 +1,158 @@
+[
+    {
+        "name": "none byCelticArt",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+	{
+	   "name": "Celtic Knotwork Elegance",
+	   "prompt": "Illustrate intricate Celtic knotwork designs characterized by endless loops and interwoven patterns, showcasing the elegance and precision of this timeless art form.",
+	   "negative_prompt": "Lack of intricate knotwork, absence of Celtic motifs."
+	},
+	{
+	   "name": "Mystical Celtic Forest",
+	   "prompt": "Craft a mystical forest scene infused with Celtic symbolism, featuring ancient trees, mythical creatures, and hidden druidic elements that evoke a sense of wonder and enchantment.",
+	   "negative_prompt": "Ordinary forest scene, absence of Celtic symbolism."
+	},
+	{
+	   "name": "Celtic Mythological Saga",
+	   "prompt": "Illustrate a scene from Celtic mythology, bringing to life legendary tales of heroes, gods, and mythical creatures in a style that captures the essence of these ancient stories.",
+	   "negative_prompt": "Lack of mythological elements, absence of Celtic storytelling."
+	},
+	{
+	   "name": "Celtic Warrior's Journey",
+	   "prompt": "Depict the heroic journey of a Celtic warrior in a richly detailed and historically accurate style, highlighting the warrior's bravery, honor, and connection to Celtic heritage.",
+	   "negative_prompt": "Lack of historical accuracy, absence of warrior theme."
+	},
+	{
+	   "name": "Celtic Knotwork Mandala",
+	   "prompt": "Create a mesmerizing Celtic knotwork mandala, blending intricate patterns with spiritual symbolism, and evoking a sense of harmony, balance, and interconnectedness.",
+	   "negative_prompt": "Absence of mandala design, lack of spiritual symbolism."
+	},
+	{
+	   "name": "Celtic Music and Dance",
+	   "prompt": "Capture the spirit of Celtic music and dance in a lively and energetic style, featuring musicians, dancers, and instruments that convey the joy and rhythm of Celtic culture.",
+	   "negative_prompt": "Lack of music and dance elements, absence of Celtic cultural motifs."
+	},
+	{
+	   "name": "Celtic Nature Reverie",
+	   "prompt": "Paint a tranquil and contemplative scene inspired by Celtic reverence for nature, showcasing serene landscapes, wildlife, and the spiritual connection between Celts and the natural world.",
+	   "negative_prompt": "Ordinary natural landscape, absence of Celtic nature symbolism."
+	},
+	{
+	   "name": "Celtic Illuminated Manuscript",
+	   "prompt": "Create a visually stunning illuminated manuscript page in the Celtic tradition, featuring intricate calligraphy, ornate borders, and mythological illustrations that reflect the artistry of ancient scribes.",
+	   "negative_prompt": "Lack of illuminated manuscript elements, absence of Celtic motifs."
+	},
+	{
+	   "name": "Celtic Knotwork Wildlife",
+	   "prompt": "Celebrate Celtic love for wildlife by depicting animals intertwined with intricate knotwork, capturing the beauty and symbolism of animals in Celtic culture.",
+	   "negative_prompt": "Lack of wildlife, absence of Celtic knotwork."
+	},
+	{
+	   "name": "Celtic Cross Reverence",
+	   "prompt": "Illustrate a majestic Celtic cross adorned with intricate designs and spiritual symbols, conveying the profound spirituality and religious significance associated with Celtic crosses.",
+	   "negative_prompt": "Absence of Celtic cross, lack of spiritual symbolism."
+	},
+	{
+	"name": "Celtic Dreamlike Enchantment",
+	"prompt": "Craft a dreamlike and ethereal scene inspired by Celtic folklore, where mystical beings, ancient ruins, and enchanting landscapes blend seamlessly into a surreal and enchanting composition.",
+	"negative_prompt": "Lack of mystical elements, absence of dreamlike qualities."
+	},
+	{
+	"name": "Celtic Warrior Queen's Saga",
+	"prompt": "Illustrate the epic saga of a Celtic warrior queen, capturing her strength, leadership, and fierce determination in a style that embodies the essence of Celtic heroines throughout history.",
+	"negative_prompt": "Absence of warrior queen theme, lack of heroic storytelling."
+	},
+	{
+	"name": "Celtic Knotwork Animal Totems",
+	"prompt": "Explore the concept of Celtic animal totems by creating a series of intricate knotwork designs, each representing the unique symbolism and spiritual significance of a particular animal.",
+	"negative_prompt": "Lack of animal symbolism, absence of Celtic knotwork."
+	},
+	{
+	"name": "Celtic Myths and Legends Tapestry",
+	"prompt": "Craft a tapestry-like composition featuring multiple scenes from Celtic myths and legends, interwoven with symbolic motifs, creating a visual narrative that honors Celtic storytelling traditions.",
+	"negative_prompt": "Absence of mythological scenes, lack of narrative cohesion."
+	},
+	{
+	"name": "Celtic Nature Spirits Invocation",
+	"prompt": "Invoke the spirits of Celtic nature deities in a mystical and reverent style, depicting the ethereal presence of ancient gods and goddesses within the natural world they govern.",
+	"negative_prompt": "Lack of nature spirits, absence of spiritual invocation."
+	},
+	{
+	"name": "Celtic Spiral Labyrinth",
+	"prompt": "Design a mesmerizing labyrinth adorned with intricate Celtic spiral patterns, symbolizing the journey of the soul, and invite viewers to explore the symbolism and mystery of the labyrinth.",
+	"negative_prompt": "Absence of labyrinth design, lack of spiritual symbolism."
+	},
+	{
+	"name": "Celtic Festive Celebration",
+	"prompt": "Illustrate a vibrant Celtic celebration, where joyful revelers partake in traditional festivals, dances, and rituals, embodying the spirit of communal festivity and cultural heritage.",
+	"negative_prompt": "Lack of festive elements, absence of cultural celebration."
+	},
+	{
+	"name": "Celtic Serpent Enigma",
+	"prompt": "Explore the enigmatic symbolism of Celtic serpents, known for their dualistic meanings, in a surreal and symbolic style that captures the mysterious allure of these ancient creatures.",
+	"negative_prompt": "Lack of serpent symbolism, absence of surreal elements."
+	},
+	{
+	"name": "Celtic Bard's Tale",
+	"prompt": "Depict a Celtic bard regaling an audience with tales of heroism, love, and myth, in a style that brings to life the rich oral tradition of Celtic storytelling and song.",
+	"negative_prompt": "Absence of bardic storytelling, lack of cultural elements."
+	},
+	{
+	"name": "Celtic Tree of Life Reverence",
+	"prompt": "Pay homage to the sacred Celtic Tree of Life by creating a majestic depiction filled with intricate symbolism and spiritual depth, embodying the enduring reverence for nature in Celtic culture.",
+	"negative_prompt": "Lack of Tree of Life symbolism, absence of spiritual reverence."
+	},
+	{
+	"name": "Celtic Elemental Elegance",
+	"prompt": "Explore the elements of earth, air, fire, and water through intricate Celtic motifs, weaving together the natural forces that have held significance in Celtic culture for centuries.",
+	"negative_prompt": "Absence of elemental symbolism, lack of Celtic motifs."
+	},
+	{
+	"name": "Celtic Druidic Ritual",
+	"prompt": "Illustrate a solemn and mystical Celtic druidic ritual, where ancient priests commune with the spirits of nature, blending historical accuracy with the magical essence of Celtic spirituality.",
+	"negative_prompt": "Lack of druidic elements, absence of mystical atmosphere."
+	},
+	{
+	"name": "Celtic Warrior's Ancestral Legacy",
+	"prompt": "Celebrate the enduring legacy of Celtic warriors by crafting a visual narrative that spans generations, showcasing the passing down of traditions, skills, and honor through time.",
+	"negative_prompt": "Absence of warrior legacy theme, lack of generational storytelling."
+	},
+	{
+	"name": "Celtic Ogham Script Artistry",
+	"prompt": "Explore the beauty and mystique of the ancient Celtic Ogham script, combining calligraphic elegance with spiritual symbolism, creating a visual celebration of Celtic linguistic heritage.",
+	"negative_prompt": "Lack of Ogham script, absence of linguistic symbolism."
+	},
+	{
+	"name": "Celtic Faerie Enchantment",
+	"prompt": "Evoke the enchanting world of Celtic faeries, spirits, and mythical creatures in a style that captures the ethereal and magical qualities of these beings from Celtic folklore.",
+	"negative_prompt": "Absence of faerie elements, lack of magical atmosphere."
+	},
+	{
+	"name": "Celtic Harpist's Melody",
+	"prompt": "Pay tribute to the soul-stirring music of Celtic harpists, portraying a musician enveloped in the melodies and rhythms of Celtic musical traditions, inviting viewers to hear the music through art.",
+	"negative_prompt": "Lack of harpist theme, absence of musical elements."
+	},
+	{
+	"name": "Celtic Stone Circle Mystery",
+	"prompt": "Craft a mysterious scene featuring a Celtic stone circle, shrouded in mist and ancient secrets. Capture the sense of wonder and reverence associated with these enigmatic structures.",
+	"negative_prompt": "Absence of stone circle, lack of mysterious atmosphere."
+	},
+	{
+	"name": "Celtic Goddess Invocation",
+	"prompt": "Invoke the presence of a Celtic goddess in a spiritual and reverent style, depicting her as a divine and ethereal being embodying the essence of femininity, nature, and Celtic spirituality.",
+	"negative_prompt": "Lack of goddess symbolism, absence of spiritual invocation."
+	},
+	{
+	"name": "Celtic Art Nouveau Fusion",
+	"prompt": "Fusion-style artwork that combines the intricate patterns of Celtic art with the organic, flowing lines of Art Nouveau, creating a harmonious and visually captivating artistic blend.",
+	"negative_prompt": "Absence of fusion elements, lack of artistic synergy."
+	},
+	{
+	"name": "Celtic Traveler's Odyssey",
+	"prompt": "Illustrate the journey of a Celtic traveler as they traverse landscapes, interact with diverse cultures, and embrace the adventure of exploration while celebrating the wanderlust of Celtic heritage.",
+	"negative_prompt": "Absence of traveler theme, lack of adventurous storytelling."
+	}
+	    
+]

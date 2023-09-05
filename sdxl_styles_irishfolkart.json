@@ -1,0 +1,158 @@
+[
+    {
+        "name": "none byIrishFolkArt",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+	{
+	"name": "Irish Cottage Reverie",
+	"prompt": "Paint a charming Irish countryside cottage nestled among rolling green hills, adorned with traditional thatched roofs and vibrant gardens, evoking the warmth and coziness of rural Ireland.",
+	"negative_prompt": "Absence of cottage scenery, lack of traditional Irish elements."
+	},
+	{
+	"name": "Irish Mythological Epic",
+	"prompt": "Illustrate a scene from Irish mythology, bringing to life legendary tales of Celtic gods, mythical creatures, and heroic figures in a style that captures the essence of Irish folklore.",
+	"negative_prompt": "Lack of mythological elements, absence of storytelling tradition."
+	},
+	{
+	"name": "Irish Coastal Seascapes",
+	"prompt": "Capture the rugged beauty of Ireland's coastal landscapes, where cliffs meet the roaring sea, and ancient castles stand as sentinels against the relentless waves, reflecting the raw nature of the Irish coast.",
+	"negative_prompt": "Ordinary coastal scenery, lack of ruggedness."
+	},
+	{
+	"name": "Irish Trad Music Session",
+	"prompt": "Illustrate a lively traditional Irish music session in a cozy pub, where musicians and dancers come together to celebrate the rich musical heritage of Ireland, capturing the spirit of the session.",
+	"negative_prompt": "Lack of music and dance elements, absence of Irish cultural motifs."
+	},
+	{
+	"name": "Irish Storyteller's Hearth",
+	"prompt": "Create an inviting scene around a hearth where an Irish storyteller weaves tales of ancient legends and folklore to captivated listeners, embodying the oral storytelling tradition of Ireland.",
+	"negative_prompt": "Absence of hearth scene, lack of storytelling ambiance."
+	},
+	{
+	"name": "Irish Wildlife Harmony",
+	"prompt": "Celebrate Ireland's diverse wildlife in a harmonious composition, featuring native animals and birds set against lush natural backdrops, capturing the delicate balance of nature in Irish ecosystems.",
+	"negative_prompt": "Lack of wildlife, absence of natural harmony."
+	},
+	{
+	"name": "Irish Claddagh Embrace",
+	"prompt": "Depict the iconic Claddagh symbol as a centerpiece, with two hands holding a heart adorned with a crown, symbolizing love, friendship, and loyalty, and incorporate intricate Irish design elements.",
+	"negative_prompt": "Absence of Claddagh symbolism, lack of Irish design motifs."
+	},
+	{
+	"name": "Irish Dancing Celebration",
+	"prompt": "Capture the exuberance and energy of Irish dance in a dynamic and colorful composition, featuring dancers in traditional costumes performing intricate steps and lively jigs.",
+	"negative_prompt": "Lack of dance elements, absence of traditional Irish dance."
+	},
+	{
+	"name": "Irish Landscape Tapestry",
+	"prompt": "Craft a tapestry-like composition showcasing diverse Irish landscapes, from serene lakes to lush valleys, combining them into a visual narrative that honors the natural beauty of Ireland.",
+	"negative_prompt": "Absence of diverse landscapes, lack of narrative cohesion."
+	},
+	{
+	"name": "Irish Celtic Cross Devotion",
+	"prompt": "Pay homage to the iconic Irish Celtic cross, adorned with intricate Celtic knotwork and religious symbolism, embodying the deep spiritual reverence associated with these timeless monuments.",
+	"negative_prompt": "Lack of Celtic cross, absence of religious symbolism."
+	},
+	{
+	"name": "Irish Traditional Crafts Showcase",
+	"prompt": "Highlight the craftsmanship of traditional Irish artisans, featuring intricate handwoven textiles, pottery, and other folk arts that reflect the dedication and skill of Irish crafters.",
+	"negative_prompt": "Absence of traditional crafts, lack of artisanal elements."
+	},
+	{
+	"name": "Irish Fairytale Enchantment",
+	"prompt": "Evoke the enchantment of Irish folklore by illustrating a scene from a beloved Irish fairytale, filled with magical creatures, ancient forests, and the whimsical essence of Irish storytelling.",
+	"negative_prompt": "Lack of fairytale elements, absence of magical atmosphere."
+	},
+	{
+	"name": "Irish Castle Dreamscape",
+	"prompt": "Craft a surreal and whimsical dreamscape featuring an Irish castle amidst a fantastical landscape, where reality blends with imagination, capturing the mystique of Irish historical sites.",
+	"negative_prompt": "Ordinary castle scenery, lack of surreal elements."
+	},
+	{
+	"name": "Irish Folk Music Journey",
+	"prompt": "Take viewers on a visual journey through the history of Irish folk music, showcasing iconic instruments, musicians, and milestones that have shaped the rich musical heritage of Ireland.",
+	"negative_prompt": "Lack of music history elements, absence of Irish musical motifs."
+	},
+	{
+	"name": "Irish Bogland Serenity",
+	"prompt": "Capture the tranquil and mystical beauty of Irish boglands, featuring serene waters, unique flora, and the serene ambiance of these ancient and ecologically vital landscapes.",
+	"negative_prompt": "Lack of bogland scenery, absence of serenity."
+	},
+	{
+	"name": "Irish Whimsical Seafolk",
+	"prompt": "Illustrate a whimsical underwater scene populated by Irish seafolk and mermaids, blending elements of Irish mythology with playful and imaginative aquatic characters.",
+	"negative_prompt": "Absence of seafolk, lack of underwater whimsy."
+	},
+	{
+	"name": "Irish Rural Farmstead",
+	"prompt": "Paint a picturesque Irish rural farmstead with rolling pastures, grazing animals, and quaint cottages, capturing the idyllic simplicity and charm of Ireland's countryside.",
+	"negative_prompt": "Lack of farmstead scenery, absence of rural elements."
+	},
+	{
+	"name": "Irish Lighthouse Guardians",
+	"prompt": "Depict the stoic guardianship of Irish lighthouses amidst stormy coastal weather, emphasizing the resilience and importance of these maritime beacons in Irish history.",
+	"negative_prompt": "Absence of lighthouse scene, lack of stormy weather."
+	},
+	{
+	"name": "Irish Traditions at the Crossroads",
+	"prompt": "Illustrate a vibrant scene at an Irish crossroads dance, where traditional music, dance, and social gatherings converge, showcasing the cultural heart of rural Ireland.",
+	"negative_prompt": "Lack of crossroads dance, absence of traditional Irish festivities."
+	},
+	{
+	"name": "Irish Celtic Spirals of Time",
+	"prompt": "Explore the concept of time through intricate Celtic spiral patterns, symbolizing the cyclical nature of existence and the eternal connection between past, present, and future.",
+	"negative_prompt": "Absence of Celtic spiral motifs, lack of time symbolism."
+	},
+	{
+	"name": "Irish Cultural Traditions Mosaic",
+	"prompt": "Create a vibrant mosaic of Irish cultural traditions, featuring elements such as dance, music, language, and folklore in a harmonious and colorful composition.",
+	"negative_prompt": "Lack of cultural elements, absence of mosaic design."
+	},
+	{
+	"name": "Irish Poetry and Literature Tribute",
+	"prompt": "Pay tribute to the rich literary heritage of Ireland by illustrating scenes and characters from famous Irish poems, stories, and plays in a style that captures the essence of Irish literature.",
+	"negative_prompt": "Lack of literary references, absence of storytelling ambiance."
+	},
+	{
+	"name": "Irish Harvest Celebration",
+	"prompt": "Illustrate a festive Irish harvest celebration, featuring farmers, bountiful crops, and traditional rituals that mark the culmination of hard work and the abundance of the season.",
+	"negative_prompt": "Absence of harvest celebration, lack of agricultural motifs."
+	},
+	{
+	"name": "Irish Bog Myths and Legends",
+	"prompt": "Explore the mystical myths and legends associated with Irish bogs, depicting legendary creatures, ancient artifacts, and the eerie allure of these unique landscapes.",
+	"negative_prompt": "Lack of bog myths, absence of mystical elements."
+	},
+	{
+	"name": "Irish River Folklore Enchantment",
+	"prompt": "Craft a scene inspired by Irish river folklore, featuring ethereal river spirits, water nymphs, and enchanting stories that highlight the deep spiritual connection between the Irish and their rivers.",
+	"negative_prompt": "Absence of river folklore, lack of aquatic enchantment."
+	},
+	{
+	"name": "Irish Emerald Isle Fantasy",
+	"prompt": "Create a fantastical version of the Emerald Isle, where lush forests, mythical creatures, and whimsical landscapes come to life, embodying the magical and dreamlike aspects of Irish folklore.",
+	"negative_prompt": "Lack of fantastical elements, absence of whimsical landscapes."
+	},
+	{
+	"name": "Irish St. Patrick's Day Parade",
+	"prompt": "Illustrate a lively St. Patrick's Day parade in a joyful and colorful style, featuring marching bands, leprechauns, shamrocks, and the vibrant spirit of this beloved Irish celebration.",
+	"negative_prompt": "Lack of St. Patrick's Day elements, absence of parade festivities."
+	},
+	{
+	"name": "Irish Castle Ruins Reverie",
+	"prompt": "Paint a scene featuring the majestic ruins of an Irish castle amidst a serene countryside, capturing the romantic and historical allure of these ancient structures.",
+	"negative_prompt": "Absence of castle ruins, lack of historical ambiance."
+	},
+	{
+	"name": "Irish Seafaring Tales",
+	"prompt": "Illustrate tales of Irish seafarers, adventurers, and sailors, depicting their epic journeys, encounters with sea creatures, and the maritime traditions that define Ireland's seafaring legacy.",
+	"negative_prompt": "Lack of seafaring themes, absence of maritime elements."
+	},
+	{
+	"name": "Irish Celtic Crossroads Puzzles",
+	"prompt": "Create intricate Celtic knotwork puzzles inspired by the symbolism of Irish crossroads, challenging viewers to unlock the hidden meanings and connections within these enigmatic designs.",
+	"negative_prompt": "Absence of Celtic puzzles, lack of crossroads symbolism."
+	}
+
+]
