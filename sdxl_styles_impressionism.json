@@ -95,8 +95,8 @@
 		"negative_prompt": "Lack of tranquility, static water, lack of reflection, unrealistic colors, overworked details."
 	},
 	{
-		"name": "Café Terrace at Night",
-		"prompt": "Capture the nocturnal atmosphere of a bustling café terrace at night, with patrons seated at tables, under the soft glow of street lamps and starry skies.",
+		"name": "Cafe Terrace at Night",
+		"prompt": "Capture the nocturnal atmosphere of a bustling cafe terrace at night, with patrons seated at tables, under the soft glow of street lamps and starry skies.",
 		"negative_prompt": "Lack of nocturnal atmosphere, harsh lighting, lack of ambiance, unrealistic colors, overly detailed."
 	},
 	{
