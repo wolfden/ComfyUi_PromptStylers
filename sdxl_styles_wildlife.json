@@ -1,0 +1,158 @@
+[
+    {
+        "name": "none byWildlife",
+        "prompt": "",
+        "negative_prompt": ""
+    },
+    {
+	  "name": "African Safari Adventure",
+	  "prompt": "Embark on an African safari adventure and capture the majesty of wildlife. Illustrate a scene with lions, elephants, and giraffes in their natural habitat.",
+	  "negative_prompt": "Urban environment, lack of wildlife, absence of safari elements, non-safari scene."
+	},
+	{
+	  "name": "Arctic Wildlife Encounter",
+	  "prompt": "Explore the beauty of Arctic wildlife. Depict a polar bear on a vast icy landscape or a group of penguins huddled together in the cold.",
+	  "negative_prompt": "Tropical setting, lack of Arctic wildlife, absence of icy elements, non-Arctic scene."
+	},
+	{
+	  "name": "Underwater Coral Reef Wonderland",
+	  "prompt": "Dive into the vibrant world of coral reefs. Illustrate a colorful underwater scene with tropical fish, corals, and sea turtles in their mesmerizing habitat.",
+	  "negative_prompt": "Desert landscape, lack of underwater life, absence of coral elements, non-underwater scene."
+	},
+	{
+	  "name": "Amazon Rainforest Biodiversity",
+	  "prompt": "Discover the incredible biodiversity of the Amazon rainforest. Capture a lush scene with exotic birds, monkeys, and lush greenery in the heart of the jungle.",
+	  "negative_prompt": "Urban setting, lack of rainforest life, absence of lush greenery, non-rainforest scene."
+	},
+	{
+	  "name": "Savannah Wildlife Spectacle",
+	  "prompt": "Witness the grandeur of the African savannah. Depict a sweeping landscape with zebras, wildebeests, and cheetahs in a breathtaking natural tableau.",
+	  "negative_prompt": "Polar setting, lack of savannah life, absence of grasslands, non-savannah scene."
+	},
+	{
+	  "name": "Australian Outback Encounter",
+	  "prompt": "Explore the rugged beauty of the Australian outback. Illustrate a scene with kangaroos, koalas, and unique flora in this iconic Australian wilderness.",
+	  "negative_prompt": "Tropical paradise, lack of outback wildlife, absence of arid terrain, non-outback scene."
+	},
+	{
+	  "name": "Deep Sea Discovery",
+	  "prompt": "Delve into the mysteries of the deep sea. Depict a bioluminescent underwater world with strange creatures, jellyfish, and deep-sea flora in the abyss.",
+	  "negative_prompt": "Surface world, lack of deep-sea life, absence of bioluminescence, non-deep-sea scene."
+	},
+	{
+	  "name": "North American Wilderness Serenity",
+	  "prompt": "Experience the tranquility of the North American wilderness. Capture a serene scene with deer, bears, and serene forests under a clear blue sky.",
+	  "negative_prompt": "Desert landscape, lack of wilderness life, absence of forests, non-wilderness scene."
+	},
+	{
+	  "name": "Tropical Rainforest Canopy",
+	  "prompt": "Ascend to the canopy of a tropical rainforest. Illustrate a scene with toucans, colorful butterflies, and lush canopy foliage high above the forest floor.",
+	  "negative_prompt": "Urban setting, lack of rainforest life, absence of canopy foliage, non-rainforest scene."
+	},
+	{
+	  "name": "African Elephant Migration",
+	  "prompt": "Witness the epic African elephant migration. Depict a sweeping landscape with a herd of elephants on the move across the vast savannah.",
+	  "negative_prompt": "Arctic environment, lack of elephants, absence of savannah terrain, non-migration scene."
+	},
+	{
+	  "name": "Antarctic Penguin Parade",
+	  "prompt": "Experience the charm of a penguin parade in Antarctica. Illustrate a scene with adorable penguins marching in unison on the icy continent.",
+	  "negative_prompt": "Desert landscape, lack of penguins, absence of icy terrain, non-Antarctic scene."
+	},
+	{
+	  "name": "Majestic Mountain Wildlife",
+	  "prompt": "Capture the majesty of mountain wildlife. Depict a serene scene with mountain goats, eagles, and other creatures thriving in the high-altitude environment.",
+	  "negative_prompt": "Underwater setting, lack of mountain wildlife, absence of mountain terrain, non-mountain scene."
+	},
+	{
+	  "name": "Jungle Canopy Adventure",
+	  "prompt": "Embark on an adventure in the jungle canopy. Illustrate a scene with monkeys swinging through the trees, vibrant birds, and lush greenery.",
+	  "negative_prompt": "Arctic setting, lack of jungle wildlife, absence of canopy foliage, non-jungle scene."
+	},
+	{
+	  "name": "African Big Five Safari",
+	  "prompt": "Embark on an African safari and encounter the Big Five. Capture a scene with lions, leopards, rhinoceroses, elephants, and buffaloes in their natural habitat.",
+	  "negative_prompt": "Urban environment, lack of Big Five animals, absence of safari elements, non-safari scene."
+	},
+	{
+	  "name": "Arctic Foxes in the Snow",
+	  "prompt": "Witness the resilience of Arctic foxes in the snowy wilderness. Depict these white-furred foxes navigating their snowy environment with grace and adaptability.",
+	  "negative_prompt": "Tropical setting, lack of Arctic foxes, absence of snowy terrain, non-Arctic scene."
+	},
+	{
+	  "name": "Australian Reef Life",
+	  "prompt": "Dive into the vibrant life of the Great Barrier Reef. Illustrate a colorful underwater scene with coral formations, sea turtles, and a multitude of fish species.",
+	  "negative_prompt": "Desert landscape, lack of reef life, absence of coral formations, non-reef scene."
+	},
+	{
+	  "name": "African Cheetah Sprint",
+	  "prompt": "Experience the lightning-fast sprint of a cheetah in the African savannah. Capture the cheetah's incredible speed and grace as it chases prey.",
+	  "negative_prompt": "Tropical paradise, lack of cheetahs, absence of savannah terrain, non-sprint scene."
+	},
+	{
+	  "name": "Amazon River Wildlife",
+	  "prompt": "Explore the rich diversity of wildlife along the Amazon River. Depict a scene with river dolphins, colorful birds, and lush vegetation along the riverbanks.",
+	  "negative_prompt": "Urban setting, lack of river wildlife, absence of river scenery, non-Amazon scene."
+	},
+	{
+	  "name": "Boreal Forest Moose Encounter",
+	  "prompt": "Encounter the majesty of a moose in a boreal forest. Illustrate a serene scene with a moose wading in a forested lake, surrounded by lush greenery.",
+	  "negative_prompt": "Underwater setting, lack of moose, absence of boreal forest, non-encounter scene."
+	},
+	{
+	  "name": "Gorilla Family in the Jungle",
+	  "prompt": "Observe a family of gorillas in their jungle habitat. Capture a heartwarming scene of gorillas bonding, with lush vegetation as their backdrop.",
+	  "negative_prompt": "Desert landscape, lack of gorillas, absence of jungle elements, non-jungle scene."
+	},
+	{
+	  "name": "Alaskan Brown Bear Fishing",
+	  "prompt": "Witness the fishing prowess of Alaskan brown bears. Illustrate a scene with a massive bear standing in a rushing river, catching salmon in its powerful jaws.",
+	  "negative_prompt": "Tropical paradise, lack of bears, absence of a river, non-Alaskan scene."
+	},
+	{
+	  "name": "African Serengeti Migration",
+	  "prompt": "Experience the epic annual migration of wildebeests in the African Serengeti. Depict a sweeping landscape with thousands of wildebeests on the move.",
+	  "negative_prompt": "Arctic setting, lack of wildebeests, absence of savannah terrain, non-migration scene."
+	},
+	{
+	  "name": "Coral Polyp Microcosm",
+	  "prompt": "Explore the microscopic world of coral polyps in a coral reef. Illustrate the intricate beauty of these tiny organisms building coral structures.",
+	  "negative_prompt": "Desert landscape, lack of coral polyps, absence of a reef, non-coral scene."
+	},
+	{
+	  "name": "Bengal Tiger in the Jungle",
+	  "prompt": "Observe the elusive Bengal tiger in its jungle habitat. Capture a scene of a majestic tiger prowling through dense foliage with stealth and grace.",
+	  "negative_prompt": "Arctic setting, lack of tigers, absence of jungle elements, non-tiger scene."
+	},
+	{
+	  "name": "Humpback Whale Breach",
+	  "prompt": "Experience the breathtaking sight of a humpback whale breaching the surface. Illustrate the sheer power and beauty of this massive marine mammal in action.",
+	  "negative_prompt": "Desert landscape, lack of humpback whales, absence of ocean, non-whale scene."
+	},
+	{
+	  "name": "Red-Eyed Tree Frog in the Rainforest",
+	  "prompt": "Discover the vibrant colors of a red-eyed tree frog in the lush rainforest. Depict this small but stunning amphibian in its natural habitat.",
+	  "negative_prompt": "Urban setting, lack of tree frogs, absence of rainforest elements, non-frog scene."
+	},
+	{
+	  "name": "Siberian Tiger Stalking Prey",
+	  "prompt": "Witness the stealth and determination of a Siberian tiger stalking its prey. Capture the intensity of the tiger's focus as it prepares for a hunt.",
+	  "negative_prompt": "Tropical paradise, lack of tigers, absence of stalking elements, non-tiger scene."
+	},
+	{
+	  "name": "Monarch Butterfly Migration",
+	  "prompt": "Follow the incredible journey of Monarch butterflies during their migration. Illustrate a scene with thousands of butterflies covering trees in a Mexican forest.",
+	  "negative_prompt": "Arctic setting, lack of butterflies, absence of migration, non-butterfly scene."
+	},
+	{
+	  "name": "African Nile Crocodile Basking",
+	  "prompt": "Observe the ancient Nile crocodile basking in the sun along the African riverbanks. Capture the prehistoric appearance of this formidable reptile.",
+	  "negative_prompt": "Tropical paradise, lack of crocodiles, absence of riverbanks, non-crocodile scene."
+	},
+	{
+	  "name": "Honeybee Hive Activity",
+	  "prompt": "Enter the busy world of a honeybee hive. Illustrate the organized chaos as worker bees tend to their hive, collecting nectar and producing honey.",
+	  "negative_prompt": "Desert landscape, lack of honeybees, absence of hive activity, non-hive scene."
+	}
+
+]

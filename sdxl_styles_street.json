@@ -1,0 +1,158 @@
+[
+    {
+        "name": "none byStreet",
+        "prompt": "",
+        "negative_prompt": ""
+    },
+    {
+	  "name": "Urban Graffiti Art",
+	  "prompt": "Immerse yourself in the vibrant world of urban graffiti art. Illustrate a colorful street scene with intricate graffiti, capturing the essence of street culture.",
+	  "negative_prompt": "Rural landscape, lack of graffiti art, absence of street elements, non-urban scene."
+	},
+	{
+	  "name": "City Street Market",
+	  "prompt": "Explore the bustling atmosphere of a city street market. Depict a lively scene with street vendors, colorful stalls, and a diverse crowd of shoppers.",
+	  "negative_prompt": "Desert setting, lack of market, absence of street elements, non-city scene."
+	},
+	{
+	  "name": "Street Performers' Showcase",
+	  "prompt": "Witness the talent of street performers in a vibrant city. Capture a scene with musicians, dancers, and artists showcasing their skills on the street.",
+	  "negative_prompt": "Quiet countryside, lack of performers, absence of street talent, non-street scene."
+	},
+	{
+	  "name": "Neon-lit Nightlife",
+	  "prompt": "Step into the neon-lit world of urban nightlife. Illustrate a scene with illuminated signs, bustling clubs, and people enjoying the energetic atmosphere.",
+	  "negative_prompt": "Daytime scene, lack of nightlife, absence of neon lights, non-urban scene."
+	},
+	{
+	  "name": "Street Food Delight",
+	  "prompt": "Savor the flavors of street food in a bustling city. Depict a scene with food vendors selling diverse and delicious street eats to a hungry crowd.",
+	  "negative_prompt": "Remote wilderness, lack of street food, absence of vendors, non-street scene."
+	},
+	{
+	  "name": "Street Fashion Runway",
+	  "prompt": "Celebrate street fashion on a vibrant urban runway. Capture models showcasing eclectic streetwear designs in the heart of the city.",
+	  "negative_prompt": "Natural landscape, lack of fashion, absence of runway, non-urban scene."
+	},
+	{
+	  "name": "Street Skateboarding Session",
+	  "prompt": "Feel the thrill of a street skateboarding session. Illustrate a scene with skateboarders performing tricks, defying gravity, and embracing the street culture.",
+	  "negative_prompt": "Indoor setting, lack of skateboarding, absence of tricks, non-street scene."
+	},
+	{
+	  "name": "Street Art Mural Festival",
+	  "prompt": "Immerse yourself in a street art mural festival. Depict a scene with artists creating large-scale murals that transform urban walls into works of art.",
+	  "negative_prompt": "Countryside setting, lack of murals, absence of art festival, non-street scene."
+	},
+	{
+	  "name": "Street Photography Icon",
+	  "prompt": "Capture an iconic moment in street photography. Illustrate a scene with a street photographer capturing a candid and memorable urban moment.",
+	  "negative_prompt": "Studio setting, lack of photography, absence of iconic moments, non-street scene."
+	},
+	{
+	  "name": "Street Protest Rally",
+	  "prompt": "Document a street protest rally in a city. Depict a passionate crowd, banners, and signs as people come together to raise their voices for change.",
+	  "negative_prompt": "Quiet neighborhood, lack of protest, absence of rally, non-street scene."
+	},
+	{
+	  "name": "Cityscape at Dusk",
+	  "prompt": "Capture the enchanting beauty of a cityscape at dusk. Illustrate a scene with city lights, glowing skyscrapers, and the transition from day to night.",
+	  "negative_prompt": "Rural setting, lack of cityscape, absence of nighttime, non-urban scene."
+	},
+	{
+	  "name": "Street Vendors in Marrakech",
+	  "prompt": "Transport yourself to the vibrant streets of Marrakech. Depict a scene with colorful street vendors selling spices, textiles, and local crafts.",
+	  "negative_prompt": "Remote wilderness, lack of vendors, absence of Marrakech elements, non-street scene."
+	},
+	{
+	  "name": "Urban Park Skateboarding",
+	  "prompt": "Experience the energy of urban park skateboarding. Illustrate a scene with skateboarders mastering ramps, rails, and bowls in a city park.",
+	  "negative_prompt": "Natural landscape, lack of skateboarding, absence of urban park elements, non-urban scene."
+	},
+	{
+	  "name": "Street Musicians' Jam Session",
+	  "prompt": "Join a lively jam session with street musicians. Capture a scene with musicians playing instruments and creating music on a bustling street corner.",
+	  "negative_prompt": "Suburban setting, lack of musicians, absence of music, non-street scene."
+	},
+	{
+	  "name": "Street Art Gallery Opening",
+	  "prompt": "Celebrate the opening of a street art gallery. Depict a scene with art enthusiasts admiring graffiti and urban art in a gallery space.",
+	  "negative_prompt": "Countryside setting, lack of art gallery, absence of art enthusiasts, non-street scene."
+	},
+	{
+	  "name": "City Biking Commute",
+	  "prompt": "Embrace the eco-friendly city biking commute. Illustrate a scene with cyclists navigating urban streets, bike lanes, and commuting with style.",
+	  "negative_prompt": "Mountainous terrain, lack of biking, absence of bike lanes, non-urban scene."
+	},
+	{
+	  "name": "Urban Rooftop Party",
+	  "prompt": "Join an exclusive urban rooftop party. Capture a scene with a stylish crowd, city skyline views, and the vibrant atmosphere of a rooftop soirée.",
+	  "negative_prompt": "Remote wilderness, lack of party, absence of rooftop, non-urban scene."
+	},
+	{
+	  "name": "Street Fashion Boutique",
+	  "prompt": "Explore a trendy street fashion boutique. Depict a scene with mannequins, racks of stylish clothing, and shoppers browsing the latest urban fashion.",
+	  "negative_prompt": "Quiet suburb, lack of boutique, absence of fashion, non-street scene."
+	},
+	{
+	  "name": "Street Market Mosaic",
+	  "prompt": "Create a mosaic of a lively street market. Illustrate a scene with vendors, shoppers, colorful stalls, and a mosaic of urban life and culture.",
+	  "negative_prompt": "Desert setting, lack of market, absence of street elements, non-mosaic scene."
+	},
+	{
+	  "name": "City Transportation Hub",
+	  "prompt": "Capture the bustling activity of a city transportation hub. Depict a scene with buses, taxis, and commuters navigating the urban transit system.",
+	  "negative_prompt": "Remote countryside, lack of transportation hub, absence of urban transit, non-urban scene."
+	},
+	{
+	  "name": "Street Carnival Celebration",
+	  "prompt": "Join in the excitement of a street carnival celebration. Illustrate a scene with colorful floats, dancers, and crowds enjoying festive music and food.",
+	  "negative_prompt": "Quiet countryside, lack of carnival, absence of festivities, non-street scene."
+	},
+	{
+	  "name": "Street Mural Collaboration",
+	  "prompt": "Witness a collaborative street mural project. Depict artists working together to create a massive mural that beautifies an urban neighborhood.",
+	  "negative_prompt": "Remote wilderness, lack of mural project, absence of collaboration, non-urban scene."
+	},
+	{
+	  "name": "Urban Street Basketball Game",
+	  "prompt": "Experience the intensity of an urban street basketball game. Capture a scene with players competing on a neighborhood court, showcasing their skills.",
+	  "negative_prompt": "Natural landscape, lack of basketball, absence of street court, non-urban scene."
+	},
+	{
+	  "name": "Street Fashion Show Extravaganza",
+	  "prompt": "Attend a glamorous street fashion show extravaganza. Illustrate a scene with models strutting down an open-air runway in a bustling urban setting.",
+	  "negative_prompt": "Suburban setting, lack of fashion show, absence of models, non-urban scene."
+	},
+	{
+	  "name": "Street Food Truck Fiesta",
+	  "prompt": "Savor the flavors of a street food truck fiesta. Depict a scene with a variety of food trucks offering international cuisine to eager foodies.",
+	  "negative_prompt": "Rural countryside, lack of food trucks, absence of cuisine variety, non-street scene."
+	},
+	{
+	  "name": "City Street Art Scavenger Hunt",
+	  "prompt": "Embark on a city street art scavenger hunt. Capture the excitement of participants searching for and discovering hidden urban art treasures.",
+	  "negative_prompt": "Desert setting, lack of scavenger hunt, absence of art treasures, non-urban scene."
+	},
+	{
+	  "name": "Street Carnival Parade",
+	  "prompt": "Celebrate a vibrant street carnival parade. Illustrate a scene with colorful costumes, dancers, and marching bands parading through the city streets.",
+	  "negative_prompt": "Quiet suburb, lack of parade, absence of costumes, non-urban scene."
+	},
+	{
+	  "name": "Street Bazaar Browsing",
+	  "prompt": "Explore a lively street bazaar. Depict a scene with shoppers browsing stalls filled with unique and handcrafted items from around the world.",
+	  "negative_prompt": "Remote wilderness, lack of bazaar, absence of unique items, non-street scene."
+	},
+	{
+	  "name": "Urban Street Art Battle",
+	  "prompt": "Witness an epic street art battle between graffiti artists. Capture the creativity and competition as artists transform a wall into a masterpiece.",
+	  "negative_prompt": "Countryside setting, lack of art battle, absence of graffiti artists, non-urban scene."
+	},
+	{
+	  "name": "Street Jazz Performance",
+	  "prompt": "Enjoy a lively street jazz performance. Illustrate a scene with talented musicians playing jazz melodies to captivated passersby in a city square.",
+	  "negative_prompt": "Quiet village, lack of jazz performance, absence of musicians, non-urban scene."
+	}
+
+]

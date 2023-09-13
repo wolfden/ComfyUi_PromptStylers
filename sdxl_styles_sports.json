@@ -1,0 +1,158 @@
+[
+    {
+        "name": "none bySports",
+        "prompt": "",
+        "negative_prompt": ""
+    },
+	{
+	  "name": "Olympic Triumph",
+	  "prompt": "Celebrate the thrill of victory at the Olympic Games. Capture the triumphant moment of an athlete winning a gold medal with emotions running high.",
+	  "negative_prompt": "Defeat, despair, lack of athleticism, absence of victory."
+	},
+	{
+	  "name": "Extreme Adventure Sports",
+	  "prompt": "Plunge into the adrenaline-fueled world of extreme adventure sports. Illustrate the exhilaration of activities like skydiving, rock climbing, or extreme skiing.",
+	  "negative_prompt": "Everyday activities, lack of adrenaline, absence of adventure, non-extreme sports."
+	},
+	{
+	  "name": "Soccer World Cup Glory",
+	  "prompt": "Relive the excitement of the FIFA World Cup. Depict a euphoric moment when a soccer team scores a game-winning goal and the crowd goes wild.",
+	  "negative_prompt": "Soccer disappointment, lack of excitement, absence of soccer elements, non-sports scene."
+	},
+	{
+	  "name": "Basketball Slam Dunk",
+	  "prompt": "Capture the electrifying energy of a basketball game with a powerful slam dunk. Showcase the athleticism, precision, and excitement of this iconic basketball move.",
+	  "negative_prompt": "Basketball failure, lack of energy, absence of athleticism, non-basketball scene."
+	},
+	{
+	  "name": "Surfing the Perfect Wave",
+	  "prompt": "Ride the waves of a perfect surfing day. Illustrate a surfer's experience of catching the ideal wave, with the sun shining and the ocean glistening.",
+	  "negative_prompt": "Surfing wipeout, lack of waves, absence of ocean, non-surfing scene."
+	},
+	{
+	  "name": "Winter Olympics Figure Skating",
+	  "prompt": "Showcase the grace and elegance of figure skating at the Winter Olympics. Depict a flawless performance filled with intricate spins, jumps, and artistic expression.",
+	  "negative_prompt": "Figure skating mishap, lack of elegance, absence of figure skating elements, non-sports scene."
+	},
+	{
+	  "name": "Motorsport Grand Prix",
+	  "prompt": "Feel the speed and excitement of a motorsport Grand Prix. Capture the high-speed action, precision driving, and intense competition on the racetrack.",
+	  "negative_prompt": "Motorsport accident, lack of speed, absence of motorsport elements, non-racing scene."
+	},
+	{
+	  "name": "Tennis Championship Match",
+	  "prompt": "Experience the intensity of a tennis championship match. Illustrate a crucial point, with players giving their all in a battle of skill and determination.",
+	  "negative_prompt": "Tennis defeat, lack of intensity, absence of tennis elements, non-tennis scene."
+	},
+	{
+	  "name": "Martial Arts Mastery",
+	  "prompt": "Capture the discipline and mastery of martial arts. Depict a martial artist executing a precise and powerful technique with focus and inner strength.",
+	  "negative_prompt": "Martial arts failure, lack of discipline, absence of martial arts elements, non-martial arts scene."
+	},
+	{
+	  "name": "Equestrian Elegance",
+	  "prompt": "Embrace the elegance of equestrian sports. Illustrate a rider and horse in perfect harmony during a dressage performance, showcasing their grace and connection.",
+	  "negative_prompt": "Equestrian mishap, lack of elegance, absence of equestrian elements, non-equestrian scene."
+	},
+	{
+	  "name": "Baseball Grand Slam",
+	  "prompt": "Experience the excitement of a baseball grand slam. Illustrate a hitter connecting with the perfect pitch and sending the ball soaring into the stands.",
+	  "negative_prompt": "Baseball strikeout, lack of excitement, absence of baseball elements, non-baseball scene."
+	},
+	{
+	  "name": "Swimming World Record",
+	  "prompt": "Dive into the world of competitive swimming and set a world record. Capture the swimmer's determination, speed, and focus as they race toward victory.",
+	  "negative_prompt": "Swimming struggle, lack of determination, absence of swimming elements, non-swimming scene."
+	},
+	{
+	  "name": "Golf Masters Victory",
+	  "prompt": "Celebrate a golfer's triumph at the Masters Tournament. Illustrate the final putt sinking into the hole, sealing a historic victory on the green.",
+	  "negative_prompt": "Golf mishap, lack of triumph, absence of golf elements, non-golf scene."
+	},
+	{
+	  "name": "Rock Climbing Ascent",
+	  "prompt": "Embark on a rock climbing adventure. Depict a climber reaching the summit of a challenging peak, showcasing their strength, courage, and accomplishment.",
+	  "negative_prompt": "Rock climbing fall, lack of courage, absence of climbing elements, non-climbing scene."
+	},
+	{
+	  "name": "Gymnastics Perfect Routine",
+	  "prompt": "Experience the perfection of a gymnastics routine. Capture a gymnast executing flawless flips, twists, and poses on the balance beam with grace and precision.",
+	  "negative_prompt": "Gymnastics stumble, lack of grace, absence of gymnastics elements, non-gymnastics scene."
+	},
+	{
+	  "name": "Rugby World Cup Glory",
+	  "prompt": "Feel the intensity of a Rugby World Cup victory. Illustrate a team's joyous celebration after winning the championship, with camaraderie and pride on display.",
+	  "negative_prompt": "Rugby defeat, lack of intensity, absence of rugby elements, non-rugby scene."
+	},
+	{
+	  "name": "Skiing Downhill Thrill",
+	  "prompt": "Embrace the thrill of downhill skiing. Depict a skier descending a steep slope at high speed, carving through fresh powder with skill and exhilaration.",
+	  "negative_prompt": "Skiing mishap, lack of skill, absence of skiing elements, non-skiing scene."
+	},
+	{
+	  "name": "Cycling Tour de France Victory",
+	  "prompt": "Join the ranks of cycling champions at the Tour de France. Illustrate a cyclist crossing the finish line with arms raised in triumph after a grueling race.",
+	  "negative_prompt": "Cycling setback, lack of triumph, absence of cycling elements, non-cycling scene."
+	},
+	{
+	  "name": "Synchronized Swimming Beauty",
+	  "prompt": "Dive into the world of synchronized swimming. Capture the beauty and precision of synchronized movements in the water, as a team performs with perfect harmony.",
+	  "negative_prompt": "Synchronized swimming mishap, lack of beauty, absence of synchronized swimming elements, non-synchronized swimming scene."
+	},
+	{
+	  "name": "Archery Bullseye Accuracy",
+	  "prompt": "Master the art of archery with pinpoint accuracy. Illustrate an archer hitting the bullseye of a target, showcasing their focus and skill in the ancient sport.",
+	  "negative_prompt": "Archery miss, lack of accuracy, absence of archery elements, non-archery scene."
+	},
+	{
+	  "name": "Horse Racing Derby Finish",
+	  "prompt": "Feel the excitement of a horse racing derby's thrilling finish. Capture the intense sprint to the finish line with jockeys and horses giving their all.",
+	  "negative_prompt": "Horse racing setback, lack of excitement, absence of racing elements, non-horse racing scene."
+	},
+	{
+	  "name": "Triathlon Triumph",
+	  "prompt": "Experience the triumph of a triathlete crossing the finish line. Illustrate the endurance, determination, and accomplishment of completing a grueling race.",
+	  "negative_prompt": "Triathlon struggle, lack of determination, absence of triathlon elements, non-triathlon scene."
+	},
+	{
+	  "name": "Table Tennis Rally",
+	  "prompt": "Dive into the rapid-paced world of table tennis. Capture an intense rally between two skilled players, showcasing lightning-fast exchanges and precise shots.",
+	  "negative_prompt": "Table tennis mishap, lack of intensity, absence of table tennis elements, non-table tennis scene."
+	},
+	{
+	  "name": "Martial Arts Sparring",
+	  "prompt": "Witness the discipline and skill of martial arts sparring. Depict two martial artists engaged in a dynamic and controlled combat, displaying technique and respect.",
+	  "negative_prompt": "Martial arts mishap, lack of discipline, absence of martial arts elements, non-martial arts scene."
+	},
+	{
+	  "name": "Wrestling Championship Pin",
+	  "prompt": "Enter the wrestling arena and capture the moment of a championship pin. Illustrate the strength, strategy, and determination of a wrestler securing victory.",
+	  "negative_prompt": "Wrestling defeat, lack of strategy, absence of wrestling elements, non-wrestling scene."
+	},
+	{
+	  "name": "Badminton Smash",
+	  "prompt": "Experience the speed and precision of a badminton match. Depict a powerful smash shot, showcasing the athleticism and technique of the players on the court.",
+	  "negative_prompt": "Badminton mishap, lack of athleticism, absence of badminton elements, non-badminton scene."
+	},
+	{
+	  "name": "Fencing Duel",
+	  "prompt": "Step into the world of fencing and capture an intense duel between fencers. Illustrate the agility, skill, and strategic maneuvers in a high-stakes match.",
+	  "negative_prompt": "Fencing misstep, lack of agility, absence of fencing elements, non-fencing scene."
+	},
+	{
+	  "name": "Sailing Regatta Victory",
+	  "prompt": "Set sail in a regatta and celebrate a triumphant victory. Capture the sailors' elation as they cross the finish line, harnessing the wind and waves.",
+	  "negative_prompt": "Sailing setback, lack of elation, absence of sailing elements, non-sailing scene."
+	},
+	{
+	  "name": "Cricket Century Celebration",
+	  "prompt": "Witness the celebration of a century in cricket. Illustrate a batsman's jubilation after scoring 100 runs, with teammates applauding the achievement.",
+	  "negative_prompt": "Cricket disappointment, lack of jubilation, absence of cricket elements, non-cricket scene."
+	},
+	{
+	  "name": "Rhythmic Gymnastics Grace",
+	  "prompt": "Experience the grace and precision of rhythmic gymnastics. Capture a gymnast's elegant routine with apparatus, showcasing beauty and artistry in motion.",
+	  "negative_prompt": "Rhythmic gymnastics mishap, lack of grace, absence of gymnastics elements, non-gymnastics scene."
+	}
+
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "name": "none byFashion",
+        "prompt": "",
+        "negative_prompt": ""
+    },
+	{
+	  "name": "Elegant Evening Gowns",
+	  "prompt": "Illustrate the grace and sophistication of evening gowns worn by glamorous women at a high-society event. Showcase intricate details, luxurious fabrics, and a sense of opulence.",
+	  "negative_prompt": "Casual attire, simplicity, everyday fashion, lack of luxury."
+	},
+	{
+	  "name": "Urban Streetwear",
+	  "prompt": "Capture the vibrant energy of urban street fashion, with edgy and unconventional clothing styles. Emphasize bold colors, graffiti-inspired patterns, and a rebellious attitude.",
+	  "negative_prompt": "Formal wear, subdued colors, traditional clothing, lack of urban edge."
+	},
+	{
+	  "name": "Bohemian Festival Vibes",
+	  "prompt": "Create an artwork that embodies the free-spirited and carefree atmosphere of a music festival. Highlight flowing bohemian dresses, flower crowns, and a sense of communal celebration.",
+	  "negative_prompt": "Structured outfits, urban environment, lack of festival spirit, absence of bohemian elements."
+	},
+	{
+	  "name": "Timeless Vintage Fashion",
+	  "prompt": "Transport viewers to a bygone era with vintage fashion styles from the 1950s. Showcase classic silhouettes, retro accessories, and a nostalgic sense of elegance.",
+	  "negative_prompt": "Contemporary fashion, modern trends, absence of vintage elements, lack of nostalgia."
+	},
+	{
+	  "name": "High-Tech Futuristic Couture",
+	  "prompt": "Imagine a world of cutting-edge fashion in a futuristic society. Create avant-garde clothing designs that incorporate innovative technology, metallic accents, and a sense of otherworldly beauty.",
+	  "negative_prompt": "Traditional clothing, lack of technological elements, historical fashion, absence of futurism."
+	},
+	{
+	  "name": "Athletic Performance Gear",
+	  "prompt": "Design sleek and functional athletic wear that's optimized for peak performance. Emphasize ergonomic designs, breathable materials, and a sense of athleticism in motion.",
+	  "negative_prompt": "Casual clothing, lack of athletic features, everyday fashion, absence of performance elements."
+	},
+	{
+	  "name": "Couture Red Carpet Glamour",
+	  "prompt": "Capture the dazzling allure of celebrities walking the red carpet in high-fashion couture. Showcase intricate gowns, statement jewelry, and an atmosphere of Hollywood glamour.",
+	  "negative_prompt": "Everyday wear, casual attire, lack of red carpet ambiance, absence of couture elements."
+	},
+	{
+	  "name": "Minimalist Wardrobe Essentials",
+	  "prompt": "Create a visual representation of a minimalist wardrobe with timeless and versatile pieces. Emphasize clean lines, neutral colors, and a sense of simplicity and functionality.",
+	  "negative_prompt": "Excessive ornamentation, busy patterns, cluttered design, lack of minimalism."
+	},
+	{
+	  "name": "Sustainable Fashion Revolution",
+	  "prompt": "Illustrate a sustainable fashion movement with eco-friendly materials, zero-waste designs, and an emphasis on ethical production practices. Convey a sense of environmental responsibility and conscious consumerism.",
+	  "negative_prompt": "Fast fashion, environmental harm, unethical production, absence of sustainability elements."
+	},
+	{
+	  "name": "Cosplay Extravaganza",
+	  "prompt": "Celebrate the creativity of cosplay by depicting intricate and elaborate costumes inspired by pop culture icons. Showcase attention to detail, character accuracy, and a sense of fandom.",
+	  "negative_prompt": "Everyday fashion, lack of character portrayal, absence of cosplay elements, casual attire."
+	},
+	{
+	  "name": "Gothic Elegance",
+	  "prompt": "Embrace the dark and romantic aesthetic of Gothic fashion. Highlight intricate lace, rich velvets, and a sense of Victorian-era elegance.",
+	  "negative_prompt": "Bright colors, minimalistic design, lack of Gothic elements, absence of dark romance."
+	},
+	{
+	  "name": "Safari Adventure",
+	  "prompt": "Capture the spirit of a safari adventure with fashion inspired by the wilderness. Showcase earthy tones, utilitarian designs, and a sense of exploration.",
+	  "negative_prompt": "Urban fashion, bold colors, lack of safari elements, absence of adventure."
+	},
+	{
+	  "name": "Artistic Avant-Garde",
+	  "prompt": "Push the boundaries of fashion with avant-garde and artistic designs. Emphasize unconventional materials, surreal shapes, and a sense of artistic experimentation.",
+	  "negative_prompt": "Conventional fashion, traditional materials, lack of avant-garde elements, absence of artistic expression."
+	},
+	{
+	  "name": "Retro Futurism",
+	  "prompt": "Blend elements of the past and future in a retro-futuristic fashion concept. Showcase a fusion of vintage styles with futuristic elements, creating a sense of nostalgia and innovation.",
+	  "negative_prompt": "Contemporary fashion, lack of vintage and futuristic fusion, absence of nostalgia and innovation."
+	},
+	{
+	  "name": "Cultural Fusion",
+	  "prompt": "Explore the beauty of cultural fusion in fashion. Celebrate the mix of diverse cultural elements, patterns, and textiles to create a unique and harmonious style.",
+	  "negative_prompt": "Monocultural fashion, lack of cultural diversity, absence of fusion elements, cultural insensitivity."
+	},
+	{
+	  "name": "Sci-Fi Cyberpunk",
+	  "prompt": "Step into a dystopian future with sci-fi cyberpunk fashion. Highlight high-tech fabrics, neon accents, and a sense of rebellion against the system.",
+	  "negative_prompt": "Traditional clothing, lack of futuristic elements, absence of cyberpunk aesthetics, conformity."
+	},
+	{
+	  "name": "Rustic Country Charm",
+	  "prompt": "Embrace the rustic charm of countryside fashion. Showcase cozy knits, gingham prints, and a sense of down-to-earth comfort.",
+	  "negative_prompt": "Urban fashion, lack of rustic elements, absence of countryside charm, discomfort."
+	},
+	{
+	  "name": "Haute Couture Fantasy",
+	  "prompt": "Delve into the realm of fantasy with haute couture fashion. Create extravagant and whimsical designs that transport viewers to a fairy tale world.",
+	  "negative_prompt": "Everyday fashion, lack of fantasy elements, absence of haute couture extravagance, mundanity."
+	},
+	{
+	  "name": "Gender Fluidity",
+	  "prompt": "Celebrate the fluidity of gender through fashion. Showcase designs that break traditional gender norms, allowing individuals to express themselves freely.",
+	  "negative_prompt": "Gender-binary fashion, lack of gender fluidity, absence of non-conformity, rigid gender roles."
+	},
+	{
+	  "name": "Sustainable Boho Chic",
+	  "prompt": "Embrace the bohemian spirit with a sustainable twist. Showcase eco-friendly fabrics, upcycled accessories, and a sense of conscious boho chic.",
+	  "negative_prompt": "Non-sustainable fashion, lack of bohemian elements, absence of eco-consciousness, disregard for sustainability."
+	},
+	{
+	  "name": "Futuristic Space Fashion",
+	  "prompt": "Imagine fashion from the distant future, inspired by space exploration. Showcase sleek metallic materials, holographic accents, and a sense of cosmic adventure.",
+	  "negative_prompt": "Contemporary fashion, lack of futuristic elements, absence of cosmic inspiration, conventional design."
+	},
+	{
+	  "name": "Art Deco Glamour",
+	  "prompt": "Step back into the opulence of the Art Deco era with glamorous fashion. Highlight geometric patterns, luxurious materials, and a sense of the Roaring Twenties.",
+	  "negative_prompt": "Modern fashion, lack of Art Deco elements, absence of opulence, contemporary simplicity."
+	},
+	{
+	  "name": "Cottagecore Comfort",
+	  "prompt": "Embrace the coziness of cottagecore fashion. Showcase soft, natural fabrics, floral prints, and a sense of idyllic rural life.",
+	  "negative_prompt": "Urban fashion, lack of cottagecore elements, absence of coziness, disconnection from nature."
+	},
+	{
+	  "name": "Nautical Chic",
+	  "prompt": "Sail into the world of nautical chic fashion. Highlight navy and white color palettes, stripes, and a sense of maritime elegance.",
+	  "negative_prompt": "Landlocked fashion, lack of nautical elements, absence of maritime inspiration, disconnection from the sea."
+	},
+	{
+	  "name": "Glam Rock Rebellion",
+	  "prompt": "Recreate the rebellious spirit of glam rock through fashion. Showcase bold metallics, leather, and a sense of rock 'n' roll attitude.",
+	  "negative_prompt": "Conservative attire, lack of glam rock elements, absence of rebellion, conformist design."
+	},
+	{
+	  "name": "Tropical Paradise Escape",
+	  "prompt": "Transport viewers to a tropical paradise with fashion inspired by exotic destinations. Highlight vibrant prints, lightweight fabrics, and a sense of wanderlust.",
+	  "negative_prompt": "Cold climate fashion, lack of tropical elements, absence of exotic inspiration, design without a sense of escape."
+	},
+	{
+	  "name": "Cyberpunk Noir",
+	  "prompt": "Dive into a dark and futuristic cyberpunk world with a noir twist in fashion. Showcase moody cyberpunk aesthetics, dark cityscapes, and a sense of intrigue.",
+	  "negative_prompt": "Bright and cheerful designs, lack of cyberpunk elements, absence of noir elements, lack of intrigue."
+	},
+	{
+	  "name": "Artistic Street Graffiti",
+	  "prompt": "Merge street art and fashion with designs inspired by colorful graffiti. Highlight bold patterns, urban textures, and a sense of creative rebellion.",
+	  "negative_prompt": "Traditional fashion, lack of graffiti elements, absence of urban inspiration, design without a creative edge."
+	},
+	{
+	  "name": "Sustainable High Fashion",
+	  "prompt": "Elevate sustainability in high fashion. Showcase eco-friendly materials, zero-waste designs, and a sense of ethical elegance.",
+	  "negative_prompt": "Non-sustainable fashion, lack of sustainability elements, absence of ethical considerations, disregard for high fashion."
+	},
+	{
+	  "name": "Artistic Fusion",
+	  "prompt": "Celebrate the fusion of art and fashion in a visually compelling way. Showcase designs that incorporate elements of famous artworks into clothing, creating a wearable masterpiece.",
+	  "negative_prompt": "Non-artistic fashion, lack of artistic elements, absence of fusion, design without artistic inspiration."
+	}
+
+]
