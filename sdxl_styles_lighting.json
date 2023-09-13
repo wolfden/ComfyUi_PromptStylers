@@ -1,7 +1,7 @@
 [
     {
         "name": "none byLighting",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
     {

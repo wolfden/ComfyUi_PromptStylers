@@ -1,7 +1,7 @@
 [
     {
         "name": "none byOriginal",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
     {

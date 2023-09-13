@@ -1,7 +1,7 @@
 [
     {
         "name": "none byMythical Creatures",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
 	{

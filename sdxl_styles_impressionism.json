@@ -1,7 +1,7 @@
 [
     {
         "name": "none byImpressionism",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
 	{

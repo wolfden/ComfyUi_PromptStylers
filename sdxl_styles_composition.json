@@ -1,7 +1,7 @@
 [
     {
         "name": "none by Composition",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
     {

@@ -1,7 +1,7 @@
 [
     {
         "name": "none byGothicRevival",
-        "prompt": " {prompt} ",
+        "prompt": "",
         "negative_prompt": " "
     },
 	{

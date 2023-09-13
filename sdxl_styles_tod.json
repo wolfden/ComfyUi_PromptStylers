@@ -1,7 +1,7 @@
 [
     {
         "name": "none byTimeofDay",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
     {

@@ -1,7 +1,7 @@
 [
     {
         "name": "None byDepth",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
     {

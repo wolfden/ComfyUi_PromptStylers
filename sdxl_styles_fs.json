@@ -1,7 +1,7 @@
 [
     {
         "name": "none byFantasy-Settings",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
 	{

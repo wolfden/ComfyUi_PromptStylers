@@ -1,7 +1,7 @@
 [
     {
         "name": "none bySteamPunkRealism",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
 	{

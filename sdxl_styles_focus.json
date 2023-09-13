@@ -1,7 +1,7 @@
 [
     {
         "name": "none byFocus",
-        "prompt": "{prompt} ",
+        "prompt": "",
         "negative_prompt": ""
     },
     {

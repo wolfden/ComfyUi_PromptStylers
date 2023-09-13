@@ -1,7 +1,7 @@
 [
     {
         "name": "none bySurrealism",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
 	{

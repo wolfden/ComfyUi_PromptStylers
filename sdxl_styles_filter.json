@@ -1,7 +1,7 @@
 [
     {
         "name": "No option",
-        "prompt": "{prompt}",
+        "prompt": "",
         "negative_prompt": ""
     },
     {
