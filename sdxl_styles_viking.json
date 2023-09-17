@@ -1,0 +1,147 @@
+[
+    {
+        "name": "none byVikingArt",
+        "prompt": "",
+        "negative_prompt": ""
+    },
+	{
+        "name": "Viking_Knotwork",
+        "prompt": "Intricate Viking knotwork design, black and white, historical",
+        "negative_prompt": "modern, colorful, abstract, nature, portrait, contemporary"
+    },
+    {
+        "name": "Viking_Runic_Inscription",
+        "prompt": "Ancient Viking runic inscription, stone carving, runes",
+        "negative_prompt": "painting, calligraphy, abstract, modern, contemporary"
+    },
+    {
+        "name": "Viking_Animal_Motifs",
+        "prompt": "Viking-style animal motifs, wood carving, decorative",
+        "negative_prompt": "abstract, portrait, landscape, modern, colorful"
+    },
+    {
+        "name": "Viking_Ship_Design",
+        "prompt": "Viking longship design, detailed ship carving, historical",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Metalwork",
+        "prompt": "Viking metalwork art, jewelry, intricate craftsmanship",
+        "negative_prompt": "painting, abstract, modern, colorful, contemporary"
+    },
+    {
+        "name": "Viking_Warrior_Illustration",
+        "prompt": "Illustration of a Viking warrior in battle, historical",
+        "negative_prompt": "abstract, portrait, landscape, modern, contemporary"
+    },
+    {
+        "name": "Viking_Artifacts",
+        "prompt": "Viking artifacts, archaeological finds, historical",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Rune_Stone",
+        "prompt": "Viking rune stone carving, ancient inscriptions",
+        "negative_prompt": "painting, calligraphy, abstract, modern, colorful"
+    },
+    {
+        "name": "Viking_Shield_Design",
+        "prompt": "Viking shield design, intricate patterns, historical",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Mythology_Illustration",
+        "prompt": "Illustration of Viking mythology scene, gods, historical",
+        "negative_prompt": "abstract, portrait, landscape, modern, contemporary"
+    },
+    {
+        "name": "Viking_Jewelry",
+        "prompt": "Viking-style jewelry, brooches, necklaces, historical",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Axe_Engraving",
+        "prompt": "Engraving on a Viking axe, historical craftsmanship",
+        "negative_prompt": "painting, calligraphy, abstract, modern, colorful"
+    },
+    {
+        "name": "Viking_Runestone_Replica",
+        "prompt": "Replica of a Viking runestone, historical artwork",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Ship_Illustration",
+        "prompt": "Illustration of a Viking ship at sea, historical",
+        "negative_prompt": "abstract, portrait, landscape, modern, contemporary"
+    },
+    {
+        "name": "Viking_Wood_Carving",
+        "prompt": "Viking-style wood carving, decorative craftsmanship",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Warrior_Helmet",
+        "prompt": "Viking warrior helmet design, historical craftsmanship",
+        "negative_prompt": "painting, calligraphy, abstract, modern, colorful"
+    },
+    {
+        "name": "Viking_Dragon_Art",
+        "prompt": "Artwork featuring Viking dragon motifs, historical",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Boat_Decoration",
+        "prompt": "Viking boat decoration, ornate designs, historical",
+        "negative_prompt": "abstract, portrait, landscape, modern, contemporary"
+    },
+    {
+        "name": "Viking_Warrior_Sculpture",
+        "prompt": "Sculpture of a Viking warrior, historical depiction",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Textile_Pattern",
+        "prompt": "Viking-style textile pattern, intricate weaving, historical",
+        "negative_prompt": "painting, calligraphy, abstract, modern, colorful"
+    },
+    {
+        "name": "Viking_Raid_Illustration",
+        "prompt": "Illustration of a Viking raid scene, historical",
+        "negative_prompt": "abstract, portrait, landscape, modern, contemporary"
+    },
+    {
+        "name": "Viking_Warship_Painting",
+        "prompt": "Painting of a Viking warship, historical portrayal",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Artist_Sketch",
+        "prompt": "Sketch by a Viking artist, historical artwork",
+        "negative_prompt": "painting, calligraphy, abstract, modern, colorful"
+    },
+    {
+        "name": "Viking_Metalwork_Pattern",
+        "prompt": "Pattern from Viking metalwork, intricate designs",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Mythical_Beast",
+        "prompt": "Artwork featuring mythical beasts from Viking lore, historical",
+        "negative_prompt": "abstract, portrait, landscape, modern, contemporary"
+    },
+    {
+        "name": "Viking_Armor_Design",
+        "prompt": "Viking armor design, historical craftsmanship",
+        "negative_prompt": "painting, calligraphy, abstract, modern, colorful"
+    },
+    {
+        "name": "Viking_Ship_Model",
+        "prompt": "Model of a Viking ship, intricate craftsmanship, historical",
+        "negative_prompt": "abstract, modern, contemporary, nature, portrait"
+    },
+    {
+        "name": "Viking_Folk_Art",
+        "prompt": "Traditional Viking folk art, decorative motifs, historical",
+        "negative_prompt": "abstract, portrait, landscape, modern, contemporary"
+    }
+]

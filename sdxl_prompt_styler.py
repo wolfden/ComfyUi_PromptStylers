@@ -1645,13 +1645,206 @@ class SDXLPromptbyStreetArt:
 
         return positive_prompt, negative_prompt
 
+class SDXLPromptbyVikingArt:
+
+    def __init__(self):
+        pass
+
+    @classmethod
+    def INPUT_TYPES(self):
+        # Get current file's directory
+        p = os.path.dirname(os.path.realpath(__file__))
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles_viking.json')
+
+        # Read JSON from file
+        self.json_data = read_json_file(file_path)
+        # Retrieve styles from JSON data
+        styles = read_sdxl_styles(self.json_data)
+        
+        return {
+            "required": {
+                "text_positive": ("STRING", {"default": "", "multiline": True}),
+                "text_negative": ("STRING", {"default": "", "multiline": True}),
+                "style": ((styles), ),
+                "log_prompt": (["No", "Yes"], {"default":"No"}),
+            },
+        }
+
+    RETURN_TYPES = ('STRING','STRING',)
+    RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
+    FUNCTION = 'prompt_styler'
+    CATEGORY = 'Style Prompts'
+
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
+        # Process and combine prompts in templates
+        # The function replaces the positive prompt placeholder in the template,
+        # and combines the negative prompt with the template's negative prompt, if they exist.
+        positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
+ 
+        # If logging is enabled (log_prompt is set to "Yes"), 
+        # print the style, positive and negative text, and positive and negative prompts to the console
+        if log_prompt == "Yes":
+            print(f"style: {style}")
+            print(f"text_positive: {text_positive}")
+            print(f"text_negative: {text_negative}")
+            print(f"positive_prompt: {positive_prompt}")
+            print(f"negative_prompt: {negative_prompt}")
+
+        return positive_prompt, negative_prompt
+
+class SDXLPromptbyRomanticNationalismArt:
+
+    def __init__(self):
+        pass
+
+    @classmethod
+    def INPUT_TYPES(self):
+        # Get current file's directory
+        p = os.path.dirname(os.path.realpath(__file__))
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles_romanticnat.json')
+
+        # Read JSON from file
+        self.json_data = read_json_file(file_path)
+        # Retrieve styles from JSON data
+        styles = read_sdxl_styles(self.json_data)
+        
+        return {
+            "required": {
+                "text_positive": ("STRING", {"default": "", "multiline": True}),
+                "text_negative": ("STRING", {"default": "", "multiline": True}),
+                "style": ((styles), ),
+                "log_prompt": (["No", "Yes"], {"default":"No"}),
+            },
+        }
+
+    RETURN_TYPES = ('STRING','STRING',)
+    RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
+    FUNCTION = 'prompt_styler'
+    CATEGORY = 'Style Prompts'
+
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
+        # Process and combine prompts in templates
+        # The function replaces the positive prompt placeholder in the template,
+        # and combines the negative prompt with the template's negative prompt, if they exist.
+        positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
+ 
+        # If logging is enabled (log_prompt is set to "Yes"), 
+        # print the style, positive and negative text, and positive and negative prompts to the console
+        if log_prompt == "Yes":
+            print(f"style: {style}")
+            print(f"text_positive: {text_positive}")
+            print(f"text_negative: {text_negative}")
+            print(f"positive_prompt: {positive_prompt}")
+            print(f"negative_prompt: {negative_prompt}")
+
+        return positive_prompt, negative_prompt
+
+class SDXLPromptbyContemporaryNordicArt:
+
+    def __init__(self):
+        pass
+
+    @classmethod
+    def INPUT_TYPES(self):
+        # Get current file's directory
+        p = os.path.dirname(os.path.realpath(__file__))
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles_contempnordic.json')
+
+        # Read JSON from file
+        self.json_data = read_json_file(file_path)
+        # Retrieve styles from JSON data
+        styles = read_sdxl_styles(self.json_data)
+        
+        return {
+            "required": {
+                "text_positive": ("STRING", {"default": "", "multiline": True}),
+                "text_negative": ("STRING", {"default": "", "multiline": True}),
+                "style": ((styles), ),
+                "log_prompt": (["No", "Yes"], {"default":"No"}),
+            },
+        }
+
+    RETURN_TYPES = ('STRING','STRING',)
+    RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
+    FUNCTION = 'prompt_styler'
+    CATEGORY = 'Style Prompts'
+
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
+        # Process and combine prompts in templates
+        # The function replaces the positive prompt placeholder in the template,
+        # and combines the negative prompt with the template's negative prompt, if they exist.
+        positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
+ 
+        # If logging is enabled (log_prompt is set to "Yes"), 
+        # print the style, positive and negative text, and positive and negative prompts to the console
+        if log_prompt == "Yes":
+            print(f"style: {style}")
+            print(f"text_positive: {text_positive}")
+            print(f"text_negative: {text_negative}")
+            print(f"positive_prompt: {positive_prompt}")
+            print(f"negative_prompt: {negative_prompt}")
+
+        return positive_prompt, negative_prompt
+
+class SDXLPromptbyIcelandicContemporaryArt:
+
+    def __init__(self):
+        pass
+
+    @classmethod
+    def INPUT_TYPES(self):
+        # Get current file's directory
+        p = os.path.dirname(os.path.realpath(__file__))
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles_contempnordic.json')
+
+        # Read JSON from file
+        self.json_data = read_json_file(file_path)
+        # Retrieve styles from JSON data
+        styles = read_sdxl_styles(self.json_data)
+        
+        return {
+            "required": {
+                "text_positive": ("STRING", {"default": "", "multiline": True}),
+                "text_negative": ("STRING", {"default": "", "multiline": True}),
+                "style": ((styles), ),
+                "log_prompt": (["No", "Yes"], {"default":"No"}),
+            },
+        }
+
+    RETURN_TYPES = ('STRING','STRING',)
+    RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
+    FUNCTION = 'prompt_styler'
+    CATEGORY = 'Style Prompts'
+
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
+        # Process and combine prompts in templates
+        # The function replaces the positive prompt placeholder in the template,
+        # and combines the negative prompt with the template's negative prompt, if they exist.
+        positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
+ 
+        # If logging is enabled (log_prompt is set to "Yes"), 
+        # print the style, positive and negative text, and positive and negative prompts to the console
+        if log_prompt == "Yes":
+            print(f"style: {style}")
+            print(f"text_positive: {text_positive}")
+            print(f"text_negative: {text_negative}")
+            print(f"positive_prompt: {positive_prompt}")
+            print(f"negative_prompt: {negative_prompt}")
+
+        return positive_prompt, negative_prompt
+
 
 NODE_CLASS_MAPPINGS = {
     "SDXLPromptStylerAll": SDXLPromptStylerAll,
     "SDXLPromptStylerbyArtist": SDXLPromptStylerbyArtist,
     "SDXLPromptStylerbyCamera": SDXLPromptStylerbyCamera,
     "SDXLPromptbyCelticArt": SDXLPromptbyCelticArt,
-    "SDXLPromptStylerbyComposition": SDXLPromptStylerbyComposition,
+    "SDXLPromptStylerbyComposition": SDXLPromptStylerbyComposition,    
+    "SDXLPromptbyContemporaryNordicArt": SDXLPromptbyContemporaryNordicArt,
     "SDXLPromptStylerbyCyberpunkSurrealism": SDXLPromptStylerbyCyberpunkSurrealism,
     "SDXLPromptStylerbyDepth": SDXLPromptStylerbyDepth,
     "SDXLPromptStylerbyEnvironment": SDXLPromptStylerbyEnvironment,
@@ -1661,22 +1854,26 @@ NODE_CLASS_MAPPINGS = {
     "SDXLPromptStylerbyFocus": SDXLPromptStylerbyFocus,
     "SDXLPromptbyGothicRevival": SDXLPromptbyGothicRevival,
     "SDXLPromptStylerHorror": SDXLPromptStylerHorror,
+    
+    
     "SDXLPromptStylerbyImpressionism": SDXLPromptStylerbyImpressionism,
     "SDXLPromptbyIrishFolkArt": SDXLPromptbyIrishFolkArt,
     "SDXLPromptStylerbyLighting": SDXLPromptStylerbyLighting,
     "SDXLPromptStylerbyMileHigh": SDXLPromptStylerbyMileHigh,
     "SDXLPromptStylerMisc": SDXLPromptStylerMisc,
     "SDXLPromptStylerbyMood": SDXLPromptStylerbyMood,
-    "SDXLPromptStylerbyMythicalCreature": SDXLPromptStylerbyMythicalCreature,
+    "SDXLPromptStylerbyMythicalCreature": SDXLPromptStylerbyMythicalCreature,    
     "SDXLPromptStylerbyOriginal": SDXLPromptStylerbyOriginal,
-    "SDXLPromptStylerbyQuantumRealism": SDXLPromptStylerbyQuantumRealism,    
+    "SDXLPromptStylerbyQuantumRealism": SDXLPromptStylerbyQuantumRealism,
+    "SDXLPromptbyRomanticNationalismArt": SDXLPromptbyRomanticNationalismArt,
     "SDXLPromptbySportsArt": SDXLPromptbySportsArt,    
     "SDXLPromptStylerbySteamPunkRealism": SDXLPromptStylerbySteamPunkRealism,    
     "SDXLPromptbyStreetArt": SDXLPromptbyStreetArt,
     "SDXLPromptStylerbySubject": SDXLPromptStylerbySubject,
     "SDXLPromptStylerbySurrealism": SDXLPromptStylerbySurrealism,
     "SDXLPromptStylerbyTheme": SDXLPromptStylerbyTheme,
-    "SDXLPromptStylerbyTimeofDay": SDXLPromptStylerbyTimeofDay,    
+    "SDXLPromptStylerbyTimeofDay": SDXLPromptStylerbyTimeofDay,
+    "SDXLPromptbyVikingArt": SDXLPromptbyVikingArt,
     "SDXLPromptbyWildlifeArt": SDXLPromptbyWildlifeArt,    
     "SDXLPromptStylerbyWyvern": SDXLPromptStylerbyWyvern,
 }
@@ -1686,7 +1883,8 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "SDXLPromptStylerbyArtist": "Prompt Styler Artist",
     "SDXLPromptStylerbyCamera": "Prompt Styler Camera",
     "SDXLPromptbyCelticArt": "Prompt Styler Celtic Art",
-    "SDXLPromptStylerbyComposition": "Prompt Styler Composition",
+    "SDXLPromptStylerbyComposition": "Prompt Styler Composition",    
+    "SDXLPromptbyContemporaryNordicArt": "Prompt Styler Contemporary Nordic Art",
     "SDXLPromptStylerbyCyberpunkSurrealism": "Prompt Styler Cyberpunk Surrealism",
     "SDXLPromptStylerbyDepth": "Prompt Styler Depth",
     "SDXLPromptStylerbyEnvironment": "Prompt Styler Environment",
@@ -1696,22 +1894,26 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "SDXLPromptStylerbyFocus": "Prompt Styler Focus",
     "SDXLPromptbyGothicRevival": "Prompt Styler Gothic Revival",
     "SDXLPromptStylerHorror": "Prompt Styler Horror",
+    
+    
     "SDXLPromptStylerbyImpressionism": "Prompt Styler Impressionism",
     "SDXLPromptbyIrishFolkArt": "Prompt Styler Irish Folk Art",
     "SDXLPromptStylerbyLighting": "Prompt Styler Lighting",
     "SDXLPromptStylerbyMileHigh": "Prompt Styler MileHigh",
     "SDXLPromptStylerMisc": "Prompt Styler Misc",
     "SDXLPromptStylerbyMood": "Prompt Styler Mood",
-    "SDXLPromptStylerbyMythicalCreature": "Prompt Styler Mythical Creature",
+    "SDXLPromptStylerbyMythicalCreature": "Prompt Styler Mythical Creature",    
     "SDXLPromptStylerbyOriginal": "Prompt Styler Original",
     "SDXLPromptStylerbyQuantumRealism": "Prompt Styler Quantum Realism",
+    "SDXLPromptbyRomanticNationalismArt": "Prompt Styler Romantic Nationalism",
     "SDXLPromptbySportsArt": "Prompt Styler Sports",
     "SDXLPromptStylerbySteamPunkRealism": "Prompt Styler SteamPunk Realism",    
     "SDXLPromptbyStreetArt": "Prompt Styler Street",
     "SDXLPromptStylerbySubject": "Prompt Styler Subject",
     "SDXLPromptStylerbySurrealism": "Prompt Styler Surrealism",
     "SDXLPromptStylerbyTheme": "Prompt Styler Theme",
-    "SDXLPromptStylerbyTimeofDay": "Prompt Styler Time of Day",
+    "SDXLPromptStylerbyTimeofDay": "Prompt Styler Time of Day",    
+    "SDXLPromptbyVikingArt": "Prompt Styler Viking Art",
     "SDXLPromptbyWildlifeArt": "Prompt Styler Wildlife",
     "SDXLPromptStylerbyWyvern": "Prompt Styler Wyvern",
 }
