@@ -1,0 +1,152 @@
+[
+    {
+        "name": "none byRomanticNationalism ",
+        "prompt": "",
+        "negative_prompt": ""
+    },
+	{
+        "name": "Nationalist_Landscape_Painting",
+        "prompt": "Romantic Nationalist landscape painting, natural scenery",
+        "negative_prompt": "abstract, portrait, urban, modern, contemporary"
+    },
+    {
+        "name": "Folklore_Illustration",
+        "prompt": "Illustration of national folklore and legends, historical",
+        "negative_prompt": "abstract, portrait, abstract, modern, contemporary"
+    },
+    {
+        "name": "Historical_Epic_Painting",
+        "prompt": "Epic historical painting depicting national history",
+        "negative_prompt": "abstract, portrait, urban, modern, contemporary"
+    },
+    {
+        "name": "National_Costume_Design",
+        "prompt": "Design of traditional national costumes, historical",
+        "negative_prompt": "fashion, modern, contemporary, abstract"
+    },
+    {
+        "name": "Cultural_Heritage_Sculpture",
+        "prompt": "Sculpture celebrating cultural heritage, historical",
+        "negative_prompt": "abstract, modern, contemporary, urban"
+    },
+    {
+        "name": "Nationalist_Mural_Art",
+        "prompt": "Murals with themes of national identity, historical",
+        "negative_prompt": "abstract, graffiti, modern, contemporary"
+    },
+    {
+        "name": "Patriotic_Poetry",
+        "prompt": "Patriotic poetry celebrating national spirit and history",
+        "negative_prompt": "abstract, fiction, modern, contemporary"
+    },
+    {
+        "name": "Revolutionary_Hero_Portrait",
+        "prompt": "Portraits of revolutionary heroes, historical",
+        "negative_prompt": "abstract, modern, contemporary, portrait"
+    },
+    {
+        "name": "National_Literature_Illustration",
+        "prompt": "Illustrations for national literature and myths, historical",
+        "negative_prompt": "abstract, modern, contemporary, portrait"
+    },
+    {
+        "name": "Monumental_Historical_Mural",
+        "prompt": "Monumental mural depicting national history, historical",
+        "negative_prompt": "abstract, graffiti, modern, contemporary"
+    },
+    {
+        "name": "National_Landscape_Photography",
+        "prompt": "Photography capturing national landscapes and scenery",
+        "negative_prompt": "urban, portrait, modern, contemporary"
+    },
+    {
+        "name": "Cultural_Heritage_Preservation",
+        "prompt": "Artworks promoting the preservation of cultural heritage",
+        "negative_prompt": "abstract, modern, contemporary, urban"
+    },
+    {
+        "name": "Patriotic_Song_Composition",
+        "prompt": "Compositions of patriotic songs and anthems, historical",
+        "negative_prompt": "abstract, electronic, modern, contemporary"
+    },
+    {
+        "name": "National_Identity_Poetry",
+        "prompt": "Poetry exploring national identity and pride, historical",
+        "negative_prompt": "abstract, fiction, modern, contemporary"
+    },
+    {
+        "name": "Revivalist_Architecture",
+        "prompt": "Architecture inspired by historical national styles",
+        "negative_prompt": "modern, contemporary, urban, abstract"
+    },
+    {
+        "name": "Mythical_Hero_Statue",
+        "prompt": "Statues of mythical national heroes, historical",
+        "negative_prompt": "abstract, modern, contemporary, urban"
+    },
+    {
+        "name": "Folkloric_Dance_Performance",
+        "prompt": "Performances of traditional folkloric dances, historical",
+        "negative_prompt": "modern dance, contemporary, urban"
+    },
+    {
+        "name": "Historical_Narrative_Painting",
+        "prompt": "Narrative paintings of historical national events",
+        "negative_prompt": "abstract, portrait, modern, contemporary"
+    },
+    {
+        "name": "National_Flag_Design",
+        "prompt": "Designs for national flags and emblems, historical",
+        "negative_prompt": "modern, contemporary, abstract, urban"
+    },
+    {
+        "name": "Patriotic_Literary_Work",
+        "prompt": "Literary works with patriotic themes, historical",
+        "negative_prompt": "abstract, fiction, modern, contemporary"
+    },
+    {
+        "name": "Nationalist_Music_Composition",
+        "prompt": "Musical compositions celebrating national pride, historical",
+        "negative_prompt": "abstract, electronic, modern, contemporary"
+    },
+    {
+        "name": "Revolutionary_Battle_Scene",
+        "prompt": "Paintings depicting revolutionary battle scenes, historical",
+        "negative_prompt": "abstract, portrait, modern, contemporary"
+    },
+    {
+        "name": "National_Folk_Music_Performance",
+        "prompt": "Live performances of traditional national folk music",
+        "negative_prompt": "modern music, contemporary, urban"
+    },
+    {
+        "name": "Cultural_History_Book_Illustration",
+        "prompt": "Illustrations for books on cultural history, historical",
+        "negative_prompt": "abstract, modern, contemporary, portrait"
+    },
+    {
+        "name": "National_Heroic_Poem",
+        "prompt": "Epic poems celebrating national heroes, historical",
+        "negative_prompt": "abstract, fiction, modern, contemporary"
+    },
+    {
+        "name": "Cultural_Revival_Sculpture",
+        "prompt": "Sculpture commemorating cultural revival, historical",
+        "negative_prompt": "abstract, modern, contemporary, portrait"
+    },
+    {
+        "name": "National_Landscape_Painting",
+        "prompt": "Paintings of iconic national landscapes, historical",
+        "negative_prompt": "abstract, portrait, modern, contemporary"
+    },
+    {
+        "name": "Traditional_Folk_Art_Design",
+        "prompt": "Designs inspired by traditional national folk art, historical",
+        "negative_prompt": "modern, contemporary, abstract, urban"
+    },
+    {
+        "name": "Patriotic_Poet_Portrait",
+        "prompt": "Portraits of patriotic poets, historical",
+        "negative_prompt": "abstract, modern, contemporary, portrait"
+    }
+]

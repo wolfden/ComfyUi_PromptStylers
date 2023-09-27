@@ -1,0 +1,148 @@
+[
+    
+	{
+        "name": "none byIcelandicContemporaryArt",
+        "prompt": "",
+        "negative_prompt": ""
+    },
+	{
+        "name": "Icelandic_Landscape_Painting",
+        "prompt": "Paintings of Icelandic landscapes, modern interpretation",
+        "negative_prompt": "abstract, non-landscape, traditional painting"
+    },
+    {
+        "name": "Contemporary_Icelandic_Sculpture",
+        "prompt": "Modern sculpture influenced by Icelandic culture and nature",
+        "negative_prompt": "traditional, non-Icelandic, uninspired sculpture"
+    },
+    {
+        "name": "Icelandic_Arctic_Photography",
+        "prompt": "Photography capturing the beauty of Icelandic Arctic regions",
+        "negative_prompt": "urban, portrait, abstract, colorful photography"
+    },
+    {
+        "name": "Icelandic_Mythology_Illustration",
+        "prompt": "Illustrations of Icelandic mythology and folklore, contemporary",
+        "negative_prompt": "abstract, non-mythological, traditional illustrations"
+    },
+    {
+        "name": "Contemporary_Icelandic_Textile_Art",
+        "prompt": "Modern textile art with Icelandic patterns and materials",
+        "negative_prompt": "traditional, non-Icelandic, plain textile work"
+    },
+    {
+        "name": "Icelandic_Digital_Art",
+        "prompt": "Digital art creations with Icelandic themes, modern",
+        "negative_prompt": "traditional, non-digital, outdated art"
+    },
+    {
+        "name": "Contemporary_Icelandic_Fashion",
+        "prompt": "Fashion design influenced by Icelandic aesthetics, trendy",
+        "negative_prompt": "outdated, impractical, non-stylish fashion"
+    },
+    {
+        "name": "Icelandic_Urban_Street_Art",
+        "prompt": "Street art in Icelandic urban settings, contemporary",
+        "negative_prompt": "traditional, rural, uninspired street art"
+    },
+    {
+        "name": "Icelandic_Contemporary_Portraiture",
+        "prompt": "Modern portraiture with Icelandic subjects and styles",
+        "negative_prompt": "abstract, non-representational, traditional portraits"
+    },
+    {
+        "name": "Icelandic_Ecological_Art",
+        "prompt": "Artworks addressing ecological issues in Iceland, contemporary",
+        "negative_prompt": "unrelated topics, non-environmental art"
+    },
+    {
+        "name": "Contemporary_Icelandic_Light_Installation",
+        "prompt": "Light installations inspired by Icelandic light phenomena",
+        "negative_prompt": "dark, gloomy, traditional lighting installations"
+    },
+    {
+        "name": "Icelandic_Design_Furniture",
+        "prompt": "Furniture design with Icelandic aesthetics, functional",
+        "negative_prompt": "ornate, impractical, non-functional designs"
+    },
+    {
+        "name": "Icelandic_Contemporary_Poetry",
+        "prompt": "Modern poetry exploring Icelandic themes and culture",
+        "negative_prompt": "abstract, non-poetic, traditional poetry"
+    },
+    {
+        "name": "Contemporary_Icelandic_Installation",
+        "prompt": "Contemporary art installations with Icelandic influences",
+        "negative_prompt": "traditional, non-Icelandic, outdated installations"
+    },
+    {
+        "name": "Icelandic_Wildlife_Photography",
+        "prompt": "Photography highlighting Icelandic wildlife in a modern context",
+        "negative_prompt": "studio, non-wildlife, non-Icelandic animals"
+    },
+    {
+        "name": "Icelandic_Contemporary_Calligraphy",
+        "prompt": "Modern calligraphy with Icelandic scripts and themes",
+        "negative_prompt": "traditional, non-Icelandic, non-calligraphic"
+    },
+    {
+        "name": "Contemporary_Icelandic_Digital_Illustration",
+        "prompt": "Digital illustrations showcasing Icelandic elements, modern",
+        "negative_prompt": "traditional, non-digital, outdated art"
+    },
+    {
+        "name": "Icelandic_Street_Photography",
+        "prompt": "Street photography capturing Icelandic urban scenes, contemporary",
+        "negative_prompt": "studio, non-urban, non-Icelandic settings"
+    },
+    {
+        "name": "Contemporary_Icelandic_Graffiti_Art",
+        "prompt": "Graffiti art with Icelandic themes in an urban context",
+        "negative_prompt": "non-urban, non-Icelandic, uninspired street art"
+    },
+    {
+        "name": "Icelandic_Contemporary_Abstract_Sculpture",
+        "prompt": "Modern abstract sculpture with Icelandic inspiration",
+        "negative_prompt": "realistic, non-abstract, traditional sculpture"
+    },
+    {
+        "name": "Icelandic_Contemporary_Painting",
+        "prompt": "Contemporary painting reflecting Icelandic aesthetics",
+        "negative_prompt": "traditional, non-contemporary, outdated art"
+    },
+    {
+        "name": "Icelandic_Mixed_Media_Art",
+        "prompt": "Mixed media art incorporating Icelandic elements, modern",
+        "negative_prompt": "traditional, non-mixed media, outdated art"
+    },
+    {
+        "name": "Contemporary_Icelandic_Abstract_Photography",
+        "prompt": "Abstract photography with Icelandic influences, modern",
+        "negative_prompt": "realistic, non-abstract, traditional photography"
+    },
+    {
+        "name": "Icelandic_Contemporary_Architectural_Design",
+        "prompt": "Architectural designs with Icelandic aesthetics, functional",
+        "negative_prompt": "ornate, impractical, non-functional designs"
+    },
+    {
+        "name": "Icelandic_Contemporary_Collage",
+        "prompt": "Modern collage art incorporating Icelandic elements",
+        "negative_prompt": "traditional, non-Icelandic, basic collages"
+    },
+    {
+        "name": "Contemporary_Icelandic_Folk_Music_Performance",
+        "prompt": "Live performances of contemporary Icelandic folk music",
+        "negative_prompt": "modern music, non-folk, non-Icelandic"
+    },
+    {
+        "name": "Icelandic_Contemporary_Literature_Illustration",
+        "prompt": "Illustrations for contemporary Icelandic literature",
+        "negative_prompt": "traditional, non-Icelandic, outdated illustrations"
+    },
+    {
+        "name": "Icelandic_Contemporary_Artist_Sketch",
+        "prompt": "Sketches by contemporary Icelandic artists",
+        "negative_prompt": "traditional, non-Icelandic, outdated sketches"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "name": "none byContemporaryNordicArt",
+        "prompt": "",
+        "negative_prompt": ""
+    },
+	{
+        "name": "Nordic_Minimalism",
+        "prompt": "Minimalist artworks with Nordic influences, clean lines",
+        "negative_prompt": "abstract, maximalism, chaotic, vibrant, busy"
+    },
+    {
+        "name": "Arctic_Landscape_Photography",
+        "prompt": "Photography capturing the beauty of Arctic landscapes",
+        "negative_prompt": "urban, portrait, abstract, colorful, busy"
+    },
+    {
+        "name": "Nordic_Abstract_Expressionism",
+        "prompt": "Abstract expressionist artworks with Nordic themes",
+        "negative_prompt": "realistic, representational, traditional, neat"
+    },
+    {
+        "name": "Nordic_Urban_Street_Art",
+        "prompt": "Street art in Nordic urban settings, contemporary",
+        "negative_prompt": "traditional, rural, neat, minimalistic"
+    },
+    {
+        "name": "Contemporary_Sámi_Art",
+        "prompt": "Artwork reflecting Sámi culture and identity, modern",
+        "negative_prompt": "abstract, unrelated themes, traditional"
+    },
+    {
+        "name": "Nordic_Nature_Installation",
+        "prompt": "Installation art using elements from Nordic nature",
+        "negative_prompt": "urban, indoor, abstract, artificial materials"
+    },
+    {
+        "name": "Nordic_Design_Furniture",
+        "prompt": "Furniture design with Nordic aesthetics, functional",
+        "negative_prompt": "ornate, antique, non-functional, impractical"
+    },
+    {
+        "name": "Contemporary_Nordic_Portraiture",
+        "prompt": "Modern portraiture with Nordic subjects and styles",
+        "negative_prompt": "abstract, non-representational, traditional"
+    },
+    {
+        "name": "Nordic_Light_Installation",
+        "prompt": "Light installations inspired by Nordic light phenomena",
+        "negative_prompt": "dark, gloomy, traditional lighting"
+    },
+    {
+        "name": "Nordic_Ceramics_Design",
+        "prompt": "Contemporary ceramic art with Nordic influences",
+        "negative_prompt": "traditional, plain, non-creative ceramics"
+    },
+    {
+        "name": "Nordic_Digital_Illustration",
+        "prompt": "Digital illustrations showcasing Nordic themes, modern",
+        "negative_prompt": "traditional, hand-drawn, non-digital"
+    },
+    {
+        "name": "Contemporary_Nordic_Fashion",
+        "prompt": "Fashion design influenced by Nordic style, trendy",
+        "negative_prompt": "outdated, impractical, non-stylish fashion"
+    },
+    {
+        "name": "Nordic_Urban_Landscape_Painting",
+        "prompt": "Paintings of Nordic urban landscapes, contemporary",
+        "negative_prompt": "traditional, rural, non-urban settings"
+    },
+    {
+        "name": "Nordic_Textile_Art",
+        "prompt": "Textile art incorporating Nordic patterns and fabrics",
+        "negative_prompt": "plain, non-Nordic, basic textile work"
+    },
+    {
+        "name": "Contemporary_Nordic_Sculpture",
+        "prompt": "Modern sculpture with Nordic themes and materials",
+        "negative_prompt": "traditional, non-Nordic, uninspired sculpture"
+    },
+    {
+        "name": "Nordic_Wildlife_Photography",
+        "prompt": "Photography highlighting Nordic wildlife in a modern context",
+        "negative_prompt": "studio, non-wildlife, non-Nordic animals"
+    },
+    {
+        "name": "Nordic_Ecological_Art",
+        "prompt": "Artworks addressing ecological issues in the Nordic region",
+        "negative_prompt": "unrelated topics, non-environmental art"
+    },
+    {
+        "name": "Contemporary_Nordic_Installation",
+        "prompt": "Contemporary art installations with Nordic influences",
+        "negative_prompt": "traditional, non-Nordic, outdated installations"
+    },
+    {
+        "name": "Nordic_Film_Art",
+        "prompt": "Film and video art inspired by Nordic culture and landscapes",
+        "negative_prompt": "unrelated themes, non-Nordic films"
+    },
+    {
+        "name": "Nordic_Architectural_Design",
+        "prompt": "Architectural designs with Nordic aesthetics, functional",
+        "negative_prompt": "ornate, impractical, non-functional designs"
+    },
+    {
+        "name": "Contemporary_Nordic_Collage",
+        "prompt": "Modern collage art incorporating Nordic elements",
+        "negative_prompt": "traditional, non-Nordic, basic collages"
+    },
+    {
+        "name": "Nordic_Abstract_Photography",
+        "prompt": "Abstract photography with Nordic influences, contemporary",
+        "negative_prompt": "realistic, non-abstract, traditional photography"
+    },
+    {
+        "name": "Nordic_Contemporary_Calligraphy",
+        "prompt": "Modern calligraphy with Nordic scripts and themes",
+        "negative_prompt": "traditional, non-Nordic, non-calligraphic"
+    },
+    {
+        "name": "Contemporary_Nordic_Digital_Art",
+        "prompt": "Digital art creations showcasing Nordic elements, modern",
+        "negative_prompt": "traditional, non-digital, outdated art"
+    },
+    {
+        "name": "Nordic_Street_Photography",
+        "prompt": "Street photography capturing Nordic urban scenes, contemporary",
+        "negative_prompt": "studio, non-urban, non-Nordic settings"
+    },
+    {
+        "name": "Nordic_Graffiti_Art",
+        "prompt": "Graffiti art with Nordic themes in an urban context",
+        "negative_prompt": "non-urban, non-Nordic, traditional art"
+    },
+    {
+        "name": "Contemporary_Nordic_Abstract_Sculpture",
+        "prompt": "Modern abstract sculpture with Nordic inspiration",
+        "negative_prompt": "realistic, non-abstract, traditional sculpture"
+    },
+    {
+        "name": "Nordic_Contemporary_Painting",
+        "prompt": "Contemporary painting reflecting Nordic aesthetics",
+        "negative_prompt": "traditional, non-contemporary, outdated art"
+    },
+    {
+        "name": "Nordic_Mixed_Media_Art",
+        "prompt": "Mixed media art incorporating Nordic elements, modern",
+        "negative_prompt": "traditional, non-mixed media, outdated art"
+    }
+]
