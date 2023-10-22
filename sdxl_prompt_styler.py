@@ -32,30 +32,25 @@ def read_sdxl_styles(json_data):
 
 def read_sdxl_templates_replace_and_combine(json_data, template_name, positive_prompt, negative_prompt):
     try:
-        # Check if json_data is a list
         if not isinstance(json_data, list):
             raise ValueError("Invalid JSON data. Expected a list of templates.")
-            
+
         for template in json_data:
-            # Check if template contains 'name' and 'prompt' fields
             if 'name' not in template or 'prompt' not in template:
-                raise ValueError("Invalid template. Missing 'name' or 'prompt' field.")
-            
-            # Replace {prompt} in the matching template
+                continue  # Skip templates that are missing 'name' or 'prompt' fields
+
             if template['name'] == template_name:
                 positive_prompt = template['prompt'].replace('{prompt}', positive_prompt)
-                
+
                 json_negative_prompt = template.get('negative_prompt', "")
                 if negative_prompt:
                     negative_prompt = f"{json_negative_prompt}, {negative_prompt}" if json_negative_prompt else negative_prompt
                 else:
                     negative_prompt = json_negative_prompt
-                
+
                 return positive_prompt, negative_prompt
 
-        # If function hasn't returned yet, no matching template was found
         raise ValueError(f"No template found with name '{template_name}'.")
-
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
