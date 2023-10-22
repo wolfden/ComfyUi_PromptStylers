@@ -1,31 +1,27 @@
+from abc import ABC, abstractmethod
 import json
 import os
+import random
+import time
 
 def read_json_file(file_path):
     try:
-        # Open file, load JSON content into python dictionary, and return it.
         with open(file_path, 'r', encoding="utf8", errors='ignore') as file:
             json_data = json.load(file)
             return json_data
     except Exception as e:
         print(f"An error occurred: {str(e)}")
 
-
 def read_sdxl_styles(json_data):
-    # Check that data is a list
     if not isinstance(json_data, list):
         print("Error: input data must be a list")
         return None
 
     names = []
 
-    # Iterate over each item in the data list
     for item in json_data:
-        # Check that the item is a dictionary
         if isinstance(item, dict):
-            # Check that 'name' is a key in the dictionary
             if 'name' in item:
-                # Append the value of 'name' to the names list
                 names.append(item['name'])
 
     return names
@@ -109,17 +105,12 @@ class SDXLPromptStylerAll:
         pass
 
     @classmethod
-    def INPUT_TYPES(self):
-        # Get current file's directory
+    def INPUT_TYPES(cls):
         p = os.path.dirname(os.path.realpath(__file__))
-        # Construct 'sdxl_styles.json' path
         file_path = os.path.join(p, 'sdxl_styles_all.json')
+        cls.json_data = read_json_file(file_path)
+        styles = read_sdxl_styles(cls.json_data)
 
-        # Read JSON from file
-        self.json_data = read_json_file(file_path)
-        # Retrieve styles from JSON data
-        styles = read_sdxl_styles(self.json_data)
-        
         return {
             "required": {
                 "text_positive": ("STRING", {"default": "", "multiline": True}),
@@ -127,21 +118,40 @@ class SDXLPromptStylerAll:
                 "style": ((styles), ),
                 "log_prompt": (["No", "Yes"], {"default":"No"}),
             },
+            "optional": {
+                "auto_select_style": ("BOOLEAN", {"default": False}),
+                "auto_refresh": ("BOOLEAN", {"default": False}),
+            }
         }
+    
+    @classmethod
+    def IS_CHANGED(cls, text, autorefresh):
+        # Force re-evaluation of the node
+        if auto_refresh == "True":
+            return float("NaN")
 
+    def get_prompt(self, text: str, autorefresh: str) -> tuple[str]:
+        prompt = self.generate_prompt(text)
+        print(f"Prompt: {prompt}")
+
+        return (prompt,)
+
+    @abstractmethod
+    def generate_prompt(self, text: str) -> str:
+        ...
+
+    
     RETURN_TYPES = ('STRING','STRING',)
     RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
     FUNCTION = 'prompt_styler'
     CATEGORY = 'Style Prompts'
 
-    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
-        # Process and combine prompts in templates
-        # The function replaces the positive prompt placeholder in the template,
-        # and combines the negative prompt with the template's negative prompt, if they exist.
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt, auto_select_style=False, auto_refresh=False):
+        if auto_select_style or auto_refresh:
+            style = random.choice([template['name'] for template in self.json_data])
+
         positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
- 
-        # If logging is enabled (log_prompt is set to "Yes"), 
-        # print the style, positive and negative text, and positive and negative prompts to the console
+
         if log_prompt == "Yes":
             print(f"style: {style}")
             print(f"text_positive: {text_positive}")
@@ -149,8 +159,15 @@ class SDXLPromptStylerAll:
             print(f"positive_prompt: {positive_prompt}")
             print(f"negative_prompt: {negative_prompt}")
 
-        return positive_prompt, negative_prompt
+        # Introduce a timestamp-based change using the current time
+        current_time = int(time.time())
+        dummy_change = current_time
 
+        return positive_prompt, negative_prompt, dummy_change
+        dummy_change = current_time
+
+        return positive_prompt, negative_prompt, dummy_change   # Include dummy_change to trigger execution
+        
 
 class SDXLPromptStylerHorror:
 
@@ -1791,16 +1808,11 @@ class SDXLPromptbyIcelandicContemporaryArt:
 
     @classmethod
     def INPUT_TYPES(self):
-        # Get current file's directory
-        p = os.path.dirname(os.path.realpath(__file__))
-        # Construct 'sdxl_styles.json' path
-        file_path = os.path.join(p, 'sdxl_styles_contempnordic.json')
-
-        # Read JSON from file
+        p = os.path.dirname(os.path.realpath(__file))
+        file_path = os.path.join(p, 'sdxl_styles_all.json')
         self.json_data = read_json_file(file_path)
-        # Retrieve styles from JSON data
         styles = read_sdxl_styles(self.json_data)
-        
+
         return {
             "required": {
                 "text_positive": ("STRING", {"default": "", "multiline": True}),
@@ -1808,21 +1820,24 @@ class SDXLPromptbyIcelandicContemporaryArt:
                 "style": ((styles), ),
                 "log_prompt": (["No", "Yes"], {"default":"No"}),
             },
+            "optional": {
+                "random_style": ("BOOLEAN", {"default": False}),  # Add a boolean parameter for random style selection
+            }
         }
-
+    
     RETURN_TYPES = ('STRING','STRING',)
     RETURN_NAMES = ('positive_prompt_text_g','negative_prompt_text_g',)
     FUNCTION = 'prompt_styler'
     CATEGORY = 'Style Prompts'
 
-    def prompt_styler(self, text_positive, text_negative, style, log_prompt):
-        # Process and combine prompts in templates
-        # The function replaces the positive prompt placeholder in the template,
-        # and combines the negative prompt with the template's negative prompt, if they exist.
+    def prompt_styler(self, text_positive, text_negative, style, log_prompt, random_style=False):
+        if random_style:
+            style = random.choice([template['name'] for template in self.json_data])
+        else:
+            style = text_positive  # You can change this to the appropriate parameter
+
         positive_prompt, negative_prompt = read_sdxl_templates_replace_and_combine(self.json_data, style, text_positive, text_negative)
- 
-        # If logging is enabled (log_prompt is set to "Yes"), 
-        # print the style, positive and negative text, and positive and negative prompts to the console
+
         if log_prompt == "Yes":
             print(f"style: {style}")
             print(f"text_positive: {text_positive}")
@@ -1830,7 +1845,8 @@ class SDXLPromptbyIcelandicContemporaryArt:
             print(f"positive_prompt: {positive_prompt}")
             print(f"negative_prompt: {negative_prompt}")
 
-        return positive_prompt, negative_prompt
+        return positive_prompt, negative_prompt, style
+
 
 
 NODE_CLASS_MAPPINGS = {
