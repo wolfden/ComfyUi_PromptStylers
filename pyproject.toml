@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_promptstylers"
+description = "These custom nodes provide a variety of customized prompt stylers based on [a/twri/SDXL Prompt Styler](https://github.com/twri/sdxl_prompt_styler)."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/wolfden/ComfyUi_PromptStylers"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUi_PromptStylers"
+Icon = ""
